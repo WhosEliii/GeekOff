@@ -20,6 +20,7 @@
 			0,
 			0
 		],
+		"shouldBop": true,
 		"scale": 1,
 		"id": "pico",
 		"flipX": false
@@ -114,10 +115,10 @@
 				-14
 			],
 			"prefix": "pico miss left",
-			"animType": "framelabel",
 			"flipX": false,
-			"looped": false,
+			"animType": "framelabel",
 			"name": "singLEFTmiss",
+			"looped": false,
 			"flipY": false,
 			"assetPath": "shared:characters/geekpico/playable",
 			"frameRate": 24
@@ -128,10 +129,10 @@
 				-10
 			],
 			"prefix": "pico miss down",
-			"animType": "framelabel",
 			"flipX": false,
-			"looped": false,
+			"animType": "framelabel",
 			"name": "singDOWNmiss",
+			"looped": false,
 			"flipY": false,
 			"assetPath": "shared:characters/geekpico/playable",
 			"frameRate": 24
@@ -142,10 +143,10 @@
 				-19
 			],
 			"prefix": "pico miss up",
-			"animType": "framelabel",
 			"flipX": false,
-			"looped": false,
+			"animType": "framelabel",
 			"name": "singUPmiss",
+			"looped": false,
 			"flipY": false,
 			"assetPath": "shared:characters/geekpico/playable",
 			"frameRate": 24
@@ -156,29 +157,26 @@
 				-15
 			],
 			"prefix": "pico miss right",
-			"animType": "framelabel",
 			"flipX": false,
-			"looped": false,
+			"animType": "framelabel",
 			"name": "singRIGHTmiss",
+			"looped": false,
 			"flipY": false,
 			"assetPath": "shared:characters/geekpico/playable",
 			"frameRate": 24
 		},
 		{
 			"offsets": [
-				1,
-				3
-			],
-			"frameIndices": [
-				54
+				-235,
+				46
 			],
 			"prefix": "pico shot dead",
-			"flipX": false,
 			"animType": "framelabel",
-			"name": "firstDeath",
+			"flipX": false,
 			"looped": false,
+			"name": "die",
 			"flipY": false,
-			"assetPath": "shared:characters/geekpico/killdie",
+			"assetPath": "shared:characters/geekpico/pico killdie",
 			"frameRate": 24
 		},
 		{
@@ -187,10 +185,10 @@
 				3
 			],
 			"prefix": "pico speed dance",
-			"flipX": false,
 			"animType": "framelabel",
-			"name": "wSpeed",
+			"flipX": false,
 			"looped": false,
+			"name": "wSpeed",
 			"flipY": false,
 			"assetPath": "shared:characters/geekpico/basic",
 			"frameRate": 24
@@ -201,10 +199,10 @@
 				0
 			],
 			"prefix": "pico hey",
-			"flipX": false,
 			"animType": "framelabel",
-			"name": "hey",
+			"flipX": false,
 			"looped": false,
+			"name": "hey",
 			"flipY": false,
 			"assetPath": "shared:characters/geekpico/basic",
 			"frameRate": 24
@@ -215,10 +213,10 @@
 				-1
 			],
 			"prefix": "pico grab blunt",
-			"flipX": false,
 			"animType": "framelabel",
-			"name": "match",
+			"flipX": false,
 			"looped": false,
+			"name": "match",
 			"flipY": false,
 			"assetPath": "shared:characters/geekpico/basic",
 			"frameRate": 24
@@ -229,10 +227,10 @@
 				0
 			],
 			"prefix": "pico burp",
-			"flipX": false,
 			"animType": "framelabel",
-			"name": "burpuh",
+			"flipX": false,
 			"looped": false,
+			"name": "burpuh",
 			"flipY": false,
 			"assetPath": "shared:characters/geekpico/playable",
 			"frameRate": 24
@@ -243,10 +241,10 @@
 				3
 			],
 			"prefix": "pico burleft",
-			"flipX": false,
 			"animType": "framelabel",
-			"name": "leftburp",
+			"flipX": false,
 			"looped": false,
+			"name": "leftburp",
 			"flipY": false,
 			"assetPath": "shared:characters/geekpico/playable",
 			"frameRate": 24
@@ -257,10 +255,10 @@
 				15
 			],
 			"prefix": "pico alt right",
-			"flipX": false,
 			"animType": "framelabel",
-			"name": "singRIGHT-alt",
+			"flipX": false,
 			"looped": false,
+			"name": "singRIGHT-alt",
 			"flipY": false,
 			"assetPath": "shared:characters/geekpico/basic",
 			"frameRate": 24
@@ -271,10 +269,10 @@
 				13
 			],
 			"prefix": "pico alt down",
-			"flipX": false,
 			"animType": "framelabel",
-			"name": "singDOWN-alt",
+			"flipX": false,
 			"looped": false,
+			"name": "singDOWN-alt",
 			"flipY": false,
 			"assetPath": "shared:characters/geekpico/basic",
 			"frameRate": 24
@@ -285,10 +283,10 @@
 				-17
 			],
 			"prefix": "pico alt up",
-			"flipX": false,
 			"animType": "framelabel",
-			"name": "singUP-alt",
+			"flipX": false,
 			"looped": false,
+			"name": "singUP-alt",
 			"flipY": false,
 			"assetPath": "shared:characters/geekpico/basic",
 			"frameRate": 24
@@ -299,10 +297,10 @@
 				-12
 			],
 			"prefix": "pico alt left",
-			"flipX": false,
 			"animType": "framelabel",
-			"name": "singLEFT-alt",
+			"flipX": false,
 			"looped": false,
+			"name": "singLEFT-alt",
 			"flipY": false,
 			"assetPath": "shared:characters/geekpico/basic",
 			"frameRate": 24
