@@ -1,0 +1,26 @@
+import funkin.modding.module.Module;
+import flixel.FlxG;
+import funkin.ui.title.TitleState;
+import funkin.Conductor;
+
+class FreakyMenu extends Module 
+{
+    public function new()
+    {
+        super("freakymenu");
+    }
+
+    public function onUpdate(event:StateChangeScriptEvent)
+    {
+        super.onUpdate(event);
+
+        if (Std.isOfType(FlxG.state, TitleState) && TitleState.initialized)
+        {
+            FlxG.state.gfDance.y = 15;
+            FlxG.state.gfDance.x = 700;
+            FlxG.state.logoBl.x = 14;
+            FlxG.state.logoBl.y = 12;
+            FlxG.state.members[2].loadGraphic(Paths.image("bg"));
+        }
+    }
+}

@@ -1,0 +1,1626 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="geek_nene.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="nene back to normal0000" x="0" y="0" width="495" height="679"/>
+	<SubTexture name="nene back to normal0001" x="0" y="0" width="495" height="679"/>
+	<SubTexture name="nene back to normal0002" x="495" y="0" width="495" height="679"/>
+	<SubTexture name="nene back to normal0003" x="495" y="0" width="495" height="679"/>
+	<SubTexture name="nene back to normal0004" x="990" y="0" width="495" height="679"/>
+	<SubTexture name="nene back to normal0005" x="990" y="0" width="495" height="679"/>
+	<SubTexture name="nene back to normal0006" x="990" y="0" width="495" height="679"/>
+	<SubTexture name="nene back to normal0007" x="990" y="0" width="495" height="679"/>
+	<SubTexture name="nene back to normal0008" x="990" y="0" width="495" height="679"/>
+	<SubTexture name="nene back to normal0009" x="990" y="0" width="495" height="679"/>
+	<SubTexture name="nene damn0000" x="1485" y="0" width="487" height="673"/>
+	<SubTexture name="nene damn0001" x="1485" y="0" width="487" height="673"/>
+	<SubTexture name="nene damn0002" x="1485" y="0" width="487" height="673"/>
+	<SubTexture name="nene damn0003" x="1972" y="0" width="487" height="673"/>
+	<SubTexture name="nene damn0004" x="1972" y="0" width="487" height="673"/>
+	<SubTexture name="nene damn0005" x="2459" y="0" width="487" height="673"/>
+	<SubTexture name="nene damn0006" x="2459" y="0" width="487" height="673"/>
+	<SubTexture name="nene damn0007" x="2946" y="0" width="487" height="673"/>
+	<SubTexture name="nene damn0008" x="2946" y="0" width="487" height="673"/>
+	<SubTexture name="nene damn0009" x="3433" y="0" width="487" height="673"/>
+	<SubTexture name="nene damn0010" x="3433" y="0" width="487" height="673"/>
+	<SubTexture name="nene damn0011" x="3920" y="0" width="487" height="673"/>
+	<SubTexture name="nene damn0012" x="3920" y="0" width="487" height="673"/>
+	<SubTexture name="nene damn0013" x="4407" y="0" width="487" height="673"/>
+	<SubTexture name="nene damn0014" x="4407" y="0" width="487" height="673"/>
+	<SubTexture name="nene damn0015" x="4894" y="0" width="487" height="673"/>
+	<SubTexture name="nene damn0016" x="4894" y="0" width="487" height="673"/>
+	<SubTexture name="nene damn0017" x="5381" y="0" width="487" height="673"/>
+	<SubTexture name="nene damn0018" x="5381" y="0" width="487" height="673"/>
+	<SubTexture name="nene damn0019" x="5868" y="0" width="487" height="673"/>
+	<SubTexture name="nene damn0020" x="5868" y="0" width="487" height="673"/>
+	<SubTexture name="nene damn0021" x="6355" y="0" width="487" height="673"/>
+	<SubTexture name="nene damn0022" x="6355" y="0" width="487" height="673"/>
+	<SubTexture name="nene damn0023" x="6355" y="0" width="487" height="673"/>
+	<SubTexture name="nene damn0024" x="6355" y="0" width="487" height="673"/>
+	<SubTexture name="nene damn0025" x="6355" y="0" width="487" height="673"/>
+	<SubTexture name="nene damn0026" x="6355" y="0" width="487" height="673"/>
+	<SubTexture name="nene damn0027" x="6355" y="0" width="487" height="673"/>
+	<SubTexture name="nene damn0028" x="6355" y="0" width="487" height="673"/>
+	<SubTexture name="nene damn0029" x="6355" y="0" width="487" height="673"/>
+	<SubTexture name="nene damn0030" x="6355" y="0" width="487" height="673"/>
+	<SubTexture name="nene damn0031" x="6355" y="0" width="487" height="673"/>
+	<SubTexture name="nene damn0032" x="6355" y="0" width="487" height="673"/>
+	<SubTexture name="nene damn0033" x="6355" y="0" width="487" height="673"/>
+	<SubTexture name="nene damn0034" x="6355" y="0" width="487" height="673"/>
+	<SubTexture name="nene damn0035" x="6355" y="0" width="487" height="673"/>
+	<SubTexture name="nene damn0036" x="6355" y="0" width="487" height="673"/>
+	<SubTexture name="nene damn0037" x="6355" y="0" width="487" height="673"/>
+	<SubTexture name="nene damn0038" x="6355" y="0" width="487" height="673"/>
+	<SubTexture name="nene damn0039" x="6355" y="0" width="487" height="673"/>
+	<SubTexture name="nene damn0040" x="6842" y="0" width="487" height="673"/>
+	<SubTexture name="nene damn0041" x="6842" y="0" width="487" height="673"/>
+	<SubTexture name="nene damn0042" x="7329" y="0" width="487" height="673"/>
+	<SubTexture name="nene damn0043" x="7329" y="0" width="487" height="673"/>
+	<SubTexture name="nene damn0044" x="0" y="679" width="487" height="673"/>
+	<SubTexture name="nene damn0045" x="0" y="679" width="487" height="673"/>
+	<SubTexture name="nene damn0046" x="487" y="679" width="487" height="673"/>
+	<SubTexture name="nene damn0047" x="487" y="679" width="487" height="673"/>
+	<SubTexture name="nene damn0048" x="974" y="679" width="487" height="673"/>
+	<SubTexture name="nene damn0049" x="974" y="679" width="487" height="673"/>
+	<SubTexture name="nene damn0050" x="974" y="679" width="487" height="673"/>
+	<SubTexture name="nene damn0051" x="974" y="679" width="487" height="673"/>
+	<SubTexture name="nene damn0052" x="0" y="679" width="487" height="673"/>
+	<SubTexture name="nene damn0053" x="0" y="679" width="487" height="673"/>
+	<SubTexture name="nene damn0054" x="1461" y="679" width="487" height="673"/>
+	<SubTexture name="nene damn0055" x="1461" y="679" width="487" height="673"/>
+	<SubTexture name="nene damn0056" x="974" y="679" width="487" height="673"/>
+	<SubTexture name="nene damn0057" x="974" y="679" width="487" height="673"/>
+	<SubTexture name="nene damn0058" x="974" y="679" width="487" height="673"/>
+	<SubTexture name="nene damn0059" x="974" y="679" width="487" height="673"/>
+	<SubTexture name="nene damn0060" x="0" y="679" width="487" height="673"/>
+	<SubTexture name="nene damn0061" x="0" y="679" width="487" height="673"/>
+	<SubTexture name="nene damn0062" x="1461" y="679" width="487" height="673"/>
+	<SubTexture name="nene damn0063" x="1461" y="679" width="487" height="673"/>
+	<SubTexture name="nene damn0064" x="974" y="679" width="487" height="673"/>
+	<SubTexture name="nene damn0065" x="974" y="679" width="487" height="673"/>
+	<SubTexture name="nene damn0066" x="974" y="679" width="487" height="673"/>
+	<SubTexture name="nene damn0067" x="974" y="679" width="487" height="673"/>
+	<SubTexture name="nene damn0068" x="1948" y="679" width="487" height="673"/>
+	<SubTexture name="nene damn0069" x="1948" y="679" width="487" height="673"/>
+	<SubTexture name="nene damn0070" x="974" y="679" width="487" height="673"/>
+	<SubTexture name="nene damn0071" x="974" y="679" width="487" height="673"/>
+	<SubTexture name="nene damn0072" x="974" y="679" width="487" height="673"/>
+	<SubTexture name="nene damn0073" x="974" y="679" width="487" height="673"/>
+	<SubTexture name="nene damn0074" x="974" y="679" width="487" height="673"/>
+	<SubTexture name="nene damn0075" x="974" y="679" width="487" height="673"/>
+	<SubTexture name="nene damn0076" x="974" y="679" width="487" height="673"/>
+	<SubTexture name="nene damn0077" x="974" y="679" width="487" height="673"/>
+	<SubTexture name="nene damn0078" x="974" y="679" width="487" height="673"/>
+	<SubTexture name="nene damn0079" x="974" y="679" width="487" height="673"/>
+	<SubTexture name="nene damn0080" x="974" y="679" width="487" height="673"/>
+	<SubTexture name="nene damn0081" x="974" y="679" width="487" height="673"/>
+	<SubTexture name="nene damn0082" x="974" y="679" width="487" height="673"/>
+	<SubTexture name="nene damn0083" x="974" y="679" width="487" height="673"/>
+	<SubTexture name="nene damn0084" x="974" y="679" width="487" height="673"/>
+	<SubTexture name="nene damn0085" x="974" y="679" width="487" height="673"/>
+	<SubTexture name="nene damn0086" x="974" y="679" width="487" height="673"/>
+	<SubTexture name="nene damn0087" x="974" y="679" width="487" height="673"/>
+	<SubTexture name="nene damn0088" x="974" y="679" width="487" height="673"/>
+	<SubTexture name="nene damn0089" x="974" y="679" width="487" height="673"/>
+	<SubTexture name="nene damn0090" x="974" y="679" width="487" height="673"/>
+	<SubTexture name="nene damn0091" x="974" y="679" width="487" height="673"/>
+	<SubTexture name="nene damn0092" x="974" y="679" width="487" height="673"/>
+	<SubTexture name="nene damn0093" x="974" y="679" width="487" height="673"/>
+	<SubTexture name="nene damn0094" x="974" y="679" width="487" height="673"/>
+	<SubTexture name="nene damn0095" x="974" y="679" width="487" height="673"/>
+	<SubTexture name="nene damn0096" x="974" y="679" width="487" height="673"/>
+	<SubTexture name="nene damn0097" x="974" y="679" width="487" height="673"/>
+	<SubTexture name="nene damn0098" x="974" y="679" width="487" height="673"/>
+	<SubTexture name="nene damn0099" x="974" y="679" width="487" height="673"/>
+	<SubTexture name="nene damn0100" x="974" y="679" width="487" height="673"/>
+	<SubTexture name="nene damn0101" x="974" y="679" width="487" height="673"/>
+	<SubTexture name="nene held up knife0000" x="2435" y="679" width="381" height="670"/>
+	<SubTexture name="nene held up knife0001" x="2816" y="679" width="381" height="670"/>
+	<SubTexture name="nene held up knife0002" x="2816" y="679" width="381" height="670"/>
+	<SubTexture name="nene held up knife0003" x="3197" y="679" width="381" height="670"/>
+	<SubTexture name="nene held up knife0004" x="3197" y="679" width="381" height="670"/>
+	<SubTexture name="nene held up knife0005" x="3578" y="679" width="381" height="670"/>
+	<SubTexture name="nene held up knife0006" x="3578" y="679" width="381" height="670"/>
+	<SubTexture name="nene held up knife0007" x="3959" y="679" width="381" height="670"/>
+	<SubTexture name="nene held up knife0008" x="3959" y="679" width="381" height="670"/>
+	<SubTexture name="nene held up knife0009" x="3959" y="679" width="381" height="670"/>
+	<SubTexture name="nene hey0000" x="4340" y="679" width="695" height="691"/>
+	<SubTexture name="nene hey0001" x="4340" y="679" width="695" height="691"/>
+	<SubTexture name="nene hey0002" x="5035" y="679" width="695" height="691"/>
+	<SubTexture name="nene hey0003" x="5035" y="679" width="695" height="691"/>
+	<SubTexture name="nene hey0004" x="5730" y="679" width="695" height="691"/>
+	<SubTexture name="nene hey0005" x="5730" y="679" width="695" height="691"/>
+	<SubTexture name="nene hey0006" x="6425" y="679" width="695" height="691"/>
+	<SubTexture name="nene hey0007" x="6425" y="679" width="695" height="691"/>
+	<SubTexture name="nene hey0008" x="6425" y="679" width="695" height="691"/>
+	<SubTexture name="nene hey0009" x="6425" y="679" width="695" height="691"/>
+	<SubTexture name="nene hey0010" x="6425" y="679" width="695" height="691"/>
+	<SubTexture name="nene hey0011" x="6425" y="679" width="695" height="691"/>
+	<SubTexture name="nene hey0012" x="6425" y="679" width="695" height="691"/>
+	<SubTexture name="nene hey0013" x="6425" y="679" width="695" height="691"/>
+	<SubTexture name="nene hey0014" x="6425" y="679" width="695" height="691"/>
+	<SubTexture name="nene hey0015" x="6425" y="679" width="695" height="691"/>
+	<SubTexture name="nene hey0016" x="6425" y="679" width="695" height="691"/>
+	<SubTexture name="nene hey0017" x="6425" y="679" width="695" height="691"/>
+	<SubTexture name="nene hey0018" x="6425" y="679" width="695" height="691"/>
+	<SubTexture name="nene hey0019" x="6425" y="679" width="695" height="691"/>
+	<SubTexture name="nene hey0020" x="6425" y="679" width="695" height="691"/>
+	<SubTexture name="nene hey0021" x="6425" y="679" width="695" height="691"/>
+	<SubTexture name="nene hey0022" x="6425" y="679" width="695" height="691"/>
+	<SubTexture name="nene hey0023" x="6425" y="679" width="695" height="691"/>
+	<SubTexture name="nene hey0024" x="6425" y="679" width="695" height="691"/>
+	<SubTexture name="nene hey0025" x="6425" y="679" width="695" height="691"/>
+	<SubTexture name="nene hey0026" x="6425" y="679" width="695" height="691"/>
+	<SubTexture name="nene hey0027" x="6425" y="679" width="695" height="691"/>
+	<SubTexture name="nene hey0028" x="6425" y="679" width="695" height="691"/>
+	<SubTexture name="nene hey0029" x="6425" y="679" width="695" height="691"/>
+	<SubTexture name="nene hey0030" x="6425" y="679" width="695" height="691"/>
+	<SubTexture name="nene hey0031" x="6425" y="679" width="695" height="691"/>
+	<SubTexture name="nene hey0032" x="6425" y="679" width="695" height="691"/>
+	<SubTexture name="nene hey0033" x="6425" y="679" width="695" height="691"/>
+	<SubTexture name="nene hey0034" x="6425" y="679" width="695" height="691"/>
+	<SubTexture name="nene hey0035" x="6425" y="679" width="695" height="691"/>
+	<SubTexture name="nene hey0036" x="6425" y="679" width="695" height="691"/>
+	<SubTexture name="nene hey0037" x="6425" y="679" width="695" height="691"/>
+	<SubTexture name="nene hey0038" x="6425" y="679" width="695" height="691"/>
+	<SubTexture name="nene hey0039" x="6425" y="679" width="695" height="691"/>
+	<SubTexture name="nene hey0040" x="6425" y="679" width="695" height="691"/>
+	<SubTexture name="nene hey0041" x="6425" y="679" width="695" height="691"/>
+	<SubTexture name="nene hey0042" x="6425" y="679" width="695" height="691"/>
+	<SubTexture name="nene hey0043" x="6425" y="679" width="695" height="691"/>
+	<SubTexture name="nene hey0044" x="6425" y="679" width="695" height="691"/>
+	<SubTexture name="nene hey0045" x="6425" y="679" width="695" height="691"/>
+	<SubTexture name="nene hey0046" x="6425" y="679" width="695" height="691"/>
+	<SubTexture name="nene hey0047" x="6425" y="679" width="695" height="691"/>
+	<SubTexture name="nene idle0000" x="7120" y="679" width="487" height="671"/>
+	<SubTexture name="nene idle0001" x="7120" y="679" width="487" height="671"/>
+	<SubTexture name="nene idle0002" x="7607" y="679" width="487" height="671"/>
+	<SubTexture name="nene idle0003" x="7607" y="679" width="487" height="671"/>
+	<SubTexture name="nene kill pico0000" x="0" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0001" x="0" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0002" x="429" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0003" x="429" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0004" x="858" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0005" x="858" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0006" x="858" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0007" x="858" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0008" x="858" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0009" x="858" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0010" x="858" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0011" x="858" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0012" x="858" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0013" x="858" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0014" x="858" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0015" x="858" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0016" x="858" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0017" x="858" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0018" x="858" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0019" x="858" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0020" x="1287" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0021" x="1287" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0022" x="1716" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0023" x="1716" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0024" x="2145" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0025" x="2145" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0026" x="2574" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0027" x="2574" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0028" x="3003" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0029" x="3003" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0030" x="3003" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0031" x="3003" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0032" x="3003" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0033" x="2145" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0034" x="2145" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0035" x="2574" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0036" x="2574" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0037" x="3003" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0038" x="3003" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0039" x="3003" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0040" x="3003" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0041" x="3003" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0042" x="3003" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0043" x="2145" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0044" x="2145" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0045" x="2574" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0046" x="2574" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0047" x="3003" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0048" x="3003" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0049" x="3003" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0050" x="3003" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0051" x="3003" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0052" x="2145" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0053" x="2145" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0054" x="2574" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0055" x="2574" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0056" x="3003" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0057" x="3003" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0058" x="3003" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0059" x="3432" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0060" x="3432" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0061" x="3861" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0062" x="4290" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0063" x="4290" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0064" x="4719" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0065" x="5148" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0066" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0067" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0068" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0069" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0070" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0071" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0072" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0073" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0074" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0075" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0076" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0077" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0078" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0079" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0080" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0081" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0082" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0083" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0084" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0085" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0086" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0087" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0088" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0089" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0090" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0091" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0092" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0093" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0094" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0095" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0096" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0097" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0098" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0099" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0100" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0101" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0102" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0103" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0104" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0105" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0106" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0107" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0108" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0109" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0110" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0111" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0112" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0113" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0114" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0115" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0116" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0117" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0118" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0119" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0120" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0121" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0122" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0123" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0124" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0125" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0126" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0127" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0128" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0129" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0130" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0131" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0132" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0133" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0134" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0135" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0136" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0137" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0138" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0139" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0140" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0141" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0142" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0143" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0144" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0145" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0146" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0147" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0148" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0149" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0150" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0151" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0152" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0153" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0154" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0155" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0156" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0157" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0158" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0159" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0160" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0161" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0162" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0163" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0164" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0165" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0166" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0167" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0168" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0169" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0170" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0171" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0172" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0173" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0174" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0175" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0176" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0177" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0178" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0179" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0180" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0181" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0182" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0183" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0184" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0185" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0186" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0187" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0188" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0189" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0190" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0191" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0192" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0193" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0194" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0195" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0196" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0197" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0198" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0199" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0200" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0201" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0202" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0203" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0204" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0205" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0206" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0207" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0208" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0209" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0210" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0211" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0212" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0213" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0214" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0215" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0216" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0217" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0218" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0219" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0220" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0221" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0222" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0223" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0224" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0225" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0226" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0227" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0228" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0229" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0230" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0231" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0232" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0233" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0234" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0235" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0236" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0237" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0238" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0239" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0240" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0241" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0242" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0243" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0244" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0245" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0246" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0247" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0248" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0249" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0250" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0251" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0252" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0253" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0254" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0255" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0256" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0257" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0258" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0259" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0260" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0261" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0262" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0263" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0264" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0265" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0266" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0267" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0268" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0269" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0270" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0271" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0272" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0273" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0274" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0275" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0276" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0277" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0278" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0279" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0280" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0281" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0282" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0283" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0284" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0285" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0286" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0287" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0288" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0289" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0290" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0291" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0292" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0293" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0294" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0295" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0296" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0297" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0298" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0299" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0300" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0301" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0302" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0303" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0304" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0305" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0306" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0307" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0308" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0309" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0310" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0311" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0312" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0313" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0314" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0315" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0316" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0317" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0318" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0319" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0320" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0321" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0322" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0323" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0324" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0325" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0326" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0327" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0328" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0329" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0330" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0331" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0332" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0333" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0334" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0335" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0336" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0337" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0338" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0339" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0340" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0341" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0342" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0343" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0344" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0345" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0346" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0347" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0348" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0349" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0350" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0351" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0352" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0353" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0354" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0355" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0356" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0357" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0358" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0359" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0360" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0361" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0362" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0363" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0364" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0365" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0366" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0367" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0368" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0369" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0370" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0371" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0372" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0373" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0374" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0375" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0376" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0377" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0378" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0379" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0380" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0381" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0382" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0383" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0384" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0385" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0386" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0387" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0388" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0389" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0390" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0391" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0392" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0393" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0394" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0395" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0396" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0397" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0398" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0399" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0400" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0401" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0402" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0403" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0404" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0405" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0406" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0407" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0408" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0409" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0410" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0411" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0412" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0413" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0414" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0415" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0416" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0417" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0418" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0419" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0420" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0421" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0422" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0423" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0424" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0425" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0426" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0427" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0428" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0429" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0430" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0431" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0432" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0433" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0434" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0435" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0436" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0437" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0438" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0439" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0440" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0441" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0442" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0443" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0444" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0445" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0446" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0447" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0448" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0449" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0450" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0451" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0452" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0453" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0454" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0455" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0456" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0457" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0458" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0459" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0460" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0461" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0462" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0463" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0464" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0465" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0466" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0467" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0468" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0469" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0470" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0471" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0472" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0473" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0474" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0475" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0476" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0477" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0478" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0479" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0480" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0481" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0482" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0483" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0484" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0485" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0486" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0487" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0488" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0489" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0490" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0491" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0492" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0493" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0494" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0495" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0496" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0497" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0498" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0499" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0500" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0501" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0502" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0503" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0504" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0505" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0506" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0507" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0508" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0509" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0510" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0511" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0512" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0513" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0514" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0515" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0516" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0517" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0518" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0519" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0520" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0521" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0522" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0523" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0524" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0525" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0526" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0527" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0528" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0529" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0530" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0531" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0532" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0533" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0534" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0535" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0536" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0537" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0538" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0539" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0540" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0541" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0542" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0543" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0544" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0545" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0546" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0547" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0548" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0549" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0550" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0551" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0552" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0553" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0554" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0555" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0556" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0557" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0558" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0559" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0560" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0561" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0562" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0563" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0564" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0565" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0566" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0567" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0568" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0569" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0570" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0571" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0572" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0573" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0574" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0575" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0576" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0577" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0578" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0579" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0580" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0581" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0582" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0583" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0584" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0585" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0586" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0587" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0588" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0589" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0590" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0591" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0592" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0593" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0594" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0595" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0596" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0597" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0598" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0599" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0600" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0601" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0602" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0603" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0604" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0605" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0606" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0607" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0608" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0609" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0610" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0611" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0612" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0613" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0614" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0615" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0616" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0617" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0618" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0619" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0620" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0621" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0622" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0623" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0624" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0625" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0626" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0627" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0628" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0629" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0630" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0631" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0632" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0633" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0634" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0635" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0636" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0637" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0638" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0639" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0640" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0641" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0642" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0643" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0644" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0645" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0646" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0647" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0648" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0649" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0650" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0651" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0652" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0653" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0654" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0655" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0656" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0657" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0658" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0659" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0660" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0661" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0662" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0663" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0664" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0665" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0666" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0667" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0668" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0669" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0670" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0671" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0672" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0673" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0674" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0675" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0676" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0677" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0678" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0679" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0680" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0681" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0682" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0683" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0684" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0685" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0686" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0687" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0688" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0689" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0690" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0691" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0692" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0693" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0694" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0695" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0696" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0697" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0698" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0699" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0700" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0701" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0702" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0703" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0704" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0705" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0706" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0707" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0708" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0709" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0710" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0711" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0712" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0713" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0714" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0715" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0716" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0717" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0718" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0719" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0720" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0721" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0722" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0723" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0724" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0725" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0726" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0727" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0728" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0729" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0730" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0731" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0732" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0733" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0734" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0735" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0736" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0737" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0738" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0739" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0740" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0741" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0742" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0743" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0744" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0745" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0746" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0747" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0748" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0749" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0750" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0751" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0752" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0753" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0754" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0755" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0756" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0757" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0758" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0759" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0760" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0761" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0762" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0763" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0764" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0765" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0766" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0767" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0768" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0769" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0770" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0771" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0772" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0773" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0774" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0775" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0776" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0777" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0778" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0779" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0780" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0781" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0782" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0783" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0784" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0785" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0786" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0787" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0788" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0789" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0790" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0791" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0792" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0793" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0794" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0795" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0796" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0797" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0798" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0799" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0800" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0801" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0802" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0803" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0804" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0805" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0806" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0807" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0808" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0809" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0810" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0811" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0812" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0813" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0814" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0815" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0816" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0817" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0818" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0819" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0820" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0821" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0822" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0823" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0824" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0825" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0826" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0827" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0828" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0829" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0830" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0831" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0832" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0833" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0834" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0835" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0836" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0837" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0838" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0839" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0840" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0841" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0842" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0843" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0844" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0845" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0846" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0847" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0848" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0849" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0850" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0851" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0852" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0853" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0854" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0855" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0856" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0857" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0858" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0859" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0860" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0861" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0862" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0863" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0864" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0865" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0866" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0867" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0868" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0869" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0870" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0871" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0872" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0873" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0874" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0875" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0876" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0877" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0878" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0879" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0880" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0881" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0882" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0883" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0884" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0885" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0886" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0887" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0888" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0889" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0890" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0891" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0892" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0893" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0894" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0895" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0896" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0897" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0898" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0899" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0900" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0901" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0902" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0903" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0904" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0905" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0906" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0907" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0908" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0909" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0910" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0911" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0912" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0913" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0914" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0915" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0916" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0917" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0918" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0919" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0920" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0921" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0922" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0923" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0924" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0925" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0926" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0927" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0928" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0929" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0930" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0931" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0932" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0933" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0934" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0935" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0936" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0937" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0938" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0939" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0940" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0941" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0942" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0943" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0944" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0945" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0946" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0947" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0948" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0949" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0950" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0951" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0952" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0953" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0954" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0955" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0956" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0957" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0958" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0959" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0960" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0961" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0962" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0963" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0964" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0965" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0966" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0967" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0968" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0969" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0970" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0971" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0972" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0973" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0974" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0975" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0976" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0977" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0978" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0979" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0980" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0981" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0982" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0983" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0984" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0985" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0986" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0987" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0988" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0989" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0990" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0991" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0992" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0993" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0994" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0995" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0996" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0997" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0998" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico0999" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1000" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1001" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1002" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1003" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1004" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1005" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1006" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1007" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1008" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1009" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1010" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1011" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1012" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1013" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1014" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1015" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1016" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1017" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1018" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1019" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1020" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1021" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1022" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1023" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1024" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1025" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1026" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1027" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1028" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1029" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1030" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1031" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1032" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1033" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1034" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1035" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1036" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1037" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1038" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1039" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1040" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1041" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1042" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1043" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1044" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1045" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1046" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1047" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1048" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1049" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1050" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1051" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1052" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1053" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1054" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1055" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1056" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1057" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1058" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1059" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1060" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1061" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1062" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1063" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1064" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1065" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1066" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1067" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1068" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1069" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1070" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1071" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1072" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1073" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1074" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1075" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1076" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1077" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1078" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1079" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1080" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1081" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1082" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1083" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1084" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1085" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1086" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1087" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1088" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1089" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1090" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1091" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1092" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1093" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1094" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1095" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1096" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1097" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1098" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1099" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1100" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1101" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1102" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1103" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1104" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1105" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1106" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1107" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1108" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1109" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1110" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1111" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1112" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1113" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1114" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1115" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1116" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1117" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1118" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1119" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1120" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1121" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1122" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1123" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1124" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1125" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1126" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1127" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1128" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1129" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1130" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1131" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1132" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1133" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1134" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1135" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1136" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1137" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1138" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1139" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1140" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1141" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1142" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1143" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1144" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1145" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1146" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1147" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1148" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1149" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1150" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1151" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1152" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1153" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1154" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1155" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1156" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1157" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1158" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1159" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1160" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1161" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1162" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1163" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1164" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1165" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1166" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1167" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1168" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1169" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1170" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1171" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1172" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1173" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1174" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1175" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1176" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1177" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1178" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1179" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1180" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1181" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1182" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1183" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1184" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1185" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1186" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1187" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1188" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1189" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1190" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1191" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1192" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1193" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1194" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1195" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1196" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1197" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1198" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1199" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1200" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1201" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1202" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1203" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1204" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1205" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1206" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1207" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1208" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1209" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1210" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1211" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1212" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1213" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1214" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1215" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1216" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1217" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1218" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1219" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1220" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1221" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1222" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1223" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1224" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1225" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1226" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1227" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1228" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1229" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1230" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1231" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1232" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1233" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1234" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1235" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1236" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1237" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1238" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1239" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1240" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1241" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1242" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1243" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1244" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1245" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1246" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1247" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1248" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1249" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1250" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1251" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1252" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1253" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1254" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1255" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1256" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1257" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1258" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1259" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1260" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1261" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1262" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1263" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1264" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1265" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1266" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1267" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1268" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1269" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1270" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1271" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1272" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1273" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1274" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1275" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1276" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1277" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1278" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1279" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1280" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1281" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1282" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1283" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1284" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1285" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1286" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1287" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1288" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1289" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1290" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1291" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1292" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1293" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1294" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1295" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1296" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1297" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1298" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1299" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1300" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1301" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1302" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1303" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1304" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1305" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1306" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1307" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1308" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1309" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1310" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1311" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1312" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1313" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1314" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1315" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1316" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1317" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1318" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1319" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1320" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1321" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1322" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1323" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1324" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1325" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1326" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1327" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1328" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1329" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1330" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1331" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1332" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1333" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1334" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1335" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1336" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1337" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1338" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1339" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1340" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1341" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1342" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1343" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1344" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1345" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1346" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1347" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1348" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1349" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1350" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1351" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1352" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1353" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1354" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1355" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1356" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1357" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1358" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1359" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1360" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1361" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1362" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1363" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1364" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1365" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1366" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1367" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1368" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1369" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1370" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1371" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1372" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1373" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1374" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1375" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1376" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1377" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1378" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1379" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1380" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1381" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1382" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1383" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1384" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1385" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1386" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1387" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1388" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1389" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1390" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1391" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1392" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1393" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1394" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1395" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1396" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1397" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1398" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1399" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1400" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1401" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1402" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1403" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1404" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1405" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1406" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1407" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1408" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1409" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1410" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1411" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1412" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1413" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1414" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1415" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1416" x="6435" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1417" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1418" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1419" x="5577" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1420" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene kill pico1421" x="6006" y="1370" width="429" height="516"/>
+	<SubTexture name="nene knife raise0000" x="6864" y="1370" width="487" height="671"/>
+	<SubTexture name="nene knife raise0001" x="6864" y="1370" width="487" height="671"/>
+	<SubTexture name="nene knife raise0002" x="7351" y="1370" width="487" height="671"/>
+	<SubTexture name="nene knife raise0003" x="7351" y="1370" width="487" height="671"/>
+	<SubTexture name="nene knife raise0004" x="0" y="2041" width="487" height="671"/>
+	<SubTexture name="nene knife raise0005" x="0" y="2041" width="487" height="671"/>
+	<SubTexture name="nene knife raise0006" x="487" y="2041" width="487" height="671"/>
+	<SubTexture name="nene knife raise0007" x="487" y="2041" width="487" height="671"/>
+	<SubTexture name="nene knife raise0008" x="974" y="2041" width="487" height="671"/>
+	<SubTexture name="nene knife raise0009" x="974" y="2041" width="487" height="671"/>
+	<SubTexture name="nene knife raise0010" x="1461" y="2041" width="487" height="671"/>
+	<SubTexture name="nene knife raise0011" x="1461" y="2041" width="487" height="671"/>
+	<SubTexture name="nene knife raise0012" x="1461" y="2041" width="487" height="671"/>
+	<SubTexture name="nene knife raise0013" x="1461" y="2041" width="487" height="671"/>
+	<SubTexture name="nene knife raise0014" x="1461" y="2041" width="487" height="671"/>
+	<SubTexture name="nene knife raise0015" x="1461" y="2041" width="487" height="671"/>
+	<SubTexture name="nene knife raise0016" x="1461" y="2041" width="487" height="671"/>
+	<SubTexture name="nene knife raise0017" x="1461" y="2041" width="487" height="671"/>
+	<SubTexture name="nene knife raise0018" x="1461" y="2041" width="487" height="671"/>
+	<SubTexture name="nene knife raise0019" x="1461" y="2041" width="487" height="671"/>
+	<SubTexture name="nene knife raise0020" x="1461" y="2041" width="487" height="671"/>
+	<SubTexture name="nene knife raise0021" x="1461" y="2041" width="487" height="671"/>
+	<SubTexture name="nene knife raise0022" x="1461" y="2041" width="487" height="671"/>
+	<SubTexture name="nene knife raise0023" x="1461" y="2041" width="487" height="671"/>
+	<SubTexture name="nene knife raise0024" x="1461" y="2041" width="487" height="671"/>
+</TextureAtlas>

@@ -1,0 +1,3 @@
+# scripts
+
+fuck you nigga

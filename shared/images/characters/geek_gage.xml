@@ -1,0 +1,957 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="geek_gage.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gage annoyed0000" x="0" y="0" width="478" height="557"/>
+	<SubTexture name="gage annoyed0001" x="0" y="0" width="478" height="557"/>
+	<SubTexture name="gage annoyed0002" x="0" y="0" width="478" height="557"/>
+	<SubTexture name="gage annoyed0003" x="478" y="0" width="478" height="557"/>
+	<SubTexture name="gage annoyed0004" x="478" y="0" width="478" height="557"/>
+	<SubTexture name="gage annoyed0005" x="478" y="0" width="478" height="557"/>
+	<SubTexture name="gage annoyed0006" x="0" y="0" width="478" height="557"/>
+	<SubTexture name="gage annoyed0007" x="0" y="0" width="478" height="557"/>
+	<SubTexture name="gage annoyed0008" x="0" y="0" width="478" height="557"/>
+	<SubTexture name="gage annoyed0009" x="478" y="0" width="478" height="557"/>
+	<SubTexture name="gage annoyed0010" x="478" y="0" width="478" height="557"/>
+	<SubTexture name="gage annoyed0011" x="478" y="0" width="478" height="557"/>
+	<SubTexture name="gage annoyed0012" x="0" y="0" width="478" height="557"/>
+	<SubTexture name="gage annoyed0013" x="0" y="0" width="478" height="557"/>
+	<SubTexture name="gage death loop0000" x="956" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0001" x="1418" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0002" x="1880" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0003" x="2342" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0004" x="2804" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0005" x="3266" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0006" x="3728" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0007" x="4190" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0008" x="4652" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0009" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0010" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0011" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0012" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0013" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0014" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0015" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0016" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0017" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0018" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0019" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0020" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0021" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0022" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0023" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0024" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0025" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0026" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0027" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0028" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0029" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0030" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0031" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0032" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0033" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0034" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0035" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0036" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0037" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0038" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0039" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0040" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0041" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0042" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0043" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0044" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0045" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0046" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0047" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0048" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0049" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0050" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0051" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0052" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0053" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0054" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0055" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0056" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0057" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0058" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0059" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0060" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0061" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0062" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0063" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0064" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0065" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0066" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0067" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0068" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0069" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0070" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0071" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0072" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0073" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0074" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0075" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0076" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0077" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0078" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0079" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0080" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0081" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0082" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0083" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0084" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0085" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0086" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0087" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0088" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0089" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0090" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0091" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0092" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0093" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0094" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0095" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0096" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0097" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0098" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0099" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0100" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0101" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0102" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0103" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0104" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0105" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0106" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0107" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0108" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0109" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0110" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0111" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0112" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0113" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0114" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0115" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0116" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop0117" x="5114" y="0" width="462" height="476"/>
+	<SubTexture name="gage death loop copy0000" x="5576" y="0" width="417" height="289"/>
+	<SubTexture name="gage death loop copy0001" x="5576" y="0" width="417" height="289"/>
+	<SubTexture name="gage death loop copy0002" x="5993" y="0" width="417" height="289"/>
+	<SubTexture name="gage death loop copy0003" x="5993" y="0" width="417" height="289"/>
+	<SubTexture name="gage die0000" x="6410" y="0" width="521" height="552"/>
+	<SubTexture name="gage die0001" x="6410" y="0" width="521" height="552"/>
+	<SubTexture name="gage die0002" x="6410" y="0" width="521" height="552"/>
+	<SubTexture name="gage die0003" x="6931" y="0" width="521" height="552"/>
+	<SubTexture name="gage die0004" x="6931" y="0" width="521" height="552"/>
+	<SubTexture name="gage die0005" x="6931" y="0" width="521" height="552"/>
+	<SubTexture name="gage die0006" x="7452" y="0" width="521" height="552"/>
+	<SubTexture name="gage die0007" x="7452" y="0" width="521" height="552"/>
+	<SubTexture name="gage die0008" x="7452" y="0" width="521" height="552"/>
+	<SubTexture name="gage die0009" x="0" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0010" x="0" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0011" x="0" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0012" x="521" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0013" x="521" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0014" x="521" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0015" x="1042" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0016" x="1042" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0017" x="1042" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0018" x="1563" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0019" x="1563" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0020" x="1563" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0021" x="2084" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0022" x="2084" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0023" x="2084" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0024" x="2605" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0025" x="2605" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0026" x="2605" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0027" x="3126" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0028" x="3126" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0029" x="3126" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0030" x="3647" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0031" x="3647" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0032" x="3647" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0033" x="4168" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0034" x="4168" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0035" x="4168" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0036" x="4689" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0037" x="4689" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0038" x="4689" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0039" x="5210" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0040" x="5210" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0041" x="5210" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0042" x="5731" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0043" x="5731" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0044" x="5731" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0045" x="6252" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0046" x="6252" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0047" x="6252" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0048" x="6773" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0049" x="6773" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0050" x="6773" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0051" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0052" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0053" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0054" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0055" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0056" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0057" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0058" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0059" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0060" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0061" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0062" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0063" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0064" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0065" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0066" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0067" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0068" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0069" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0070" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0071" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0072" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0073" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0074" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0075" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0076" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0077" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0078" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0079" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0080" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0081" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0082" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0083" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0084" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0085" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0086" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0087" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0088" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0089" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0090" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0091" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0092" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0093" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0094" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0095" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0096" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0097" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0098" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0099" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0100" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0101" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0102" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0103" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0104" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0105" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0106" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0107" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0108" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0109" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0110" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0111" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0112" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage die0113" x="7294" y="557" width="521" height="552"/>
+	<SubTexture name="gage down0000" x="0" y="1109" width="480" height="501"/>
+	<SubTexture name="gage down0001" x="0" y="1109" width="480" height="501"/>
+	<SubTexture name="gage down0002" x="480" y="1109" width="480" height="501"/>
+	<SubTexture name="gage down0003" x="480" y="1109" width="480" height="501"/>
+	<SubTexture name="gage down0004" x="480" y="1109" width="480" height="501"/>
+	<SubTexture name="gage down0005" x="480" y="1109" width="480" height="501"/>
+	<SubTexture name="gage down0006" x="480" y="1109" width="480" height="501"/>
+	<SubTexture name="gage down0007" x="480" y="1109" width="480" height="501"/>
+	<SubTexture name="gage down0008" x="480" y="1109" width="480" height="501"/>
+	<SubTexture name="gage down0009" x="480" y="1109" width="480" height="501"/>
+	<SubTexture name="gage down0010" x="480" y="1109" width="480" height="501"/>
+	<SubTexture name="gage down0011" x="480" y="1109" width="480" height="501"/>
+	<SubTexture name="gage down0012" x="480" y="1109" width="480" height="501"/>
+	<SubTexture name="gage down0013" x="480" y="1109" width="480" height="501"/>
+	<SubTexture name="gage down0014" x="480" y="1109" width="480" height="501"/>
+	<SubTexture name="gage down0015" x="480" y="1109" width="480" height="501"/>
+	<SubTexture name="gage down0016" x="480" y="1109" width="480" height="501"/>
+	<SubTexture name="gage down0017" x="480" y="1109" width="480" height="501"/>
+	<SubTexture name="gage down0018" x="480" y="1109" width="480" height="501"/>
+	<SubTexture name="gage down0019" x="480" y="1109" width="480" height="501"/>
+	<SubTexture name="gage down0020" x="480" y="1109" width="480" height="501"/>
+	<SubTexture name="gage down0021" x="480" y="1109" width="480" height="501"/>
+	<SubTexture name="gage down0022" x="480" y="1109" width="480" height="501"/>
+	<SubTexture name="gage down0023" x="480" y="1109" width="480" height="501"/>
+	<SubTexture name="gage down0024" x="480" y="1109" width="480" height="501"/>
+	<SubTexture name="gage down0025" x="480" y="1109" width="480" height="501"/>
+	<SubTexture name="gage down0026" x="480" y="1109" width="480" height="501"/>
+	<SubTexture name="gage down0027" x="480" y="1109" width="480" height="501"/>
+	<SubTexture name="gage down0028" x="480" y="1109" width="480" height="501"/>
+	<SubTexture name="gage down0029" x="480" y="1109" width="480" height="501"/>
+	<SubTexture name="gage down0030" x="480" y="1109" width="480" height="501"/>
+	<SubTexture name="gage down0031" x="480" y="1109" width="480" height="501"/>
+	<SubTexture name="gage down0032" x="480" y="1109" width="480" height="501"/>
+	<SubTexture name="gage down0033" x="480" y="1109" width="480" height="501"/>
+	<SubTexture name="gage down0034" x="480" y="1109" width="480" height="501"/>
+	<SubTexture name="gage down0035" x="480" y="1109" width="480" height="501"/>
+	<SubTexture name="gage down0036" x="480" y="1109" width="480" height="501"/>
+	<SubTexture name="gage down0037" x="480" y="1109" width="480" height="501"/>
+	<SubTexture name="gage down0038" x="480" y="1109" width="480" height="501"/>
+	<SubTexture name="gage down0039" x="480" y="1109" width="480" height="501"/>
+	<SubTexture name="gage down0040" x="480" y="1109" width="480" height="501"/>
+	<SubTexture name="gage down0041" x="480" y="1109" width="480" height="501"/>
+	<SubTexture name="gage down0042" x="480" y="1109" width="480" height="501"/>
+	<SubTexture name="gage down0043" x="480" y="1109" width="480" height="501"/>
+	<SubTexture name="gage down0044" x="480" y="1109" width="480" height="501"/>
+	<SubTexture name="gage end song0000" x="960" y="1109" width="417" height="577"/>
+	<SubTexture name="gage end song0001" x="960" y="1109" width="417" height="577"/>
+	<SubTexture name="gage end song0002" x="1377" y="1109" width="417" height="577"/>
+	<SubTexture name="gage end song0003" x="1377" y="1109" width="417" height="577"/>
+	<SubTexture name="gage end song0004" x="1794" y="1109" width="417" height="577"/>
+	<SubTexture name="gage end song0005" x="1794" y="1109" width="417" height="577"/>
+	<SubTexture name="gage end song0006" x="2211" y="1109" width="417" height="577"/>
+	<SubTexture name="gage end song0007" x="2211" y="1109" width="417" height="577"/>
+	<SubTexture name="gage end song0008" x="2628" y="1109" width="417" height="577"/>
+	<SubTexture name="gage end song0009" x="2628" y="1109" width="417" height="577"/>
+	<SubTexture name="gage end song0010" x="3045" y="1109" width="417" height="577"/>
+	<SubTexture name="gage end song0011" x="3045" y="1109" width="417" height="577"/>
+	<SubTexture name="gage end song0012" x="3045" y="1109" width="417" height="577"/>
+	<SubTexture name="gage end song0013" x="3045" y="1109" width="417" height="577"/>
+	<SubTexture name="gage end song0014" x="3462" y="1109" width="417" height="577"/>
+	<SubTexture name="gage end song0015" x="3462" y="1109" width="417" height="577"/>
+	<SubTexture name="gage end song0016" x="3879" y="1109" width="417" height="577"/>
+	<SubTexture name="gage end song0017" x="3879" y="1109" width="417" height="577"/>
+	<SubTexture name="gage end song0018" x="2628" y="1109" width="417" height="577"/>
+	<SubTexture name="gage end song0019" x="2628" y="1109" width="417" height="577"/>
+	<SubTexture name="gage end song0020" x="3045" y="1109" width="417" height="577"/>
+	<SubTexture name="gage end song0021" x="3045" y="1109" width="417" height="577"/>
+	<SubTexture name="gage end song0022" x="3045" y="1109" width="417" height="577"/>
+	<SubTexture name="gage end song0023" x="3045" y="1109" width="417" height="577"/>
+	<SubTexture name="gage end song0024" x="3045" y="1109" width="417" height="577"/>
+	<SubTexture name="gage end song0025" x="4296" y="1109" width="417" height="577"/>
+	<SubTexture name="gage end song0026" x="4296" y="1109" width="417" height="577"/>
+	<SubTexture name="gage end song0027" x="4713" y="1109" width="417" height="577"/>
+	<SubTexture name="gage end song0028" x="4713" y="1109" width="417" height="577"/>
+	<SubTexture name="gage end song0029" x="5130" y="1109" width="417" height="577"/>
+	<SubTexture name="gage end song0030" x="5130" y="1109" width="417" height="577"/>
+	<SubTexture name="gage end song0031" x="5547" y="1109" width="417" height="577"/>
+	<SubTexture name="gage end song0032" x="5964" y="1109" width="417" height="577"/>
+	<SubTexture name="gage end song0033" x="5964" y="1109" width="417" height="577"/>
+	<SubTexture name="gage end song0034" x="6381" y="1109" width="417" height="577"/>
+	<SubTexture name="gage end song0035" x="6798" y="1109" width="417" height="577"/>
+	<SubTexture name="gage end song0036" x="6798" y="1109" width="417" height="577"/>
+	<SubTexture name="gage end song0037" x="7215" y="1109" width="417" height="577"/>
+	<SubTexture name="gage end song0038" x="7215" y="1109" width="417" height="577"/>
+	<SubTexture name="gage end song0039" x="7632" y="1109" width="417" height="577"/>
+	<SubTexture name="gage end song0040" x="2628" y="1109" width="417" height="577"/>
+	<SubTexture name="gage end song0041" x="2628" y="1109" width="417" height="577"/>
+	<SubTexture name="gage end song0042" x="3045" y="1109" width="417" height="577"/>
+	<SubTexture name="gage end song0043" x="3045" y="1109" width="417" height="577"/>
+	<SubTexture name="gage end song0044" x="3045" y="1109" width="417" height="577"/>
+	<SubTexture name="gage end song0045" x="3045" y="1109" width="417" height="577"/>
+	<SubTexture name="gage end song0046" x="3045" y="1109" width="417" height="577"/>
+	<SubTexture name="gage end song0047" x="3045" y="1109" width="417" height="577"/>
+	<SubTexture name="gage end song0048" x="3045" y="1109" width="417" height="577"/>
+	<SubTexture name="gage end song0049" x="0" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0050" x="0" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0051" x="417" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0052" x="417" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0053" x="834" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0054" x="834" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0055" x="1251" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0056" x="1251" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0057" x="1668" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0058" x="1668" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0059" x="2085" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0060" x="2085" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0061" x="2502" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0062" x="2502" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0063" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0064" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0065" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0066" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0067" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0068" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0069" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0070" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0071" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0072" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0073" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0074" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0075" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0076" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0077" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0078" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0079" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0080" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0081" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0082" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0083" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0084" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0085" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0086" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0087" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0088" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0089" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0090" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0091" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0092" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0093" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0094" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0095" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0096" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0097" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0098" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0099" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0100" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0101" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0102" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0103" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0104" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0105" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0106" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0107" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0108" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0109" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0110" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0111" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0112" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0113" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0114" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0115" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0116" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0117" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0118" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0119" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0120" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0121" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0122" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0123" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0124" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0125" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0126" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0127" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0128" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0129" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0130" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0131" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0132" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0133" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0134" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0135" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0136" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0137" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0138" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0139" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0140" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0141" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0142" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0143" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0144" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0145" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0146" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0147" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0148" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0149" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0150" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0151" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0152" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0153" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0154" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0155" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0156" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0157" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0158" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0159" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0160" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0161" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0162" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0163" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0164" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0165" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0166" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0167" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0168" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0169" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0170" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0171" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0172" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0173" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0174" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0175" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0176" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0177" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0178" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0179" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0180" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0181" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0182" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0183" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0184" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0185" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0186" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0187" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0188" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0189" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0190" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0191" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0192" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0193" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0194" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0195" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0196" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0197" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0198" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0199" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0200" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0201" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0202" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0203" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0204" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0205" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0206" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0207" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0208" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0209" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0210" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0211" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0212" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0213" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0214" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0215" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0216" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0217" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0218" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0219" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0220" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0221" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0222" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0223" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0224" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0225" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0226" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0227" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0228" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0229" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0230" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0231" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0232" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0233" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0234" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0235" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0236" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0237" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0238" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0239" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0240" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0241" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0242" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0243" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0244" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0245" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0246" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0247" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0248" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0249" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0250" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0251" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0252" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0253" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0254" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0255" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0256" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0257" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0258" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0259" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0260" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0261" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0262" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0263" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0264" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0265" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0266" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0267" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0268" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0269" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0270" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0271" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0272" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0273" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0274" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0275" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0276" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0277" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0278" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0279" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0280" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0281" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage end song0282" x="2919" y="1686" width="417" height="577"/>
+	<SubTexture name="gage hey0000" x="3336" y="1686" width="463" height="593"/>
+	<SubTexture name="gage hey0001" x="3336" y="1686" width="463" height="593"/>
+	<SubTexture name="gage hey0002" x="3799" y="1686" width="463" height="593"/>
+	<SubTexture name="gage hey0003" x="3799" y="1686" width="463" height="593"/>
+	<SubTexture name="gage hey0004" x="4262" y="1686" width="463" height="593"/>
+	<SubTexture name="gage hey0005" x="4262" y="1686" width="463" height="593"/>
+	<SubTexture name="gage hey0006" x="4725" y="1686" width="463" height="593"/>
+	<SubTexture name="gage hey0007" x="4725" y="1686" width="463" height="593"/>
+	<SubTexture name="gage hey0008" x="4725" y="1686" width="463" height="593"/>
+	<SubTexture name="gage hey0009" x="4725" y="1686" width="463" height="593"/>
+	<SubTexture name="gage hey0010" x="4725" y="1686" width="463" height="593"/>
+	<SubTexture name="gage hey0011" x="4725" y="1686" width="463" height="593"/>
+	<SubTexture name="gage hey0012" x="4725" y="1686" width="463" height="593"/>
+	<SubTexture name="gage hey0013" x="4725" y="1686" width="463" height="593"/>
+	<SubTexture name="gage hey0014" x="4725" y="1686" width="463" height="593"/>
+	<SubTexture name="gage hey0015" x="4725" y="1686" width="463" height="593"/>
+	<SubTexture name="gage hey0016" x="4725" y="1686" width="463" height="593"/>
+	<SubTexture name="gage hey0017" x="4725" y="1686" width="463" height="593"/>
+	<SubTexture name="gage hey0018" x="4725" y="1686" width="463" height="593"/>
+	<SubTexture name="gage hey0019" x="4725" y="1686" width="463" height="593"/>
+	<SubTexture name="gage hey0020" x="4725" y="1686" width="463" height="593"/>
+	<SubTexture name="gage hey0021" x="4725" y="1686" width="463" height="593"/>
+	<SubTexture name="gage hey0022" x="4725" y="1686" width="463" height="593"/>
+	<SubTexture name="gage hey0023" x="4725" y="1686" width="463" height="593"/>
+	<SubTexture name="gage hey0024" x="4725" y="1686" width="463" height="593"/>
+	<SubTexture name="gage hey0025" x="4725" y="1686" width="463" height="593"/>
+	<SubTexture name="gage hey0026" x="4725" y="1686" width="463" height="593"/>
+	<SubTexture name="gage hey0027" x="4725" y="1686" width="463" height="593"/>
+	<SubTexture name="gage hey0028" x="4725" y="1686" width="463" height="593"/>
+	<SubTexture name="gage hey0029" x="4725" y="1686" width="463" height="593"/>
+	<SubTexture name="gage hey0030" x="4725" y="1686" width="463" height="593"/>
+	<SubTexture name="gage hey0031" x="4725" y="1686" width="463" height="593"/>
+	<SubTexture name="gage hey0032" x="4725" y="1686" width="463" height="593"/>
+	<SubTexture name="gage hey0033" x="4725" y="1686" width="463" height="593"/>
+	<SubTexture name="gage hey0034" x="4725" y="1686" width="463" height="593"/>
+	<SubTexture name="gage hey0035" x="4725" y="1686" width="463" height="593"/>
+	<SubTexture name="gage hey0036" x="4725" y="1686" width="463" height="593"/>
+	<SubTexture name="gage hey0037" x="4725" y="1686" width="463" height="593"/>
+	<SubTexture name="gage hey0038" x="4725" y="1686" width="463" height="593"/>
+	<SubTexture name="gage hey0039" x="4725" y="1686" width="463" height="593"/>
+	<SubTexture name="gage hey0040" x="4725" y="1686" width="463" height="593"/>
+	<SubTexture name="gage hey0041" x="4725" y="1686" width="463" height="593"/>
+	<SubTexture name="gage hey0042" x="4725" y="1686" width="463" height="593"/>
+	<SubTexture name="gage hey0043" x="4725" y="1686" width="463" height="593"/>
+	<SubTexture name="gage hey0044" x="4725" y="1686" width="463" height="593"/>
+	<SubTexture name="gage idle0000" x="5188" y="1686" width="395" height="557"/>
+	<SubTexture name="gage idle0001" x="5188" y="1686" width="395" height="557"/>
+	<SubTexture name="gage idle0002" x="5583" y="1686" width="395" height="557"/>
+	<SubTexture name="gage idle0003" x="5583" y="1686" width="395" height="557"/>
+	<SubTexture name="gage idle0004" x="5978" y="1686" width="395" height="557"/>
+	<SubTexture name="gage idle0005" x="5978" y="1686" width="395" height="557"/>
+	<SubTexture name="gage idle0006" x="6373" y="1686" width="395" height="557"/>
+	<SubTexture name="gage idle0007" x="6373" y="1686" width="395" height="557"/>
+	<SubTexture name="gage idle0008" x="6768" y="1686" width="395" height="557"/>
+	<SubTexture name="gage idle0009" x="6768" y="1686" width="395" height="557"/>
+	<SubTexture name="gage idle0010" x="7163" y="1686" width="395" height="557"/>
+	<SubTexture name="gage idle0011" x="7163" y="1686" width="395" height="557"/>
+	<SubTexture name="gage idle0012" x="7163" y="1686" width="395" height="557"/>
+	<SubTexture name="gage idle0013" x="7163" y="1686" width="395" height="557"/>
+	<SubTexture name="gage left0000" x="7558" y="1686" width="394" height="557"/>
+	<SubTexture name="gage left0001" x="7558" y="1686" width="394" height="557"/>
+	<SubTexture name="gage left0002" x="0" y="2279" width="394" height="557"/>
+	<SubTexture name="gage left0003" x="0" y="2279" width="394" height="557"/>
+	<SubTexture name="gage left0004" x="0" y="2279" width="394" height="557"/>
+	<SubTexture name="gage left0005" x="0" y="2279" width="394" height="557"/>
+	<SubTexture name="gage left0006" x="0" y="2279" width="394" height="557"/>
+	<SubTexture name="gage left0007" x="0" y="2279" width="394" height="557"/>
+	<SubTexture name="gage left0008" x="0" y="2279" width="394" height="557"/>
+	<SubTexture name="gage left0009" x="0" y="2279" width="394" height="557"/>
+	<SubTexture name="gage left0010" x="0" y="2279" width="394" height="557"/>
+	<SubTexture name="gage left0011" x="0" y="2279" width="394" height="557"/>
+	<SubTexture name="gage left0012" x="0" y="2279" width="394" height="557"/>
+	<SubTexture name="gage left0013" x="0" y="2279" width="394" height="557"/>
+	<SubTexture name="gage left0014" x="0" y="2279" width="394" height="557"/>
+	<SubTexture name="gage left0015" x="0" y="2279" width="394" height="557"/>
+	<SubTexture name="gage left0016" x="0" y="2279" width="394" height="557"/>
+	<SubTexture name="gage left0017" x="0" y="2279" width="394" height="557"/>
+	<SubTexture name="gage left0018" x="0" y="2279" width="394" height="557"/>
+	<SubTexture name="gage left0019" x="0" y="2279" width="394" height="557"/>
+	<SubTexture name="gage left0020" x="0" y="2279" width="394" height="557"/>
+	<SubTexture name="gage left0021" x="0" y="2279" width="394" height="557"/>
+	<SubTexture name="gage left0022" x="0" y="2279" width="394" height="557"/>
+	<SubTexture name="gage left0023" x="0" y="2279" width="394" height="557"/>
+	<SubTexture name="gage left0024" x="0" y="2279" width="394" height="557"/>
+	<SubTexture name="gage left0025" x="0" y="2279" width="394" height="557"/>
+	<SubTexture name="gage left0026" x="0" y="2279" width="394" height="557"/>
+	<SubTexture name="gage left0027" x="0" y="2279" width="394" height="557"/>
+	<SubTexture name="gage left0028" x="0" y="2279" width="394" height="557"/>
+	<SubTexture name="gage left0029" x="0" y="2279" width="394" height="557"/>
+	<SubTexture name="gage left0030" x="0" y="2279" width="394" height="557"/>
+	<SubTexture name="gage left0031" x="0" y="2279" width="394" height="557"/>
+	<SubTexture name="gage left0032" x="0" y="2279" width="394" height="557"/>
+	<SubTexture name="gage left0033" x="0" y="2279" width="394" height="557"/>
+	<SubTexture name="gage left0034" x="0" y="2279" width="394" height="557"/>
+	<SubTexture name="gage left0035" x="0" y="2279" width="394" height="557"/>
+	<SubTexture name="gage left0036" x="0" y="2279" width="394" height="557"/>
+	<SubTexture name="gage left0037" x="0" y="2279" width="394" height="557"/>
+	<SubTexture name="gage left0038" x="0" y="2279" width="394" height="557"/>
+	<SubTexture name="gage left0039" x="0" y="2279" width="394" height="557"/>
+	<SubTexture name="gage left0040" x="0" y="2279" width="394" height="557"/>
+	<SubTexture name="gage left0041" x="0" y="2279" width="394" height="557"/>
+	<SubTexture name="gage left0042" x="0" y="2279" width="394" height="557"/>
+	<SubTexture name="gage left0043" x="0" y="2279" width="394" height="557"/>
+	<SubTexture name="gage left0044" x="0" y="2279" width="394" height="557"/>
+	<SubTexture name="gage miss down0000" x="394" y="2279" width="472" height="510"/>
+	<SubTexture name="gage miss down0001" x="866" y="2279" width="472" height="510"/>
+	<SubTexture name="gage miss down0002" x="866" y="2279" width="472" height="510"/>
+	<SubTexture name="gage miss down0003" x="1338" y="2279" width="472" height="510"/>
+	<SubTexture name="gage miss down0004" x="1338" y="2279" width="472" height="510"/>
+	<SubTexture name="gage miss down0005" x="1810" y="2279" width="472" height="510"/>
+	<SubTexture name="gage miss down0006" x="1810" y="2279" width="472" height="510"/>
+	<SubTexture name="gage miss down0007" x="1338" y="2279" width="472" height="510"/>
+	<SubTexture name="gage miss down0008" x="1338" y="2279" width="472" height="510"/>
+	<SubTexture name="gage miss down0009" x="1810" y="2279" width="472" height="510"/>
+	<SubTexture name="gage miss down0010" x="1810" y="2279" width="472" height="510"/>
+	<SubTexture name="gage miss down0011" x="1338" y="2279" width="472" height="510"/>
+	<SubTexture name="gage miss down0012" x="1338" y="2279" width="472" height="510"/>
+	<SubTexture name="gage miss down0013" x="1810" y="2279" width="472" height="510"/>
+	<SubTexture name="gage miss down0014" x="1810" y="2279" width="472" height="510"/>
+	<SubTexture name="gage miss down0015" x="1338" y="2279" width="472" height="510"/>
+	<SubTexture name="gage miss down0016" x="1338" y="2279" width="472" height="510"/>
+	<SubTexture name="gage miss down0017" x="1810" y="2279" width="472" height="510"/>
+	<SubTexture name="gage miss down0018" x="1810" y="2279" width="472" height="510"/>
+	<SubTexture name="gage miss down0019" x="1338" y="2279" width="472" height="510"/>
+	<SubTexture name="gage miss down0020" x="1338" y="2279" width="472" height="510"/>
+	<SubTexture name="gage miss down0021" x="1810" y="2279" width="472" height="510"/>
+	<SubTexture name="gage miss down0022" x="1810" y="2279" width="472" height="510"/>
+	<SubTexture name="gage miss down0023" x="1338" y="2279" width="472" height="510"/>
+	<SubTexture name="gage miss down0024" x="1338" y="2279" width="472" height="510"/>
+	<SubTexture name="gage miss down0025" x="1810" y="2279" width="472" height="510"/>
+	<SubTexture name="gage miss down0026" x="1810" y="2279" width="472" height="510"/>
+	<SubTexture name="gage miss down0027" x="1338" y="2279" width="472" height="510"/>
+	<SubTexture name="gage miss down0028" x="1338" y="2279" width="472" height="510"/>
+	<SubTexture name="gage miss down0029" x="1810" y="2279" width="472" height="510"/>
+	<SubTexture name="gage miss down0030" x="1810" y="2279" width="472" height="510"/>
+	<SubTexture name="gage miss down0031" x="1338" y="2279" width="472" height="510"/>
+	<SubTexture name="gage miss down0032" x="1338" y="2279" width="472" height="510"/>
+	<SubTexture name="gage miss down0033" x="1810" y="2279" width="472" height="510"/>
+	<SubTexture name="gage miss down0034" x="1810" y="2279" width="472" height="510"/>
+	<SubTexture name="gage miss down0035" x="1338" y="2279" width="472" height="510"/>
+	<SubTexture name="gage miss down0036" x="1338" y="2279" width="472" height="510"/>
+	<SubTexture name="gage miss down0037" x="1810" y="2279" width="472" height="510"/>
+	<SubTexture name="gage miss down0038" x="1810" y="2279" width="472" height="510"/>
+	<SubTexture name="gage miss down0039" x="1338" y="2279" width="472" height="510"/>
+	<SubTexture name="gage miss down0040" x="1338" y="2279" width="472" height="510"/>
+	<SubTexture name="gage miss down0041" x="1810" y="2279" width="472" height="510"/>
+	<SubTexture name="gage miss down0042" x="1810" y="2279" width="472" height="510"/>
+	<SubTexture name="gage miss down0043" x="1338" y="2279" width="472" height="510"/>
+	<SubTexture name="gage miss down0044" x="1338" y="2279" width="472" height="510"/>
+	<SubTexture name="gage miss left0000" x="2282" y="2279" width="441" height="556"/>
+	<SubTexture name="gage miss left0001" x="2723" y="2279" width="441" height="556"/>
+	<SubTexture name="gage miss left0002" x="2723" y="2279" width="441" height="556"/>
+	<SubTexture name="gage miss left0003" x="3164" y="2279" width="441" height="556"/>
+	<SubTexture name="gage miss left0004" x="3164" y="2279" width="441" height="556"/>
+	<SubTexture name="gage miss left0005" x="3605" y="2279" width="441" height="556"/>
+	<SubTexture name="gage miss left0006" x="3605" y="2279" width="441" height="556"/>
+	<SubTexture name="gage miss left0007" x="3164" y="2279" width="441" height="556"/>
+	<SubTexture name="gage miss left0008" x="3164" y="2279" width="441" height="556"/>
+	<SubTexture name="gage miss left0009" x="3605" y="2279" width="441" height="556"/>
+	<SubTexture name="gage miss left0010" x="3605" y="2279" width="441" height="556"/>
+	<SubTexture name="gage miss left0011" x="3164" y="2279" width="441" height="556"/>
+	<SubTexture name="gage miss left0012" x="3164" y="2279" width="441" height="556"/>
+	<SubTexture name="gage miss left0013" x="3605" y="2279" width="441" height="556"/>
+	<SubTexture name="gage miss left0014" x="3605" y="2279" width="441" height="556"/>
+	<SubTexture name="gage miss left0015" x="3164" y="2279" width="441" height="556"/>
+	<SubTexture name="gage miss left0016" x="3164" y="2279" width="441" height="556"/>
+	<SubTexture name="gage miss left0017" x="3605" y="2279" width="441" height="556"/>
+	<SubTexture name="gage miss left0018" x="3605" y="2279" width="441" height="556"/>
+	<SubTexture name="gage miss left0019" x="3164" y="2279" width="441" height="556"/>
+	<SubTexture name="gage miss left0020" x="3164" y="2279" width="441" height="556"/>
+	<SubTexture name="gage miss left0021" x="3605" y="2279" width="441" height="556"/>
+	<SubTexture name="gage miss left0022" x="3605" y="2279" width="441" height="556"/>
+	<SubTexture name="gage miss left0023" x="3164" y="2279" width="441" height="556"/>
+	<SubTexture name="gage miss left0024" x="3164" y="2279" width="441" height="556"/>
+	<SubTexture name="gage miss left0025" x="3605" y="2279" width="441" height="556"/>
+	<SubTexture name="gage miss left0026" x="3605" y="2279" width="441" height="556"/>
+	<SubTexture name="gage miss left0027" x="3164" y="2279" width="441" height="556"/>
+	<SubTexture name="gage miss left0028" x="3164" y="2279" width="441" height="556"/>
+	<SubTexture name="gage miss left0029" x="3605" y="2279" width="441" height="556"/>
+	<SubTexture name="gage miss left0030" x="3605" y="2279" width="441" height="556"/>
+	<SubTexture name="gage miss left0031" x="3164" y="2279" width="441" height="556"/>
+	<SubTexture name="gage miss left0032" x="3164" y="2279" width="441" height="556"/>
+	<SubTexture name="gage miss left0033" x="3605" y="2279" width="441" height="556"/>
+	<SubTexture name="gage miss left0034" x="3605" y="2279" width="441" height="556"/>
+	<SubTexture name="gage miss left0035" x="3164" y="2279" width="441" height="556"/>
+	<SubTexture name="gage miss left0036" x="3164" y="2279" width="441" height="556"/>
+	<SubTexture name="gage miss left0037" x="3605" y="2279" width="441" height="556"/>
+	<SubTexture name="gage miss left0038" x="3605" y="2279" width="441" height="556"/>
+	<SubTexture name="gage miss left0039" x="3164" y="2279" width="441" height="556"/>
+	<SubTexture name="gage miss left0040" x="3164" y="2279" width="441" height="556"/>
+	<SubTexture name="gage miss left0041" x="3605" y="2279" width="441" height="556"/>
+	<SubTexture name="gage miss left0042" x="3605" y="2279" width="441" height="556"/>
+	<SubTexture name="gage miss left0043" x="3164" y="2279" width="441" height="556"/>
+	<SubTexture name="gage miss left0044" x="3164" y="2279" width="441" height="556"/>
+	<SubTexture name="gage miss right0000" x="4046" y="2279" width="439" height="548"/>
+	<SubTexture name="gage miss right0001" x="4485" y="2279" width="439" height="548"/>
+	<SubTexture name="gage miss right0002" x="4485" y="2279" width="439" height="548"/>
+	<SubTexture name="gage miss right0003" x="4924" y="2279" width="439" height="548"/>
+	<SubTexture name="gage miss right0004" x="4924" y="2279" width="439" height="548"/>
+	<SubTexture name="gage miss right0005" x="5363" y="2279" width="439" height="548"/>
+	<SubTexture name="gage miss right0006" x="5363" y="2279" width="439" height="548"/>
+	<SubTexture name="gage miss right0007" x="4924" y="2279" width="439" height="548"/>
+	<SubTexture name="gage miss right0008" x="4924" y="2279" width="439" height="548"/>
+	<SubTexture name="gage miss right0009" x="5363" y="2279" width="439" height="548"/>
+	<SubTexture name="gage miss right0010" x="5363" y="2279" width="439" height="548"/>
+	<SubTexture name="gage miss right0011" x="4924" y="2279" width="439" height="548"/>
+	<SubTexture name="gage miss right0012" x="4924" y="2279" width="439" height="548"/>
+	<SubTexture name="gage miss right0013" x="5363" y="2279" width="439" height="548"/>
+	<SubTexture name="gage miss right0014" x="5363" y="2279" width="439" height="548"/>
+	<SubTexture name="gage miss right0015" x="4924" y="2279" width="439" height="548"/>
+	<SubTexture name="gage miss right0016" x="4924" y="2279" width="439" height="548"/>
+	<SubTexture name="gage miss right0017" x="5363" y="2279" width="439" height="548"/>
+	<SubTexture name="gage miss right0018" x="5363" y="2279" width="439" height="548"/>
+	<SubTexture name="gage miss right0019" x="4924" y="2279" width="439" height="548"/>
+	<SubTexture name="gage miss right0020" x="4924" y="2279" width="439" height="548"/>
+	<SubTexture name="gage miss right0021" x="5363" y="2279" width="439" height="548"/>
+	<SubTexture name="gage miss right0022" x="5363" y="2279" width="439" height="548"/>
+	<SubTexture name="gage miss right0023" x="4924" y="2279" width="439" height="548"/>
+	<SubTexture name="gage miss right0024" x="4924" y="2279" width="439" height="548"/>
+	<SubTexture name="gage miss right0025" x="5363" y="2279" width="439" height="548"/>
+	<SubTexture name="gage miss right0026" x="5363" y="2279" width="439" height="548"/>
+	<SubTexture name="gage miss right0027" x="4924" y="2279" width="439" height="548"/>
+	<SubTexture name="gage miss right0028" x="4924" y="2279" width="439" height="548"/>
+	<SubTexture name="gage miss right0029" x="5363" y="2279" width="439" height="548"/>
+	<SubTexture name="gage miss right0030" x="5363" y="2279" width="439" height="548"/>
+	<SubTexture name="gage miss right0031" x="4924" y="2279" width="439" height="548"/>
+	<SubTexture name="gage miss right0032" x="4924" y="2279" width="439" height="548"/>
+	<SubTexture name="gage miss right0033" x="5363" y="2279" width="439" height="548"/>
+	<SubTexture name="gage miss right0034" x="5363" y="2279" width="439" height="548"/>
+	<SubTexture name="gage miss right0035" x="4924" y="2279" width="439" height="548"/>
+	<SubTexture name="gage miss right0036" x="4924" y="2279" width="439" height="548"/>
+	<SubTexture name="gage miss right0037" x="5363" y="2279" width="439" height="548"/>
+	<SubTexture name="gage miss right0038" x="5363" y="2279" width="439" height="548"/>
+	<SubTexture name="gage miss right0039" x="4924" y="2279" width="439" height="548"/>
+	<SubTexture name="gage miss right0040" x="4924" y="2279" width="439" height="548"/>
+	<SubTexture name="gage miss right0041" x="5363" y="2279" width="439" height="548"/>
+	<SubTexture name="gage miss right0042" x="5363" y="2279" width="439" height="548"/>
+	<SubTexture name="gage miss right0043" x="4924" y="2279" width="439" height="548"/>
+	<SubTexture name="gage miss right0044" x="4924" y="2279" width="439" height="548"/>
+	<SubTexture name="gage miss up0000" x="5802" y="2279" width="477" height="651"/>
+	<SubTexture name="gage miss up0001" x="6279" y="2279" width="477" height="651"/>
+	<SubTexture name="gage miss up0002" x="6279" y="2279" width="477" height="651"/>
+	<SubTexture name="gage miss up0003" x="6756" y="2279" width="477" height="651"/>
+	<SubTexture name="gage miss up0004" x="6756" y="2279" width="477" height="651"/>
+	<SubTexture name="gage miss up0005" x="7233" y="2279" width="477" height="651"/>
+	<SubTexture name="gage miss up0006" x="7233" y="2279" width="477" height="651"/>
+	<SubTexture name="gage miss up0007" x="6756" y="2279" width="477" height="651"/>
+	<SubTexture name="gage miss up0008" x="6756" y="2279" width="477" height="651"/>
+	<SubTexture name="gage miss up0009" x="7233" y="2279" width="477" height="651"/>
+	<SubTexture name="gage miss up0010" x="7233" y="2279" width="477" height="651"/>
+	<SubTexture name="gage miss up0011" x="6756" y="2279" width="477" height="651"/>
+	<SubTexture name="gage miss up0012" x="6756" y="2279" width="477" height="651"/>
+	<SubTexture name="gage miss up0013" x="7233" y="2279" width="477" height="651"/>
+	<SubTexture name="gage miss up0014" x="7233" y="2279" width="477" height="651"/>
+	<SubTexture name="gage miss up0015" x="6756" y="2279" width="477" height="651"/>
+	<SubTexture name="gage miss up0016" x="6756" y="2279" width="477" height="651"/>
+	<SubTexture name="gage miss up0017" x="7233" y="2279" width="477" height="651"/>
+	<SubTexture name="gage miss up0018" x="7233" y="2279" width="477" height="651"/>
+	<SubTexture name="gage miss up0019" x="6756" y="2279" width="477" height="651"/>
+	<SubTexture name="gage miss up0020" x="6756" y="2279" width="477" height="651"/>
+	<SubTexture name="gage miss up0021" x="7233" y="2279" width="477" height="651"/>
+	<SubTexture name="gage miss up0022" x="7233" y="2279" width="477" height="651"/>
+	<SubTexture name="gage miss up0023" x="6756" y="2279" width="477" height="651"/>
+	<SubTexture name="gage miss up0024" x="6756" y="2279" width="477" height="651"/>
+	<SubTexture name="gage miss up0025" x="7233" y="2279" width="477" height="651"/>
+	<SubTexture name="gage miss up0026" x="7233" y="2279" width="477" height="651"/>
+	<SubTexture name="gage miss up0027" x="6756" y="2279" width="477" height="651"/>
+	<SubTexture name="gage miss up0028" x="6756" y="2279" width="477" height="651"/>
+	<SubTexture name="gage miss up0029" x="7233" y="2279" width="477" height="651"/>
+	<SubTexture name="gage miss up0030" x="7233" y="2279" width="477" height="651"/>
+	<SubTexture name="gage miss up0031" x="6756" y="2279" width="477" height="651"/>
+	<SubTexture name="gage miss up0032" x="6756" y="2279" width="477" height="651"/>
+	<SubTexture name="gage miss up0033" x="7233" y="2279" width="477" height="651"/>
+	<SubTexture name="gage miss up0034" x="7233" y="2279" width="477" height="651"/>
+	<SubTexture name="gage miss up0035" x="6756" y="2279" width="477" height="651"/>
+	<SubTexture name="gage miss up0036" x="6756" y="2279" width="477" height="651"/>
+	<SubTexture name="gage miss up0037" x="7233" y="2279" width="477" height="651"/>
+	<SubTexture name="gage miss up0038" x="7233" y="2279" width="477" height="651"/>
+	<SubTexture name="gage miss up0039" x="6756" y="2279" width="477" height="651"/>
+	<SubTexture name="gage miss up0040" x="6756" y="2279" width="477" height="651"/>
+	<SubTexture name="gage miss up0041" x="7233" y="2279" width="477" height="651"/>
+	<SubTexture name="gage miss up0042" x="7233" y="2279" width="477" height="651"/>
+	<SubTexture name="gage miss up0043" x="6756" y="2279" width="477" height="651"/>
+	<SubTexture name="gage miss up0044" x="6756" y="2279" width="477" height="651"/>
+	<SubTexture name="gage right0000" x="7710" y="2279" width="443" height="548"/>
+	<SubTexture name="gage right0001" x="7710" y="2279" width="443" height="548"/>
+	<SubTexture name="gage right0002" x="0" y="2930" width="443" height="548"/>
+	<SubTexture name="gage right0003" x="0" y="2930" width="443" height="548"/>
+	<SubTexture name="gage right0004" x="0" y="2930" width="443" height="548"/>
+	<SubTexture name="gage right0005" x="0" y="2930" width="443" height="548"/>
+	<SubTexture name="gage right0006" x="0" y="2930" width="443" height="548"/>
+	<SubTexture name="gage right0007" x="0" y="2930" width="443" height="548"/>
+	<SubTexture name="gage right0008" x="0" y="2930" width="443" height="548"/>
+	<SubTexture name="gage right0009" x="0" y="2930" width="443" height="548"/>
+	<SubTexture name="gage right0010" x="0" y="2930" width="443" height="548"/>
+	<SubTexture name="gage right0011" x="0" y="2930" width="443" height="548"/>
+	<SubTexture name="gage right0012" x="0" y="2930" width="443" height="548"/>
+	<SubTexture name="gage right0013" x="0" y="2930" width="443" height="548"/>
+	<SubTexture name="gage right0014" x="0" y="2930" width="443" height="548"/>
+	<SubTexture name="gage right0015" x="0" y="2930" width="443" height="548"/>
+	<SubTexture name="gage right0016" x="0" y="2930" width="443" height="548"/>
+	<SubTexture name="gage right0017" x="0" y="2930" width="443" height="548"/>
+	<SubTexture name="gage right0018" x="0" y="2930" width="443" height="548"/>
+	<SubTexture name="gage right0019" x="0" y="2930" width="443" height="548"/>
+	<SubTexture name="gage right0020" x="0" y="2930" width="443" height="548"/>
+	<SubTexture name="gage right0021" x="0" y="2930" width="443" height="548"/>
+	<SubTexture name="gage right0022" x="0" y="2930" width="443" height="548"/>
+	<SubTexture name="gage right0023" x="0" y="2930" width="443" height="548"/>
+	<SubTexture name="gage right0024" x="0" y="2930" width="443" height="548"/>
+	<SubTexture name="gage right0025" x="0" y="2930" width="443" height="548"/>
+	<SubTexture name="gage right0026" x="0" y="2930" width="443" height="548"/>
+	<SubTexture name="gage right0027" x="0" y="2930" width="443" height="548"/>
+	<SubTexture name="gage right0028" x="0" y="2930" width="443" height="548"/>
+	<SubTexture name="gage right0029" x="0" y="2930" width="443" height="548"/>
+	<SubTexture name="gage right0030" x="0" y="2930" width="443" height="548"/>
+	<SubTexture name="gage right0031" x="0" y="2930" width="443" height="548"/>
+	<SubTexture name="gage right0032" x="0" y="2930" width="443" height="548"/>
+	<SubTexture name="gage right0033" x="0" y="2930" width="443" height="548"/>
+	<SubTexture name="gage right0034" x="0" y="2930" width="443" height="548"/>
+	<SubTexture name="gage right0035" x="0" y="2930" width="443" height="548"/>
+	<SubTexture name="gage right0036" x="0" y="2930" width="443" height="548"/>
+	<SubTexture name="gage right0037" x="0" y="2930" width="443" height="548"/>
+	<SubTexture name="gage right0038" x="0" y="2930" width="443" height="548"/>
+	<SubTexture name="gage right0039" x="0" y="2930" width="443" height="548"/>
+	<SubTexture name="gage right0040" x="0" y="2930" width="443" height="548"/>
+	<SubTexture name="gage right0041" x="0" y="2930" width="443" height="548"/>
+	<SubTexture name="gage right0042" x="0" y="2930" width="443" height="548"/>
+	<SubTexture name="gage right0043" x="0" y="2930" width="443" height="548"/>
+	<SubTexture name="gage right0044" x="0" y="2930" width="443" height="548"/>
+	<SubTexture name="gage up0000" x="443" y="2930" width="478" height="653"/>
+	<SubTexture name="gage up0001" x="443" y="2930" width="478" height="653"/>
+	<SubTexture name="gage up0002" x="921" y="2930" width="478" height="653"/>
+	<SubTexture name="gage up0003" x="921" y="2930" width="478" height="653"/>
+	<SubTexture name="gage up0004" x="921" y="2930" width="478" height="653"/>
+	<SubTexture name="gage up0005" x="921" y="2930" width="478" height="653"/>
+	<SubTexture name="gage up0006" x="921" y="2930" width="478" height="653"/>
+	<SubTexture name="gage up0007" x="921" y="2930" width="478" height="653"/>
+	<SubTexture name="gage up0008" x="921" y="2930" width="478" height="653"/>
+	<SubTexture name="gage up0009" x="921" y="2930" width="478" height="653"/>
+	<SubTexture name="gage up0010" x="921" y="2930" width="478" height="653"/>
+	<SubTexture name="gage up0011" x="921" y="2930" width="478" height="653"/>
+	<SubTexture name="gage up0012" x="921" y="2930" width="478" height="653"/>
+	<SubTexture name="gage up0013" x="921" y="2930" width="478" height="653"/>
+	<SubTexture name="gage up0014" x="921" y="2930" width="478" height="653"/>
+	<SubTexture name="gage up0015" x="921" y="2930" width="478" height="653"/>
+	<SubTexture name="gage up0016" x="921" y="2930" width="478" height="653"/>
+	<SubTexture name="gage up0017" x="921" y="2930" width="478" height="653"/>
+	<SubTexture name="gage up0018" x="921" y="2930" width="478" height="653"/>
+	<SubTexture name="gage up0019" x="921" y="2930" width="478" height="653"/>
+	<SubTexture name="gage up0020" x="921" y="2930" width="478" height="653"/>
+	<SubTexture name="gage up0021" x="921" y="2930" width="478" height="653"/>
+	<SubTexture name="gage up0022" x="921" y="2930" width="478" height="653"/>
+	<SubTexture name="gage up0023" x="921" y="2930" width="478" height="653"/>
+	<SubTexture name="gage up0024" x="921" y="2930" width="478" height="653"/>
+	<SubTexture name="gage up0025" x="921" y="2930" width="478" height="653"/>
+	<SubTexture name="gage up0026" x="921" y="2930" width="478" height="653"/>
+	<SubTexture name="gage up0027" x="921" y="2930" width="478" height="653"/>
+	<SubTexture name="gage up0028" x="921" y="2930" width="478" height="653"/>
+	<SubTexture name="gage up0029" x="921" y="2930" width="478" height="653"/>
+	<SubTexture name="gage up0030" x="921" y="2930" width="478" height="653"/>
+	<SubTexture name="gage up0031" x="921" y="2930" width="478" height="653"/>
+	<SubTexture name="gage up0032" x="921" y="2930" width="478" height="653"/>
+	<SubTexture name="gage up0033" x="921" y="2930" width="478" height="653"/>
+	<SubTexture name="gage up0034" x="921" y="2930" width="478" height="653"/>
+	<SubTexture name="gage up0035" x="921" y="2930" width="478" height="653"/>
+	<SubTexture name="gage up0036" x="921" y="2930" width="478" height="653"/>
+	<SubTexture name="gage up0037" x="921" y="2930" width="478" height="653"/>
+	<SubTexture name="gage up0038" x="921" y="2930" width="478" height="653"/>
+	<SubTexture name="gage up0039" x="921" y="2930" width="478" height="653"/>
+	<SubTexture name="gage up0040" x="921" y="2930" width="478" height="653"/>
+	<SubTexture name="gage up0041" x="921" y="2930" width="478" height="653"/>
+	<SubTexture name="gage up0042" x="921" y="2930" width="478" height="653"/>
+	<SubTexture name="gage up0043" x="921" y="2930" width="478" height="653"/>
+	<SubTexture name="gage up0044" x="921" y="2930" width="478" height="653"/>
+</TextureAtlas>

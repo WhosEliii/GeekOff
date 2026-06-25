@@ -1,0 +1,915 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="geek_eli_pmix.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="eli alt down0000" x="0" y="0" width="523" height="537"/>
+	<SubTexture name="eli alt down0001" x="0" y="0" width="523" height="537"/>
+	<SubTexture name="eli alt down0002" x="523" y="0" width="523" height="537"/>
+	<SubTexture name="eli alt down0003" x="523" y="0" width="523" height="537"/>
+	<SubTexture name="eli alt down0004" x="523" y="0" width="523" height="537"/>
+	<SubTexture name="eli alt down0005" x="523" y="0" width="523" height="537"/>
+	<SubTexture name="eli alt down0006" x="523" y="0" width="523" height="537"/>
+	<SubTexture name="eli alt down0007" x="523" y="0" width="523" height="537"/>
+	<SubTexture name="eli alt down0008" x="523" y="0" width="523" height="537"/>
+	<SubTexture name="eli alt down0009" x="523" y="0" width="523" height="537"/>
+	<SubTexture name="eli alt down0010" x="523" y="0" width="523" height="537"/>
+	<SubTexture name="eli alt down0011" x="523" y="0" width="523" height="537"/>
+	<SubTexture name="eli alt down0012" x="523" y="0" width="523" height="537"/>
+	<SubTexture name="eli alt down0013" x="523" y="0" width="523" height="537"/>
+	<SubTexture name="eli alt down0014" x="523" y="0" width="523" height="537"/>
+	<SubTexture name="eli alt down0015" x="523" y="0" width="523" height="537"/>
+	<SubTexture name="eli alt down0016" x="523" y="0" width="523" height="537"/>
+	<SubTexture name="eli alt down0017" x="523" y="0" width="523" height="537"/>
+	<SubTexture name="eli alt down0018" x="523" y="0" width="523" height="537"/>
+	<SubTexture name="eli alt down0019" x="523" y="0" width="523" height="537"/>
+	<SubTexture name="eli alt down0020" x="523" y="0" width="523" height="537"/>
+	<SubTexture name="eli alt down0021" x="523" y="0" width="523" height="537"/>
+	<SubTexture name="eli alt down0022" x="523" y="0" width="523" height="537"/>
+	<SubTexture name="eli alt down0023" x="523" y="0" width="523" height="537"/>
+	<SubTexture name="eli alt down0024" x="523" y="0" width="523" height="537"/>
+	<SubTexture name="eli alt down0025" x="523" y="0" width="523" height="537"/>
+	<SubTexture name="eli alt down0026" x="523" y="0" width="523" height="537"/>
+	<SubTexture name="eli alt down0027" x="523" y="0" width="523" height="537"/>
+	<SubTexture name="eli alt down0028" x="523" y="0" width="523" height="537"/>
+	<SubTexture name="eli alt down0029" x="523" y="0" width="523" height="537"/>
+	<SubTexture name="eli alt down0030" x="523" y="0" width="523" height="537"/>
+	<SubTexture name="eli alt down0031" x="523" y="0" width="523" height="537"/>
+	<SubTexture name="eli alt down0032" x="523" y="0" width="523" height="537"/>
+	<SubTexture name="eli alt down0033" x="523" y="0" width="523" height="537"/>
+	<SubTexture name="eli alt down0034" x="523" y="0" width="523" height="537"/>
+	<SubTexture name="eli alt down0035" x="523" y="0" width="523" height="537"/>
+	<SubTexture name="eli alt down0036" x="523" y="0" width="523" height="537"/>
+	<SubTexture name="eli alt down0037" x="523" y="0" width="523" height="537"/>
+	<SubTexture name="eli alt down0038" x="523" y="0" width="523" height="537"/>
+	<SubTexture name="eli alt down0039" x="523" y="0" width="523" height="537"/>
+	<SubTexture name="eli alt down0040" x="523" y="0" width="523" height="537"/>
+	<SubTexture name="eli alt down0041" x="523" y="0" width="523" height="537"/>
+	<SubTexture name="eli alt down0042" x="523" y="0" width="523" height="537"/>
+	<SubTexture name="eli alt down0043" x="523" y="0" width="523" height="537"/>
+	<SubTexture name="eli alt down0044" x="523" y="0" width="523" height="537"/>
+	<SubTexture name="eli alt left0000" x="1046" y="0" width="521" height="596"/>
+	<SubTexture name="eli alt left0001" x="1046" y="0" width="521" height="596"/>
+	<SubTexture name="eli alt left0002" x="1567" y="0" width="521" height="596"/>
+	<SubTexture name="eli alt left0003" x="1567" y="0" width="521" height="596"/>
+	<SubTexture name="eli alt left0004" x="1567" y="0" width="521" height="596"/>
+	<SubTexture name="eli alt left0005" x="1567" y="0" width="521" height="596"/>
+	<SubTexture name="eli alt left0006" x="1567" y="0" width="521" height="596"/>
+	<SubTexture name="eli alt left0007" x="1567" y="0" width="521" height="596"/>
+	<SubTexture name="eli alt left0008" x="1567" y="0" width="521" height="596"/>
+	<SubTexture name="eli alt left0009" x="1567" y="0" width="521" height="596"/>
+	<SubTexture name="eli alt left0010" x="1567" y="0" width="521" height="596"/>
+	<SubTexture name="eli alt left0011" x="1567" y="0" width="521" height="596"/>
+	<SubTexture name="eli alt left0012" x="1567" y="0" width="521" height="596"/>
+	<SubTexture name="eli alt left0013" x="1567" y="0" width="521" height="596"/>
+	<SubTexture name="eli alt left0014" x="1567" y="0" width="521" height="596"/>
+	<SubTexture name="eli alt left0015" x="1567" y="0" width="521" height="596"/>
+	<SubTexture name="eli alt left0016" x="1567" y="0" width="521" height="596"/>
+	<SubTexture name="eli alt left0017" x="1567" y="0" width="521" height="596"/>
+	<SubTexture name="eli alt left0018" x="1567" y="0" width="521" height="596"/>
+	<SubTexture name="eli alt left0019" x="1567" y="0" width="521" height="596"/>
+	<SubTexture name="eli alt left0020" x="1567" y="0" width="521" height="596"/>
+	<SubTexture name="eli alt left0021" x="1567" y="0" width="521" height="596"/>
+	<SubTexture name="eli alt left0022" x="1567" y="0" width="521" height="596"/>
+	<SubTexture name="eli alt left0023" x="1567" y="0" width="521" height="596"/>
+	<SubTexture name="eli alt left0024" x="1567" y="0" width="521" height="596"/>
+	<SubTexture name="eli alt left0025" x="1567" y="0" width="521" height="596"/>
+	<SubTexture name="eli alt left0026" x="1567" y="0" width="521" height="596"/>
+	<SubTexture name="eli alt left0027" x="1567" y="0" width="521" height="596"/>
+	<SubTexture name="eli alt left0028" x="1567" y="0" width="521" height="596"/>
+	<SubTexture name="eli alt left0029" x="1567" y="0" width="521" height="596"/>
+	<SubTexture name="eli alt left0030" x="1567" y="0" width="521" height="596"/>
+	<SubTexture name="eli alt left0031" x="1567" y="0" width="521" height="596"/>
+	<SubTexture name="eli alt left0032" x="1567" y="0" width="521" height="596"/>
+	<SubTexture name="eli alt left0033" x="1567" y="0" width="521" height="596"/>
+	<SubTexture name="eli alt left0034" x="1567" y="0" width="521" height="596"/>
+	<SubTexture name="eli alt left0035" x="1567" y="0" width="521" height="596"/>
+	<SubTexture name="eli alt left0036" x="1567" y="0" width="521" height="596"/>
+	<SubTexture name="eli alt left0037" x="1567" y="0" width="521" height="596"/>
+	<SubTexture name="eli alt left0038" x="1567" y="0" width="521" height="596"/>
+	<SubTexture name="eli alt left0039" x="1567" y="0" width="521" height="596"/>
+	<SubTexture name="eli alt left0040" x="1567" y="0" width="521" height="596"/>
+	<SubTexture name="eli alt left0041" x="1567" y="0" width="521" height="596"/>
+	<SubTexture name="eli alt left0042" x="1567" y="0" width="521" height="596"/>
+	<SubTexture name="eli alt left0043" x="1567" y="0" width="521" height="596"/>
+	<SubTexture name="eli alt left0044" x="1567" y="0" width="521" height="596"/>
+	<SubTexture name="eli alt right0000" x="2088" y="0" width="520" height="612"/>
+	<SubTexture name="eli alt right0001" x="2088" y="0" width="520" height="612"/>
+	<SubTexture name="eli alt right0002" x="2608" y="0" width="520" height="612"/>
+	<SubTexture name="eli alt right0003" x="2608" y="0" width="520" height="612"/>
+	<SubTexture name="eli alt right0004" x="2608" y="0" width="520" height="612"/>
+	<SubTexture name="eli alt right0005" x="2608" y="0" width="520" height="612"/>
+	<SubTexture name="eli alt right0006" x="2608" y="0" width="520" height="612"/>
+	<SubTexture name="eli alt right0007" x="2608" y="0" width="520" height="612"/>
+	<SubTexture name="eli alt right0008" x="2608" y="0" width="520" height="612"/>
+	<SubTexture name="eli alt right0009" x="2608" y="0" width="520" height="612"/>
+	<SubTexture name="eli alt right0010" x="2608" y="0" width="520" height="612"/>
+	<SubTexture name="eli alt right0011" x="2608" y="0" width="520" height="612"/>
+	<SubTexture name="eli alt right0012" x="2608" y="0" width="520" height="612"/>
+	<SubTexture name="eli alt right0013" x="2608" y="0" width="520" height="612"/>
+	<SubTexture name="eli alt right0014" x="2608" y="0" width="520" height="612"/>
+	<SubTexture name="eli alt right0015" x="2608" y="0" width="520" height="612"/>
+	<SubTexture name="eli alt right0016" x="2608" y="0" width="520" height="612"/>
+	<SubTexture name="eli alt right0017" x="2608" y="0" width="520" height="612"/>
+	<SubTexture name="eli alt right0018" x="2608" y="0" width="520" height="612"/>
+	<SubTexture name="eli alt right0019" x="2608" y="0" width="520" height="612"/>
+	<SubTexture name="eli alt right0020" x="2608" y="0" width="520" height="612"/>
+	<SubTexture name="eli alt right0021" x="2608" y="0" width="520" height="612"/>
+	<SubTexture name="eli alt right0022" x="2608" y="0" width="520" height="612"/>
+	<SubTexture name="eli alt right0023" x="2608" y="0" width="520" height="612"/>
+	<SubTexture name="eli alt right0024" x="2608" y="0" width="520" height="612"/>
+	<SubTexture name="eli alt right0025" x="2608" y="0" width="520" height="612"/>
+	<SubTexture name="eli alt right0026" x="2608" y="0" width="520" height="612"/>
+	<SubTexture name="eli alt right0027" x="2608" y="0" width="520" height="612"/>
+	<SubTexture name="eli alt right0028" x="2608" y="0" width="520" height="612"/>
+	<SubTexture name="eli alt right0029" x="2608" y="0" width="520" height="612"/>
+	<SubTexture name="eli alt right0030" x="2608" y="0" width="520" height="612"/>
+	<SubTexture name="eli alt right0031" x="2608" y="0" width="520" height="612"/>
+	<SubTexture name="eli alt right0032" x="2608" y="0" width="520" height="612"/>
+	<SubTexture name="eli alt right0033" x="2608" y="0" width="520" height="612"/>
+	<SubTexture name="eli alt right0034" x="2608" y="0" width="520" height="612"/>
+	<SubTexture name="eli alt right0035" x="2608" y="0" width="520" height="612"/>
+	<SubTexture name="eli alt right0036" x="2608" y="0" width="520" height="612"/>
+	<SubTexture name="eli alt right0037" x="2608" y="0" width="520" height="612"/>
+	<SubTexture name="eli alt right0038" x="2608" y="0" width="520" height="612"/>
+	<SubTexture name="eli alt right0039" x="2608" y="0" width="520" height="612"/>
+	<SubTexture name="eli alt right0040" x="2608" y="0" width="520" height="612"/>
+	<SubTexture name="eli alt right0041" x="2608" y="0" width="520" height="612"/>
+	<SubTexture name="eli alt right0042" x="2608" y="0" width="520" height="612"/>
+	<SubTexture name="eli alt right0043" x="2608" y="0" width="520" height="612"/>
+	<SubTexture name="eli alt right0044" x="2608" y="0" width="520" height="612"/>
+	<SubTexture name="eli alt up0000" x="3128" y="0" width="547" height="639"/>
+	<SubTexture name="eli alt up0001" x="3128" y="0" width="547" height="639"/>
+	<SubTexture name="eli alt up0002" x="3675" y="0" width="547" height="639"/>
+	<SubTexture name="eli alt up0003" x="3675" y="0" width="547" height="639"/>
+	<SubTexture name="eli alt up0004" x="3675" y="0" width="547" height="639"/>
+	<SubTexture name="eli alt up0005" x="3675" y="0" width="547" height="639"/>
+	<SubTexture name="eli alt up0006" x="3675" y="0" width="547" height="639"/>
+	<SubTexture name="eli alt up0007" x="3675" y="0" width="547" height="639"/>
+	<SubTexture name="eli alt up0008" x="3675" y="0" width="547" height="639"/>
+	<SubTexture name="eli alt up0009" x="3675" y="0" width="547" height="639"/>
+	<SubTexture name="eli alt up0010" x="3675" y="0" width="547" height="639"/>
+	<SubTexture name="eli alt up0011" x="3675" y="0" width="547" height="639"/>
+	<SubTexture name="eli alt up0012" x="3675" y="0" width="547" height="639"/>
+	<SubTexture name="eli alt up0013" x="3675" y="0" width="547" height="639"/>
+	<SubTexture name="eli alt up0014" x="3675" y="0" width="547" height="639"/>
+	<SubTexture name="eli alt up0015" x="3675" y="0" width="547" height="639"/>
+	<SubTexture name="eli alt up0016" x="3675" y="0" width="547" height="639"/>
+	<SubTexture name="eli alt up0017" x="3675" y="0" width="547" height="639"/>
+	<SubTexture name="eli alt up0018" x="3675" y="0" width="547" height="639"/>
+	<SubTexture name="eli alt up0019" x="3675" y="0" width="547" height="639"/>
+	<SubTexture name="eli alt up0020" x="3675" y="0" width="547" height="639"/>
+	<SubTexture name="eli alt up0021" x="3675" y="0" width="547" height="639"/>
+	<SubTexture name="eli alt up0022" x="3675" y="0" width="547" height="639"/>
+	<SubTexture name="eli alt up0023" x="3675" y="0" width="547" height="639"/>
+	<SubTexture name="eli alt up0024" x="3675" y="0" width="547" height="639"/>
+	<SubTexture name="eli alt up0025" x="3675" y="0" width="547" height="639"/>
+	<SubTexture name="eli alt up0026" x="3675" y="0" width="547" height="639"/>
+	<SubTexture name="eli alt up0027" x="3675" y="0" width="547" height="639"/>
+	<SubTexture name="eli alt up0028" x="3675" y="0" width="547" height="639"/>
+	<SubTexture name="eli alt up0029" x="3675" y="0" width="547" height="639"/>
+	<SubTexture name="eli alt up0030" x="3675" y="0" width="547" height="639"/>
+	<SubTexture name="eli alt up0031" x="3675" y="0" width="547" height="639"/>
+	<SubTexture name="eli alt up0032" x="3675" y="0" width="547" height="639"/>
+	<SubTexture name="eli alt up0033" x="3675" y="0" width="547" height="639"/>
+	<SubTexture name="eli alt up0034" x="3675" y="0" width="547" height="639"/>
+	<SubTexture name="eli alt up0035" x="3675" y="0" width="547" height="639"/>
+	<SubTexture name="eli alt up0036" x="3675" y="0" width="547" height="639"/>
+	<SubTexture name="eli alt up0037" x="3675" y="0" width="547" height="639"/>
+	<SubTexture name="eli alt up0038" x="3675" y="0" width="547" height="639"/>
+	<SubTexture name="eli alt up0039" x="3675" y="0" width="547" height="639"/>
+	<SubTexture name="eli alt up0040" x="3675" y="0" width="547" height="639"/>
+	<SubTexture name="eli alt up0041" x="3675" y="0" width="547" height="639"/>
+	<SubTexture name="eli alt up0042" x="3675" y="0" width="547" height="639"/>
+	<SubTexture name="eli alt up0043" x="3675" y="0" width="547" height="639"/>
+	<SubTexture name="eli alt up0044" x="3675" y="0" width="547" height="639"/>
+	<SubTexture name="eli cough0000" x="4222" y="0" width="564" height="601"/>
+	<SubTexture name="eli cough0001" x="4222" y="0" width="564" height="601"/>
+	<SubTexture name="eli cough0002" x="4786" y="0" width="564" height="601"/>
+	<SubTexture name="eli cough0003" x="4786" y="0" width="564" height="601"/>
+	<SubTexture name="eli cough0004" x="5350" y="0" width="564" height="601"/>
+	<SubTexture name="eli cough0005" x="5350" y="0" width="564" height="601"/>
+	<SubTexture name="eli cough0006" x="5914" y="0" width="564" height="601"/>
+	<SubTexture name="eli cough0007" x="5914" y="0" width="564" height="601"/>
+	<SubTexture name="eli cough0008" x="6478" y="0" width="564" height="601"/>
+	<SubTexture name="eli cough0009" x="6478" y="0" width="564" height="601"/>
+	<SubTexture name="eli cough0010" x="7042" y="0" width="564" height="601"/>
+	<SubTexture name="eli cough0011" x="7042" y="0" width="564" height="601"/>
+	<SubTexture name="eli cough0012" x="7606" y="0" width="564" height="601"/>
+	<SubTexture name="eli cough0013" x="7606" y="0" width="564" height="601"/>
+	<SubTexture name="eli cough0014" x="0" y="639" width="564" height="601"/>
+	<SubTexture name="eli cough0015" x="0" y="639" width="564" height="601"/>
+	<SubTexture name="eli cough0016" x="564" y="639" width="564" height="601"/>
+	<SubTexture name="eli cough0017" x="564" y="639" width="564" height="601"/>
+	<SubTexture name="eli cough0018" x="564" y="639" width="564" height="601"/>
+	<SubTexture name="eli cough0019" x="564" y="639" width="564" height="601"/>
+	<SubTexture name="eli cough0020" x="1128" y="639" width="564" height="601"/>
+	<SubTexture name="eli cough0021" x="1128" y="639" width="564" height="601"/>
+	<SubTexture name="eli cough0022" x="1128" y="639" width="564" height="601"/>
+	<SubTexture name="eli cough0023" x="1128" y="639" width="564" height="601"/>
+	<SubTexture name="eli cough0024" x="564" y="639" width="564" height="601"/>
+	<SubTexture name="eli cough0025" x="564" y="639" width="564" height="601"/>
+	<SubTexture name="eli cough0026" x="564" y="639" width="564" height="601"/>
+	<SubTexture name="eli cough0027" x="564" y="639" width="564" height="601"/>
+	<SubTexture name="eli cough0028" x="1128" y="639" width="564" height="601"/>
+	<SubTexture name="eli cough0029" x="1128" y="639" width="564" height="601"/>
+	<SubTexture name="eli cough0030" x="1128" y="639" width="564" height="601"/>
+	<SubTexture name="eli cough0031" x="1128" y="639" width="564" height="601"/>
+	<SubTexture name="eli cough0032" x="564" y="639" width="564" height="601"/>
+	<SubTexture name="eli cough0033" x="564" y="639" width="564" height="601"/>
+	<SubTexture name="eli cough0034" x="1128" y="639" width="564" height="601"/>
+	<SubTexture name="eli cough0035" x="1128" y="639" width="564" height="601"/>
+	<SubTexture name="eli cough0036" x="564" y="639" width="564" height="601"/>
+	<SubTexture name="eli cough0037" x="564" y="639" width="564" height="601"/>
+	<SubTexture name="eli cough0038" x="1692" y="639" width="564" height="601"/>
+	<SubTexture name="eli cough0039" x="1692" y="639" width="564" height="601"/>
+	<SubTexture name="eli down0000" x="2256" y="639" width="530" height="537"/>
+	<SubTexture name="eli down0001" x="2256" y="639" width="530" height="537"/>
+	<SubTexture name="eli down0002" x="2786" y="639" width="530" height="537"/>
+	<SubTexture name="eli down0003" x="2786" y="639" width="530" height="537"/>
+	<SubTexture name="eli down0004" x="2786" y="639" width="530" height="537"/>
+	<SubTexture name="eli down0005" x="2786" y="639" width="530" height="537"/>
+	<SubTexture name="eli down0006" x="2786" y="639" width="530" height="537"/>
+	<SubTexture name="eli down0007" x="2786" y="639" width="530" height="537"/>
+	<SubTexture name="eli down0008" x="2786" y="639" width="530" height="537"/>
+	<SubTexture name="eli down0009" x="2786" y="639" width="530" height="537"/>
+	<SubTexture name="eli down0010" x="2786" y="639" width="530" height="537"/>
+	<SubTexture name="eli down0011" x="2786" y="639" width="530" height="537"/>
+	<SubTexture name="eli down0012" x="2786" y="639" width="530" height="537"/>
+	<SubTexture name="eli down0013" x="2786" y="639" width="530" height="537"/>
+	<SubTexture name="eli down0014" x="2786" y="639" width="530" height="537"/>
+	<SubTexture name="eli down0015" x="2786" y="639" width="530" height="537"/>
+	<SubTexture name="eli down0016" x="2786" y="639" width="530" height="537"/>
+	<SubTexture name="eli down0017" x="2786" y="639" width="530" height="537"/>
+	<SubTexture name="eli down0018" x="2786" y="639" width="530" height="537"/>
+	<SubTexture name="eli down0019" x="2786" y="639" width="530" height="537"/>
+	<SubTexture name="eli down0020" x="2786" y="639" width="530" height="537"/>
+	<SubTexture name="eli down0021" x="2786" y="639" width="530" height="537"/>
+	<SubTexture name="eli down0022" x="2786" y="639" width="530" height="537"/>
+	<SubTexture name="eli down0023" x="2786" y="639" width="530" height="537"/>
+	<SubTexture name="eli down0024" x="2786" y="639" width="530" height="537"/>
+	<SubTexture name="eli down0025" x="2786" y="639" width="530" height="537"/>
+	<SubTexture name="eli down0026" x="2786" y="639" width="530" height="537"/>
+	<SubTexture name="eli down0027" x="2786" y="639" width="530" height="537"/>
+	<SubTexture name="eli down0028" x="2786" y="639" width="530" height="537"/>
+	<SubTexture name="eli down0029" x="2786" y="639" width="530" height="537"/>
+	<SubTexture name="eli down0030" x="2786" y="639" width="530" height="537"/>
+	<SubTexture name="eli down0031" x="2786" y="639" width="530" height="537"/>
+	<SubTexture name="eli down0032" x="2786" y="639" width="530" height="537"/>
+	<SubTexture name="eli down0033" x="2786" y="639" width="530" height="537"/>
+	<SubTexture name="eli down0034" x="2786" y="639" width="530" height="537"/>
+	<SubTexture name="eli down0035" x="2786" y="639" width="530" height="537"/>
+	<SubTexture name="eli down0036" x="2786" y="639" width="530" height="537"/>
+	<SubTexture name="eli down0037" x="2786" y="639" width="530" height="537"/>
+	<SubTexture name="eli down0038" x="2786" y="639" width="530" height="537"/>
+	<SubTexture name="eli down0039" x="2786" y="639" width="530" height="537"/>
+	<SubTexture name="eli down0040" x="2786" y="639" width="530" height="537"/>
+	<SubTexture name="eli down0041" x="2786" y="639" width="530" height="537"/>
+	<SubTexture name="eli down0042" x="2786" y="639" width="530" height="537"/>
+	<SubTexture name="eli down0043" x="2786" y="639" width="530" height="537"/>
+	<SubTexture name="eli down0044" x="2786" y="639" width="530" height="537"/>
+	<SubTexture name="eli hey0000" x="3316" y="639" width="538" height="610"/>
+	<SubTexture name="eli hey0001" x="3316" y="639" width="538" height="610"/>
+	<SubTexture name="eli hey0002" x="3854" y="639" width="538" height="610"/>
+	<SubTexture name="eli hey0003" x="3854" y="639" width="538" height="610"/>
+	<SubTexture name="eli hey0004" x="4392" y="639" width="538" height="610"/>
+	<SubTexture name="eli hey0005" x="4392" y="639" width="538" height="610"/>
+	<SubTexture name="eli hey0006" x="4392" y="639" width="538" height="610"/>
+	<SubTexture name="eli hey0007" x="4392" y="639" width="538" height="610"/>
+	<SubTexture name="eli hey0008" x="4392" y="639" width="538" height="610"/>
+	<SubTexture name="eli hey0009" x="4392" y="639" width="538" height="610"/>
+	<SubTexture name="eli hey0010" x="4392" y="639" width="538" height="610"/>
+	<SubTexture name="eli hey0011" x="4392" y="639" width="538" height="610"/>
+	<SubTexture name="eli hey0012" x="4392" y="639" width="538" height="610"/>
+	<SubTexture name="eli hey0013" x="4392" y="639" width="538" height="610"/>
+	<SubTexture name="eli hey0014" x="4392" y="639" width="538" height="610"/>
+	<SubTexture name="eli hey0015" x="4392" y="639" width="538" height="610"/>
+	<SubTexture name="eli hey0016" x="4392" y="639" width="538" height="610"/>
+	<SubTexture name="eli hey0017" x="4392" y="639" width="538" height="610"/>
+	<SubTexture name="eli hey0018" x="4392" y="639" width="538" height="610"/>
+	<SubTexture name="eli hey0019" x="4392" y="639" width="538" height="610"/>
+	<SubTexture name="eli hey0020" x="4392" y="639" width="538" height="610"/>
+	<SubTexture name="eli hey0021" x="4392" y="639" width="538" height="610"/>
+	<SubTexture name="eli hey0022" x="4392" y="639" width="538" height="610"/>
+	<SubTexture name="eli hey0023" x="4392" y="639" width="538" height="610"/>
+	<SubTexture name="eli hey0024" x="4392" y="639" width="538" height="610"/>
+	<SubTexture name="eli hey0025" x="4392" y="639" width="538" height="610"/>
+	<SubTexture name="eli hey0026" x="4392" y="639" width="538" height="610"/>
+	<SubTexture name="eli hey0027" x="4392" y="639" width="538" height="610"/>
+	<SubTexture name="eli hey0028" x="4392" y="639" width="538" height="610"/>
+	<SubTexture name="eli hey0029" x="4392" y="639" width="538" height="610"/>
+	<SubTexture name="eli hey0030" x="4392" y="639" width="538" height="610"/>
+	<SubTexture name="eli hey0031" x="4392" y="639" width="538" height="610"/>
+	<SubTexture name="eli hey0032" x="4392" y="639" width="538" height="610"/>
+	<SubTexture name="eli hey0033" x="4392" y="639" width="538" height="610"/>
+	<SubTexture name="eli hey0034" x="4392" y="639" width="538" height="610"/>
+	<SubTexture name="eli hey0035" x="4392" y="639" width="538" height="610"/>
+	<SubTexture name="eli hey0036" x="4392" y="639" width="538" height="610"/>
+	<SubTexture name="eli hey0037" x="4392" y="639" width="538" height="610"/>
+	<SubTexture name="eli hey0038" x="4392" y="639" width="538" height="610"/>
+	<SubTexture name="eli hey0039" x="4392" y="639" width="538" height="610"/>
+	<SubTexture name="eli hey0040" x="4392" y="639" width="538" height="610"/>
+	<SubTexture name="eli hey0041" x="4392" y="639" width="538" height="610"/>
+	<SubTexture name="eli hey0042" x="4392" y="639" width="538" height="610"/>
+	<SubTexture name="eli hey0043" x="4392" y="639" width="538" height="610"/>
+	<SubTexture name="eli hey0044" x="4392" y="639" width="538" height="610"/>
+	<SubTexture name="eli idle0000" x="4930" y="639" width="545" height="614"/>
+	<SubTexture name="eli idle0001" x="4930" y="639" width="545" height="614"/>
+	<SubTexture name="eli idle0002" x="5475" y="639" width="545" height="614"/>
+	<SubTexture name="eli idle0003" x="5475" y="639" width="545" height="614"/>
+	<SubTexture name="eli idle0004" x="6020" y="639" width="545" height="614"/>
+	<SubTexture name="eli idle0005" x="6020" y="639" width="545" height="614"/>
+	<SubTexture name="eli idle0006" x="6565" y="639" width="545" height="614"/>
+	<SubTexture name="eli idle0007" x="6565" y="639" width="545" height="614"/>
+	<SubTexture name="eli idle0008" x="7110" y="639" width="545" height="614"/>
+	<SubTexture name="eli idle0009" x="7110" y="639" width="545" height="614"/>
+	<SubTexture name="eli idle0010" x="7110" y="639" width="545" height="614"/>
+	<SubTexture name="eli idle0011" x="7110" y="639" width="545" height="614"/>
+	<SubTexture name="eli idle0012" x="7110" y="639" width="545" height="614"/>
+	<SubTexture name="eli idle0013" x="7110" y="639" width="545" height="614"/>
+	<SubTexture name="eli kill0000" x="0" y="1253" width="889" height="629"/>
+	<SubTexture name="eli kill0001" x="0" y="1253" width="889" height="629"/>
+	<SubTexture name="eli kill0002" x="889" y="1253" width="889" height="629"/>
+	<SubTexture name="eli kill0003" x="889" y="1253" width="889" height="629"/>
+	<SubTexture name="eli kill0004" x="1778" y="1253" width="889" height="629"/>
+	<SubTexture name="eli kill0005" x="1778" y="1253" width="889" height="629"/>
+	<SubTexture name="eli kill0006" x="2667" y="1253" width="889" height="629"/>
+	<SubTexture name="eli kill0007" x="2667" y="1253" width="889" height="629"/>
+	<SubTexture name="eli kill0008" x="3556" y="1253" width="889" height="629"/>
+	<SubTexture name="eli kill0009" x="4445" y="1253" width="889" height="629"/>
+	<SubTexture name="eli kill0010" x="4445" y="1253" width="889" height="629"/>
+	<SubTexture name="eli kill0011" x="5334" y="1253" width="889" height="629"/>
+	<SubTexture name="eli kill0012" x="5334" y="1253" width="889" height="629"/>
+	<SubTexture name="eli kill0013" x="6223" y="1253" width="889" height="629"/>
+	<SubTexture name="eli kill0014" x="6223" y="1253" width="889" height="629"/>
+	<SubTexture name="eli kill0015" x="6223" y="1253" width="889" height="629"/>
+	<SubTexture name="eli kill0016" x="6223" y="1253" width="889" height="629"/>
+	<SubTexture name="eli kill0017" x="6223" y="1253" width="889" height="629"/>
+	<SubTexture name="eli kill0018" x="6223" y="1253" width="889" height="629"/>
+	<SubTexture name="eli kill0019" x="6223" y="1253" width="889" height="629"/>
+	<SubTexture name="eli kill0020" x="6223" y="1253" width="889" height="629"/>
+	<SubTexture name="eli kill0021" x="6223" y="1253" width="889" height="629"/>
+	<SubTexture name="eli kill0022" x="6223" y="1253" width="889" height="629"/>
+	<SubTexture name="eli kill0023" x="6223" y="1253" width="889" height="629"/>
+	<SubTexture name="eli kill0024" x="6223" y="1253" width="889" height="629"/>
+	<SubTexture name="eli kill0025" x="6223" y="1253" width="889" height="629"/>
+	<SubTexture name="eli kill0026" x="6223" y="1253" width="889" height="629"/>
+	<SubTexture name="eli kill0027" x="6223" y="1253" width="889" height="629"/>
+	<SubTexture name="eli kill0028" x="6223" y="1253" width="889" height="629"/>
+	<SubTexture name="eli kill0029" x="6223" y="1253" width="889" height="629"/>
+	<SubTexture name="eli kill0030" x="6223" y="1253" width="889" height="629"/>
+	<SubTexture name="eli kill0031" x="6223" y="1253" width="889" height="629"/>
+	<SubTexture name="eli kill0032" x="6223" y="1253" width="889" height="629"/>
+	<SubTexture name="eli kill0033" x="6223" y="1253" width="889" height="629"/>
+	<SubTexture name="eli kill0034" x="6223" y="1253" width="889" height="629"/>
+	<SubTexture name="eli kill0035" x="6223" y="1253" width="889" height="629"/>
+	<SubTexture name="eli kill0036" x="7112" y="1253" width="889" height="629"/>
+	<SubTexture name="eli kill0037" x="7112" y="1253" width="889" height="629"/>
+	<SubTexture name="eli kill0038" x="0" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0039" x="0" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0040" x="889" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0041" x="889" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0042" x="1778" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0043" x="1778" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0044" x="2667" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0045" x="2667" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0046" x="3556" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0047" x="3556" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0048" x="4445" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0049" x="4445" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0050" x="5334" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0051" x="5334" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0052" x="1778" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0053" x="1778" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0054" x="2667" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0055" x="2667" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0056" x="3556" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0057" x="3556" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0058" x="1778" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0059" x="1778" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0060" x="2667" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0061" x="2667" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0062" x="3556" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0063" x="3556" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0064" x="4445" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0065" x="4445" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0066" x="5334" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0067" x="5334" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0068" x="5334" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0069" x="1778" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0070" x="1778" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0071" x="2667" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0072" x="2667" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0073" x="3556" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0074" x="3556" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0075" x="4445" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0076" x="4445" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0077" x="5334" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0078" x="5334" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0079" x="5334" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0080" x="5334" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0081" x="5334" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0082" x="5334" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0083" x="1778" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0084" x="1778" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0085" x="2667" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0086" x="2667" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0087" x="3556" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0088" x="3556" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0089" x="4445" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0090" x="4445" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0091" x="5334" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0092" x="5334" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0093" x="5334" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0094" x="5334" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0095" x="5334" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0096" x="5334" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0097" x="5334" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0098" x="5334" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0099" x="5334" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0100" x="5334" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0101" x="5334" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0102" x="5334" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0103" x="5334" y="1882" width="889" height="629"/>
+	<SubTexture name="eli kill0104" x="5334" y="1882" width="889" height="629"/>
+	<SubTexture name="eli left0000" x="6223" y="1882" width="560" height="596"/>
+	<SubTexture name="eli left0001" x="6223" y="1882" width="560" height="596"/>
+	<SubTexture name="eli left0002" x="6783" y="1882" width="560" height="596"/>
+	<SubTexture name="eli left0003" x="6783" y="1882" width="560" height="596"/>
+	<SubTexture name="eli left0004" x="6783" y="1882" width="560" height="596"/>
+	<SubTexture name="eli left0005" x="6783" y="1882" width="560" height="596"/>
+	<SubTexture name="eli left0006" x="6783" y="1882" width="560" height="596"/>
+	<SubTexture name="eli left0007" x="6783" y="1882" width="560" height="596"/>
+	<SubTexture name="eli left0008" x="6783" y="1882" width="560" height="596"/>
+	<SubTexture name="eli left0009" x="6783" y="1882" width="560" height="596"/>
+	<SubTexture name="eli left0010" x="6783" y="1882" width="560" height="596"/>
+	<SubTexture name="eli left0011" x="6783" y="1882" width="560" height="596"/>
+	<SubTexture name="eli left0012" x="6783" y="1882" width="560" height="596"/>
+	<SubTexture name="eli left0013" x="6783" y="1882" width="560" height="596"/>
+	<SubTexture name="eli left0014" x="6783" y="1882" width="560" height="596"/>
+	<SubTexture name="eli left0015" x="6783" y="1882" width="560" height="596"/>
+	<SubTexture name="eli left0016" x="6783" y="1882" width="560" height="596"/>
+	<SubTexture name="eli left0017" x="6783" y="1882" width="560" height="596"/>
+	<SubTexture name="eli left0018" x="6783" y="1882" width="560" height="596"/>
+	<SubTexture name="eli left0019" x="6783" y="1882" width="560" height="596"/>
+	<SubTexture name="eli left0020" x="6783" y="1882" width="560" height="596"/>
+	<SubTexture name="eli left0021" x="6783" y="1882" width="560" height="596"/>
+	<SubTexture name="eli left0022" x="6783" y="1882" width="560" height="596"/>
+	<SubTexture name="eli left0023" x="6783" y="1882" width="560" height="596"/>
+	<SubTexture name="eli left0024" x="6783" y="1882" width="560" height="596"/>
+	<SubTexture name="eli left0025" x="6783" y="1882" width="560" height="596"/>
+	<SubTexture name="eli left0026" x="6783" y="1882" width="560" height="596"/>
+	<SubTexture name="eli left0027" x="6783" y="1882" width="560" height="596"/>
+	<SubTexture name="eli left0028" x="6783" y="1882" width="560" height="596"/>
+	<SubTexture name="eli left0029" x="6783" y="1882" width="560" height="596"/>
+	<SubTexture name="eli left0030" x="6783" y="1882" width="560" height="596"/>
+	<SubTexture name="eli left0031" x="6783" y="1882" width="560" height="596"/>
+	<SubTexture name="eli left0032" x="6783" y="1882" width="560" height="596"/>
+	<SubTexture name="eli left0033" x="6783" y="1882" width="560" height="596"/>
+	<SubTexture name="eli left0034" x="6783" y="1882" width="560" height="596"/>
+	<SubTexture name="eli left0035" x="6783" y="1882" width="560" height="596"/>
+	<SubTexture name="eli left0036" x="6783" y="1882" width="560" height="596"/>
+	<SubTexture name="eli left0037" x="6783" y="1882" width="560" height="596"/>
+	<SubTexture name="eli left0038" x="6783" y="1882" width="560" height="596"/>
+	<SubTexture name="eli left0039" x="6783" y="1882" width="560" height="596"/>
+	<SubTexture name="eli left0040" x="6783" y="1882" width="560" height="596"/>
+	<SubTexture name="eli left0041" x="6783" y="1882" width="560" height="596"/>
+	<SubTexture name="eli left0042" x="6783" y="1882" width="560" height="596"/>
+	<SubTexture name="eli left0043" x="6783" y="1882" width="560" height="596"/>
+	<SubTexture name="eli left0044" x="6783" y="1882" width="560" height="596"/>
+	<SubTexture name="eli right0000" x="7343" y="1882" width="520" height="612"/>
+	<SubTexture name="eli right0001" x="7343" y="1882" width="520" height="612"/>
+	<SubTexture name="eli right0002" x="0" y="2511" width="520" height="612"/>
+	<SubTexture name="eli right0003" x="0" y="2511" width="520" height="612"/>
+	<SubTexture name="eli right0004" x="0" y="2511" width="520" height="612"/>
+	<SubTexture name="eli right0005" x="0" y="2511" width="520" height="612"/>
+	<SubTexture name="eli right0006" x="0" y="2511" width="520" height="612"/>
+	<SubTexture name="eli right0007" x="0" y="2511" width="520" height="612"/>
+	<SubTexture name="eli right0008" x="0" y="2511" width="520" height="612"/>
+	<SubTexture name="eli right0009" x="0" y="2511" width="520" height="612"/>
+	<SubTexture name="eli right0010" x="0" y="2511" width="520" height="612"/>
+	<SubTexture name="eli right0011" x="0" y="2511" width="520" height="612"/>
+	<SubTexture name="eli right0012" x="0" y="2511" width="520" height="612"/>
+	<SubTexture name="eli right0013" x="0" y="2511" width="520" height="612"/>
+	<SubTexture name="eli right0014" x="0" y="2511" width="520" height="612"/>
+	<SubTexture name="eli right0015" x="0" y="2511" width="520" height="612"/>
+	<SubTexture name="eli right0016" x="0" y="2511" width="520" height="612"/>
+	<SubTexture name="eli right0017" x="0" y="2511" width="520" height="612"/>
+	<SubTexture name="eli right0018" x="0" y="2511" width="520" height="612"/>
+	<SubTexture name="eli right0019" x="0" y="2511" width="520" height="612"/>
+	<SubTexture name="eli right0020" x="0" y="2511" width="520" height="612"/>
+	<SubTexture name="eli right0021" x="0" y="2511" width="520" height="612"/>
+	<SubTexture name="eli right0022" x="0" y="2511" width="520" height="612"/>
+	<SubTexture name="eli right0023" x="0" y="2511" width="520" height="612"/>
+	<SubTexture name="eli right0024" x="0" y="2511" width="520" height="612"/>
+	<SubTexture name="eli right0025" x="0" y="2511" width="520" height="612"/>
+	<SubTexture name="eli right0026" x="0" y="2511" width="520" height="612"/>
+	<SubTexture name="eli right0027" x="0" y="2511" width="520" height="612"/>
+	<SubTexture name="eli right0028" x="0" y="2511" width="520" height="612"/>
+	<SubTexture name="eli right0029" x="0" y="2511" width="520" height="612"/>
+	<SubTexture name="eli right0030" x="0" y="2511" width="520" height="612"/>
+	<SubTexture name="eli right0031" x="0" y="2511" width="520" height="612"/>
+	<SubTexture name="eli right0032" x="0" y="2511" width="520" height="612"/>
+	<SubTexture name="eli right0033" x="0" y="2511" width="520" height="612"/>
+	<SubTexture name="eli right0034" x="0" y="2511" width="520" height="612"/>
+	<SubTexture name="eli right0035" x="0" y="2511" width="520" height="612"/>
+	<SubTexture name="eli right0036" x="0" y="2511" width="520" height="612"/>
+	<SubTexture name="eli right0037" x="0" y="2511" width="520" height="612"/>
+	<SubTexture name="eli right0038" x="0" y="2511" width="520" height="612"/>
+	<SubTexture name="eli right0039" x="0" y="2511" width="520" height="612"/>
+	<SubTexture name="eli right0040" x="0" y="2511" width="520" height="612"/>
+	<SubTexture name="eli right0041" x="0" y="2511" width="520" height="612"/>
+	<SubTexture name="eli right0042" x="0" y="2511" width="520" height="612"/>
+	<SubTexture name="eli right0043" x="0" y="2511" width="520" height="612"/>
+	<SubTexture name="eli right0044" x="0" y="2511" width="520" height="612"/>
+	<SubTexture name="eli speed dance0000" x="520" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0001" x="520" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0002" x="1061" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0003" x="1061" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0004" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0005" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0006" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0007" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0008" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0009" x="2143" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0010" x="2143" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0011" x="2684" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0012" x="2684" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0013" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0014" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0015" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0016" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0017" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0018" x="520" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0019" x="520" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0020" x="1061" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0021" x="1061" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0022" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0023" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0024" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0025" x="2143" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0026" x="2143" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0027" x="2684" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0028" x="2684" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0029" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0030" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0031" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0032" x="520" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0033" x="520" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0034" x="1061" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0035" x="1061" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0036" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0037" x="2143" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0038" x="2143" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0039" x="2684" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0040" x="2684" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0041" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0042" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0043" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0044" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0045" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0046" x="520" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0047" x="520" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0048" x="1061" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0049" x="1061" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0050" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0051" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0052" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0053" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0054" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0055" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0056" x="2143" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0057" x="2143" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0058" x="2684" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0059" x="2684" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0060" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0061" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0062" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0063" x="520" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0064" x="520" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0065" x="1061" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0066" x="1061" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0067" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0068" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0069" x="2143" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0070" x="2143" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0071" x="2684" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0072" x="2684" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0073" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0074" x="520" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0075" x="520" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0076" x="1061" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0077" x="1061" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0078" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0079" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0080" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0081" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0082" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0083" x="2143" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0084" x="2143" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0085" x="2684" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0086" x="2684" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0087" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0088" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0089" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0090" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0091" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0092" x="520" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0093" x="520" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0094" x="1061" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0095" x="1061" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0096" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0097" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0098" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0099" x="2143" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0100" x="2143" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0101" x="2684" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0102" x="2684" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0103" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0104" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0105" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0106" x="520" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0107" x="520" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0108" x="1061" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0109" x="1061" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0110" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0111" x="2143" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0112" x="2143" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0113" x="2684" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0114" x="2684" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0115" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0116" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0117" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0118" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0119" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0120" x="520" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0121" x="520" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0122" x="1061" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0123" x="1061" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0124" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0125" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0126" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0127" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0128" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0129" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0130" x="2143" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0131" x="2143" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0132" x="2684" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0133" x="2684" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0134" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0135" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0136" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0137" x="520" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0138" x="520" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0139" x="1061" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0140" x="1061" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0141" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0142" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0143" x="2143" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0144" x="2143" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0145" x="2684" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0146" x="2684" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0147" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0148" x="520" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0149" x="520" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0150" x="1061" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0151" x="1061" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0152" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0153" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0154" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0155" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0156" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0157" x="2143" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0158" x="2143" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0159" x="2684" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0160" x="2684" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0161" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0162" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0163" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0164" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0165" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0166" x="520" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0167" x="520" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0168" x="1061" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0169" x="1061" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0170" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0171" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0172" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0173" x="2143" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0174" x="2143" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0175" x="2684" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0176" x="2684" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0177" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0178" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0179" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0180" x="520" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0181" x="520" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0182" x="1061" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0183" x="1061" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0184" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0185" x="2143" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0186" x="2143" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0187" x="2684" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0188" x="2684" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0189" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0190" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0191" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0192" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0193" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0194" x="520" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0195" x="520" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0196" x="1061" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0197" x="1061" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0198" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0199" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0200" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0201" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0202" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0203" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0204" x="2143" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0205" x="2143" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0206" x="2684" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0207" x="2684" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0208" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0209" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0210" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0211" x="520" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0212" x="520" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0213" x="1061" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0214" x="1061" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0215" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0216" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0217" x="2143" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0218" x="2143" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0219" x="2684" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0220" x="2684" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0221" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0222" x="520" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0223" x="520" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0224" x="1061" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0225" x="1061" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0226" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0227" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0228" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0229" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0230" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0231" x="2143" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0232" x="2143" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0233" x="2684" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0234" x="2684" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0235" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0236" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0237" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0238" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0239" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0240" x="520" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0241" x="520" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0242" x="1061" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0243" x="1061" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0244" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0245" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0246" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0247" x="2143" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0248" x="2143" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0249" x="2684" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0250" x="2684" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0251" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0252" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0253" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0254" x="520" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0255" x="520" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0256" x="1061" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0257" x="1061" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0258" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0259" x="2143" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0260" x="2143" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0261" x="2684" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0262" x="2684" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0263" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0264" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0265" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0266" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0267" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0268" x="520" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0269" x="520" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0270" x="1061" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0271" x="1061" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0272" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0273" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0274" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0275" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0276" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0277" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0278" x="2143" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0279" x="2143" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0280" x="2684" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0281" x="2684" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0282" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0283" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0284" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0285" x="520" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0286" x="520" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0287" x="1061" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0288" x="1061" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0289" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0290" x="1602" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0291" x="2143" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0292" x="2143" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0293" x="2684" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0294" x="2684" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0295" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli speed dance0296" x="3225" y="2511" width="541" height="628"/>
+	<SubTexture name="eli uhhh0000" x="3766" y="2511" width="519" height="607"/>
+	<SubTexture name="eli uhhh0001" x="3766" y="2511" width="519" height="607"/>
+	<SubTexture name="eli uhhh0002" x="4285" y="2511" width="519" height="607"/>
+	<SubTexture name="eli uhhh0003" x="4285" y="2511" width="519" height="607"/>
+	<SubTexture name="eli uhhh0004" x="4804" y="2511" width="519" height="607"/>
+	<SubTexture name="eli uhhh0005" x="4804" y="2511" width="519" height="607"/>
+	<SubTexture name="eli uhhh0006" x="5323" y="2511" width="519" height="607"/>
+	<SubTexture name="eli uhhh0007" x="5323" y="2511" width="519" height="607"/>
+	<SubTexture name="eli uhhh0008" x="5842" y="2511" width="519" height="607"/>
+	<SubTexture name="eli uhhh0009" x="5842" y="2511" width="519" height="607"/>
+	<SubTexture name="eli uhhh0010" x="6361" y="2511" width="519" height="607"/>
+	<SubTexture name="eli uhhh0011" x="6361" y="2511" width="519" height="607"/>
+	<SubTexture name="eli uhhh0012" x="6880" y="2511" width="519" height="607"/>
+	<SubTexture name="eli uhhh0013" x="6880" y="2511" width="519" height="607"/>
+	<SubTexture name="eli uhhh0014" x="7399" y="2511" width="519" height="607"/>
+	<SubTexture name="eli uhhh0015" x="7399" y="2511" width="519" height="607"/>
+	<SubTexture name="eli uhhh0016" x="7399" y="2511" width="519" height="607"/>
+	<SubTexture name="eli uhhh0017" x="7399" y="2511" width="519" height="607"/>
+	<SubTexture name="eli uhhh0018" x="7399" y="2511" width="519" height="607"/>
+	<SubTexture name="eli uhhh0019" x="7399" y="2511" width="519" height="607"/>
+	<SubTexture name="eli uhhh0020" x="7399" y="2511" width="519" height="607"/>
+	<SubTexture name="eli uhhh0021" x="7399" y="2511" width="519" height="607"/>
+	<SubTexture name="eli uhhh0022" x="7399" y="2511" width="519" height="607"/>
+	<SubTexture name="eli uhhh0023" x="7399" y="2511" width="519" height="607"/>
+	<SubTexture name="eli uhhh0024" x="7399" y="2511" width="519" height="607"/>
+	<SubTexture name="eli uhhh0025" x="7399" y="2511" width="519" height="607"/>
+	<SubTexture name="eli uhhh0026" x="7399" y="2511" width="519" height="607"/>
+	<SubTexture name="eli uhhh0027" x="7399" y="2511" width="519" height="607"/>
+	<SubTexture name="eli uhhh0028" x="7399" y="2511" width="519" height="607"/>
+	<SubTexture name="eli uhhh0029" x="7399" y="2511" width="519" height="607"/>
+	<SubTexture name="eli uhhh0030" x="7399" y="2511" width="519" height="607"/>
+	<SubTexture name="eli uhhh0031" x="7399" y="2511" width="519" height="607"/>
+	<SubTexture name="eli uhhh0032" x="7399" y="2511" width="519" height="607"/>
+	<SubTexture name="eli uhhh0033" x="7399" y="2511" width="519" height="607"/>
+	<SubTexture name="eli uhhh0034" x="7399" y="2511" width="519" height="607"/>
+	<SubTexture name="eli uhhh0035" x="7399" y="2511" width="519" height="607"/>
+	<SubTexture name="eli uhhh0036" x="7399" y="2511" width="519" height="607"/>
+	<SubTexture name="eli uhhh0037" x="7399" y="2511" width="519" height="607"/>
+	<SubTexture name="eli uhhh0038" x="7399" y="2511" width="519" height="607"/>
+	<SubTexture name="eli uhhh0039" x="7399" y="2511" width="519" height="607"/>
+	<SubTexture name="eli uhhh0040" x="7399" y="2511" width="519" height="607"/>
+	<SubTexture name="eli uhhh0041" x="7399" y="2511" width="519" height="607"/>
+	<SubTexture name="eli uhhh0042" x="7399" y="2511" width="519" height="607"/>
+	<SubTexture name="eli uhhh0043" x="7399" y="2511" width="519" height="607"/>
+	<SubTexture name="eli uhhh0044" x="7399" y="2511" width="519" height="607"/>
+	<SubTexture name="eli uhhh0045" x="7399" y="2511" width="519" height="607"/>
+	<SubTexture name="eli uhhh0046" x="7399" y="2511" width="519" height="607"/>
+	<SubTexture name="eli uhhh0047" x="7399" y="2511" width="519" height="607"/>
+	<SubTexture name="eli uhhh0048" x="7399" y="2511" width="519" height="607"/>
+	<SubTexture name="eli up0000" x="0" y="3139" width="473" height="639"/>
+	<SubTexture name="eli up0001" x="0" y="3139" width="473" height="639"/>
+	<SubTexture name="eli up0002" x="473" y="3139" width="473" height="639"/>
+	<SubTexture name="eli up0003" x="473" y="3139" width="473" height="639"/>
+	<SubTexture name="eli up0004" x="473" y="3139" width="473" height="639"/>
+	<SubTexture name="eli up0005" x="473" y="3139" width="473" height="639"/>
+	<SubTexture name="eli up0006" x="473" y="3139" width="473" height="639"/>
+	<SubTexture name="eli up0007" x="473" y="3139" width="473" height="639"/>
+	<SubTexture name="eli up0008" x="473" y="3139" width="473" height="639"/>
+	<SubTexture name="eli up0009" x="473" y="3139" width="473" height="639"/>
+	<SubTexture name="eli up0010" x="473" y="3139" width="473" height="639"/>
+	<SubTexture name="eli up0011" x="473" y="3139" width="473" height="639"/>
+	<SubTexture name="eli up0012" x="473" y="3139" width="473" height="639"/>
+	<SubTexture name="eli up0013" x="473" y="3139" width="473" height="639"/>
+	<SubTexture name="eli up0014" x="473" y="3139" width="473" height="639"/>
+	<SubTexture name="eli up0015" x="473" y="3139" width="473" height="639"/>
+	<SubTexture name="eli up0016" x="473" y="3139" width="473" height="639"/>
+	<SubTexture name="eli up0017" x="473" y="3139" width="473" height="639"/>
+	<SubTexture name="eli up0018" x="473" y="3139" width="473" height="639"/>
+	<SubTexture name="eli up0019" x="473" y="3139" width="473" height="639"/>
+	<SubTexture name="eli up0020" x="473" y="3139" width="473" height="639"/>
+	<SubTexture name="eli up0021" x="473" y="3139" width="473" height="639"/>
+	<SubTexture name="eli up0022" x="473" y="3139" width="473" height="639"/>
+	<SubTexture name="eli up0023" x="473" y="3139" width="473" height="639"/>
+	<SubTexture name="eli up0024" x="473" y="3139" width="473" height="639"/>
+	<SubTexture name="eli up0025" x="473" y="3139" width="473" height="639"/>
+	<SubTexture name="eli up0026" x="473" y="3139" width="473" height="639"/>
+	<SubTexture name="eli up0027" x="473" y="3139" width="473" height="639"/>
+	<SubTexture name="eli up0028" x="473" y="3139" width="473" height="639"/>
+	<SubTexture name="eli up0029" x="473" y="3139" width="473" height="639"/>
+	<SubTexture name="eli up0030" x="473" y="3139" width="473" height="639"/>
+	<SubTexture name="eli up0031" x="473" y="3139" width="473" height="639"/>
+	<SubTexture name="eli up0032" x="473" y="3139" width="473" height="639"/>
+	<SubTexture name="eli up0033" x="473" y="3139" width="473" height="639"/>
+	<SubTexture name="eli up0034" x="473" y="3139" width="473" height="639"/>
+	<SubTexture name="eli up0035" x="473" y="3139" width="473" height="639"/>
+	<SubTexture name="eli up0036" x="473" y="3139" width="473" height="639"/>
+	<SubTexture name="eli up0037" x="473" y="3139" width="473" height="639"/>
+	<SubTexture name="eli up0038" x="473" y="3139" width="473" height="639"/>
+	<SubTexture name="eli up0039" x="473" y="3139" width="473" height="639"/>
+	<SubTexture name="eli up0040" x="473" y="3139" width="473" height="639"/>
+	<SubTexture name="eli up0041" x="473" y="3139" width="473" height="639"/>
+	<SubTexture name="eli up0042" x="473" y="3139" width="473" height="639"/>
+	<SubTexture name="eli up0043" x="473" y="3139" width="473" height="639"/>
+	<SubTexture name="eli up0044" x="473" y="3139" width="473" height="639"/>
+</TextureAtlas>

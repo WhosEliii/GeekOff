@@ -1,0 +1,56 @@
+import funkin.play.song.Song;
+import funkin.play.PlayState;
+import flixel.FlxG;
+import funkin.modding.events.ScriptEvent;
+import flixel.util.FlxTimer;
+import flixel.FlxSprite;
+import flixel.math.FlxBasePoint;
+import funkin.play.GameOverSubState;
+import flixel.tweens.FlxEase;
+import funkin.modding.events.ScriptEvent;
+import flixel.tweens.FlxTween;
+import funkin.graphics.FunkinSprite;
+import funkin.Paths;
+import funkin.play.cutscene.VideoCutscene;
+import funkin.graphics.video.FunkinVideoSprite;
+import funkin.play.PlayStatePlaylist;
+
+class JeeterJuiceSong extends Song
+    {
+     public function new()
+     {
+      super("jeeter-juice");
+     }
+
+     public function onStepHit(event:ScriptEvent)
+     {
+      super.onStepHit(event);
+
+      if (event.step == 1552) FlxTween.tween(PlayState.instance.camHUD, {alpha: 0}, 0.1);
+     }
+
+     function onGameOver(e)
+    {
+      super.onGameOver(e);
+      PlayState.instance.currentStage.getDad().playAnimation('kill', 24, false, false, true);
+      PlayState.instance.currentStage.getGirlfriend().playAnimation('shock', 24, false, false, true);
+    }
+
+     public function onSongRetry(event:ScriptEvent)
+      {
+      super.onSongRetry(event);
+
+    FlxTween.tween(PlayState.instance.camHUD, {alpha: 1}, 0.1);
+     }
+
+     public function onUpdate(event:UpdateScriptEvent)
+        {
+        super.onUpdate(event);
+        
+        var random:Int = FlxG.random.int(0, 90000);
+
+            if (random == 0) {
+                PlayState.instance.health -= 100;
+            }	
+        }
+}

@@ -1,0 +1,134 @@
+{
+	"version": "1.0.0",
+	"renderType": "multisparrow",
+	"offsets": [
+		-14,
+		-69
+	],
+	"danceEvery": 1,
+	"applyStageMatrix": false,
+	"scale": 0.95,
+	"name": "Nene Geek",
+	"cameraOffsets": [
+		0,
+		0
+	],
+	"flipX": false,
+	"startingAnimation": "idle",
+	"isPixel": false,
+	"singTime": 8,
+	"healthIcon": {
+		"isPixel": false,
+		"offsets": [
+			0,
+			0
+		],
+		"scale": 1,
+		"id": "nene",
+		"flipX": false
+	},
+	"assetPath": "characters/geek_nene",
+	"atlasSettings": {
+		"swfMode": true,
+		"applyStageMatrix": false,
+		"useRenderTexture": false,
+		"filterQuality": 1,
+		"cacheOnLoad": false
+	},
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "nene idle",
+			"name": "idle",
+			"looped": false,
+			"flipX": false,
+			"animType": "framelabel"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "nene knife raise",
+			"name": "raiseKnife",
+			"looped": false,
+			"flipX": false,
+			"animType": "framelabel"
+		},
+		{
+			"offsets": [
+				-106,
+				-1
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "nene held up knife",
+			"name": "idleKnife",
+			"looped": false,
+			"flipX": false,
+			"animType": "framelabel"
+		},
+		{
+			"offsets": [
+				0,
+				8
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "nene back to normal",
+			"name": "lowerKnife",
+			"looped": false,
+			"flipX": false,
+			"animType": "framelabel"
+		},
+		{
+			"offsets": [
+				203,
+				10
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "nene hey",
+			"name": "hey",
+			"looped": false,
+			"flipX": false,
+			"animType": "framelabel"
+		},
+		{
+			"offsets": [
+				-1,
+				1
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "nene damn",
+			"name": "ohwow",
+			"looped": false,
+			"flipX": false,
+			"animType": "framelabel"
+		},
+		{
+			"offsets": [
+				-1,
+				1
+			],
+			"prefix": "nene damn",
+			"frameIndices": [
+				80
+			],
+			"name": "ohwow-hold",
+			"looped": true,
+			"flipX": false,
+			"animType": "framelabel",
+			"flipY": false,
+			"frameRate": 24
+		}
+	]
+}

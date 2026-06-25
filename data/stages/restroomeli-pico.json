@@ -1,0 +1,234 @@
+{
+  "version": "1.0.2",
+  "name": "restroomeli-pico",
+  "props": [
+    {
+      "alpha": 1,
+      "angle": 0,
+      "animType": "sparrow",
+      "animations": [      ],
+      "assetPath": "therestroom",
+      "blend": "",
+      "color": "#FFFFFF",
+      "danceEvery": 0,
+      "flipX": false,
+      "flipY": false,
+      "isPixel": false,
+      "name": "bathroom",
+      "position": [
+        -441,
+        -297
+      ],
+      "scale": 1,
+      "scroll": [
+        1,
+        1
+      ],
+      "startingAnimation": "",
+      "zIndex": 0
+    },
+    {
+      "alpha": 1,
+      "angle": 0,
+      "animType": "sparrow",
+      "animations": [      ],
+      "assetPath": "graineffect",
+      "blend": "overlay",
+      "color": "#707070",
+      "danceEvery": 0,
+      "flipX": false,
+      "flipY": false,
+      "isPixel": false,
+      "name": "grain filter",
+      "position": [
+        -745,
+        -428
+      ],
+      "scale": 1,
+      "scroll": [
+        0,
+        0
+      ],
+      "startingAnimation": "",
+      "zIndex": 41
+    },
+    {
+      "alpha": 1,
+      "angle": 0,
+      "animType": "sparrow",
+      "animations": [
+        {
+          "assetPath": "unc_bg",
+          "flipX": false,
+          "flipY": false,
+          "frameIndices": [          ],
+          "frameRate": 24,
+          "looped": true,
+          "name": "26b_bg",
+          "offsets": [
+            0,
+            0
+          ],
+          "prefix": "26b_bg"
+        }
+      ],
+      "assetPath": "unc_bg",
+      "blend": "",
+      "color": "#FFFFFF",
+      "danceEvery": 0,
+      "flipX": false,
+      "flipY": false,
+      "isPixel": false,
+      "name": "26b_bg",
+      "position": [
+        298,
+        227
+      ],
+      "scale": 0.9,
+      "scroll": [
+        1,
+        1
+      ],
+      "startingAnimation": "",
+      "zIndex": 21
+    },
+    {
+      "alpha": 1,
+      "angle": 0,
+      "animType": "sparrow",
+      "animations": [
+        {
+          "assetPath": "acid_bg-pico",
+          "flipX": false,
+          "flipY": false,
+          "frameIndices": [          ],
+          "frameRate": 24,
+          "looped": true,
+          "name": "acid_bg",
+          "offsets": [
+            0,
+            0
+          ],
+          "prefix": "acid_bg"
+        }
+      ],
+      "assetPath": "acid_bg-pico",
+      "blend": "",
+      "color": "#FFFFFF",
+      "danceEvery": 0,
+      "flipX": false,
+      "flipY": false,
+      "isPixel": false,
+      "name": "acid bg",
+      "position": [
+        -200,
+        493
+      ],
+      "scale": 1.05,
+      "scroll": [
+        1,
+        1
+      ],
+      "startingAnimation": "",
+      "zIndex": 19
+    },
+    {
+      "alpha": 1,
+      "angle": 0,
+      "animType": "sparrow",
+      "animations": [
+        {
+          "assetPath": "jim_bg-pico",
+          "flipX": false,
+          "flipY": false,
+          "frameIndices": [          ],
+          "frameRate": 24,
+          "looped": true,
+          "name": "jim_bg",
+          "offsets": [
+            0,
+            0
+          ],
+          "prefix": "jim_bg"
+        }
+      ],
+      "assetPath": "jim_bg-pico",
+      "blend": "",
+      "color": "#FFFFFF",
+      "danceEvery": 0,
+      "flipX": false,
+      "flipY": false,
+      "isPixel": false,
+      "name": "jim bg",
+      "position": [
+        1180,
+        205
+      ],
+      "scale": 0.95,
+      "scroll": [
+        1,
+        1
+      ],
+      "startingAnimation": "",
+      "zIndex": 20
+    }
+  ],
+  "characters": {
+    "bf": {
+      "alpha": 1,
+      "angle": 0,
+      "cameraOffsets": [
+        -270,
+        -99
+      ],
+      "position": [
+        1121,
+        914
+      ],
+      "scale": 1,
+      "scroll": [
+        1,
+        1
+      ],
+      "zIndex": 30
+    },
+    "dad": {
+      "alpha": 1,
+      "angle": 0,
+      "cameraOffsets": [
+        270,
+        -60
+      ],
+      "position": [
+        328,
+        925
+      ],
+      "scale": 1,
+      "scroll": [
+        1,
+        1
+      ],
+      "zIndex": 31
+    },
+    "gf": {
+      "alpha": 1,
+      "angle": 0,
+      "cameraOffsets": [
+        -77,
+        30
+      ],
+      "position": [
+        770.2,
+        642
+      ],
+      "scale": 0.8,
+      "scroll": [
+        1,
+        1
+      ],
+      "zIndex": 29
+    }
+  },
+  "cameraZoom": 0.8,
+  "directory": "shared"
+}

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="eli.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="eli idle instance 10000" x="0" y="0" width="272" height="301"/>
+	<SubTexture name="eli idle instance 10001" x="0" y="0" width="272" height="301"/>
+	<SubTexture name="eli idle instance 10002" x="272" y="0" width="272" height="301"/>
+	<SubTexture name="eli idle instance 10003" x="272" y="0" width="272" height="301"/>
+	<SubTexture name="eli idle instance 10004" x="544" y="0" width="272" height="301"/>
+	<SubTexture name="eli idle instance 10005" x="544" y="0" width="272" height="301"/>
+	<SubTexture name="eli idle instance 10006" x="0" y="301" width="272" height="301"/>
+	<SubTexture name="eli idle instance 10007" x="0" y="301" width="272" height="301"/>
+	<SubTexture name="eli idle instance 10008" x="272" y="301" width="272" height="301"/>
+	<SubTexture name="eli idle instance 10009" x="272" y="301" width="272" height="301"/>
+	<SubTexture name="eli idle instance 10010" x="272" y="301" width="272" height="301"/>
+	<SubTexture name="eli idle instance 10011" x="272" y="301" width="272" height="301"/>
+	<SubTexture name="eli idle instance 10012" x="272" y="301" width="272" height="301"/>
+	<SubTexture name="eli idle instance 10013" x="272" y="301" width="272" height="301"/>
+</TextureAtlas>

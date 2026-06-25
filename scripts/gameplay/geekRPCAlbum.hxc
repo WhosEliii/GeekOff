@@ -1,0 +1,31 @@
+import flixel.FlxG;
+import funkin.modding.module.Module;
+import funkin.play.PlayState;
+import funkin.api.discord.DiscordClient;
+
+// Changes the 'discordRPCAlbum' variable to a specific image link depending on what song album you're on
+
+class GeekRPCAlbum extends Module
+{
+	public function new()
+	{
+		super('geek-rpc-album');
+	}
+
+	function onSongLoaded(event:SongLoadScriptEvent):Void
+	{
+		super.onSongLoaded(event);
+		
+		if (FlxG.onMobile) return;
+
+		switch (PlayState.instance.currentChart.album)
+		{
+			case 'buckeli':
+				PlayState.instance.discordRPCAlbum = 'https://i.imgur.com/h380oBn.png';
+
+			case 'buckmelody':
+				PlayState.instance.discordRPCAlbum = 'https://i.imgur.com/ux4vn3G.png';
+			
+		}
+	}
+}

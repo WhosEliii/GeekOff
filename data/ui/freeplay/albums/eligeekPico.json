@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "name": "Geek Off",
+  "artists": ["[whos.eli]"],
+  "albumArtAsset": "freeplay/albumRoll/eligeekpicomix",
+  "albumTitleAsset": "freeplay/albumRoll/geek-text"
+}

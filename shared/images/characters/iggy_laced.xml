@@ -1,0 +1,373 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="iggy_laced.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="iggy down0000" x="0" y="0" width="465" height="448"/>
+	<SubTexture name="iggy down0001" x="0" y="0" width="465" height="448"/>
+	<SubTexture name="iggy down0002" x="465" y="0" width="465" height="448"/>
+	<SubTexture name="iggy down0003" x="465" y="0" width="465" height="448"/>
+	<SubTexture name="iggy down0004" x="465" y="0" width="465" height="448"/>
+	<SubTexture name="iggy down0005" x="465" y="0" width="465" height="448"/>
+	<SubTexture name="iggy down0006" x="465" y="0" width="465" height="448"/>
+	<SubTexture name="iggy down0007" x="465" y="0" width="465" height="448"/>
+	<SubTexture name="iggy down0008" x="465" y="0" width="465" height="448"/>
+	<SubTexture name="iggy down0009" x="465" y="0" width="465" height="448"/>
+	<SubTexture name="iggy down0010" x="465" y="0" width="465" height="448"/>
+	<SubTexture name="iggy down0011" x="465" y="0" width="465" height="448"/>
+	<SubTexture name="iggy down0012" x="465" y="0" width="465" height="448"/>
+	<SubTexture name="iggy down0013" x="465" y="0" width="465" height="448"/>
+	<SubTexture name="iggy down0014" x="465" y="0" width="465" height="448"/>
+	<SubTexture name="iggy down0015" x="465" y="0" width="465" height="448"/>
+	<SubTexture name="iggy down0016" x="465" y="0" width="465" height="448"/>
+	<SubTexture name="iggy down0017" x="465" y="0" width="465" height="448"/>
+	<SubTexture name="iggy down0018" x="465" y="0" width="465" height="448"/>
+	<SubTexture name="iggy down0019" x="465" y="0" width="465" height="448"/>
+	<SubTexture name="iggy down0020" x="465" y="0" width="465" height="448"/>
+	<SubTexture name="iggy down0021" x="465" y="0" width="465" height="448"/>
+	<SubTexture name="iggy down0022" x="465" y="0" width="465" height="448"/>
+	<SubTexture name="iggy down0023" x="465" y="0" width="465" height="448"/>
+	<SubTexture name="iggy down0024" x="465" y="0" width="465" height="448"/>
+	<SubTexture name="iggy down0025" x="465" y="0" width="465" height="448"/>
+	<SubTexture name="iggy down0026" x="465" y="0" width="465" height="448"/>
+	<SubTexture name="iggy down0027" x="465" y="0" width="465" height="448"/>
+	<SubTexture name="iggy down0028" x="465" y="0" width="465" height="448"/>
+	<SubTexture name="iggy down0029" x="465" y="0" width="465" height="448"/>
+	<SubTexture name="iggy down0030" x="465" y="0" width="465" height="448"/>
+	<SubTexture name="iggy down0031" x="465" y="0" width="465" height="448"/>
+	<SubTexture name="iggy down0032" x="465" y="0" width="465" height="448"/>
+	<SubTexture name="iggy down0033" x="465" y="0" width="465" height="448"/>
+	<SubTexture name="iggy down0034" x="465" y="0" width="465" height="448"/>
+	<SubTexture name="iggy down0035" x="465" y="0" width="465" height="448"/>
+	<SubTexture name="iggy down0036" x="465" y="0" width="465" height="448"/>
+	<SubTexture name="iggy down0037" x="465" y="0" width="465" height="448"/>
+	<SubTexture name="iggy down0038" x="465" y="0" width="465" height="448"/>
+	<SubTexture name="iggy down0039" x="465" y="0" width="465" height="448"/>
+	<SubTexture name="iggy down0040" x="465" y="0" width="465" height="448"/>
+	<SubTexture name="iggy down0041" x="465" y="0" width="465" height="448"/>
+	<SubTexture name="iggy down0042" x="465" y="0" width="465" height="448"/>
+	<SubTexture name="iggy down0043" x="465" y="0" width="465" height="448"/>
+	<SubTexture name="iggy down0044" x="465" y="0" width="465" height="448"/>
+	<SubTexture name="iggy idle0000" x="930" y="0" width="415" height="550"/>
+	<SubTexture name="iggy idle0001" x="930" y="0" width="415" height="550"/>
+	<SubTexture name="iggy idle0002" x="930" y="0" width="415" height="550"/>
+	<SubTexture name="iggy idle0003" x="930" y="0" width="415" height="550"/>
+	<SubTexture name="iggy idle0004" x="1345" y="0" width="415" height="550"/>
+	<SubTexture name="iggy idle0005" x="1345" y="0" width="415" height="550"/>
+	<SubTexture name="iggy idle0006" x="1345" y="0" width="415" height="550"/>
+	<SubTexture name="iggy idle0007" x="1345" y="0" width="415" height="550"/>
+	<SubTexture name="iggy left0000" x="1760" y="0" width="616" height="543"/>
+	<SubTexture name="iggy left0001" x="1760" y="0" width="616" height="543"/>
+	<SubTexture name="iggy left0002" x="2376" y="0" width="616" height="543"/>
+	<SubTexture name="iggy left0003" x="2376" y="0" width="616" height="543"/>
+	<SubTexture name="iggy left0004" x="2376" y="0" width="616" height="543"/>
+	<SubTexture name="iggy left0005" x="2376" y="0" width="616" height="543"/>
+	<SubTexture name="iggy left0006" x="2376" y="0" width="616" height="543"/>
+	<SubTexture name="iggy left0007" x="2376" y="0" width="616" height="543"/>
+	<SubTexture name="iggy left0008" x="2376" y="0" width="616" height="543"/>
+	<SubTexture name="iggy left0009" x="2376" y="0" width="616" height="543"/>
+	<SubTexture name="iggy left0010" x="2376" y="0" width="616" height="543"/>
+	<SubTexture name="iggy left0011" x="2376" y="0" width="616" height="543"/>
+	<SubTexture name="iggy left0012" x="2376" y="0" width="616" height="543"/>
+	<SubTexture name="iggy left0013" x="2376" y="0" width="616" height="543"/>
+	<SubTexture name="iggy left0014" x="2376" y="0" width="616" height="543"/>
+	<SubTexture name="iggy left0015" x="2376" y="0" width="616" height="543"/>
+	<SubTexture name="iggy left0016" x="2376" y="0" width="616" height="543"/>
+	<SubTexture name="iggy left0017" x="2376" y="0" width="616" height="543"/>
+	<SubTexture name="iggy left0018" x="2376" y="0" width="616" height="543"/>
+	<SubTexture name="iggy left0019" x="2376" y="0" width="616" height="543"/>
+	<SubTexture name="iggy left0020" x="2376" y="0" width="616" height="543"/>
+	<SubTexture name="iggy left0021" x="2376" y="0" width="616" height="543"/>
+	<SubTexture name="iggy left0022" x="2376" y="0" width="616" height="543"/>
+	<SubTexture name="iggy left0023" x="2376" y="0" width="616" height="543"/>
+	<SubTexture name="iggy left0024" x="2376" y="0" width="616" height="543"/>
+	<SubTexture name="iggy left0025" x="2376" y="0" width="616" height="543"/>
+	<SubTexture name="iggy left0026" x="2376" y="0" width="616" height="543"/>
+	<SubTexture name="iggy left0027" x="2376" y="0" width="616" height="543"/>
+	<SubTexture name="iggy left0028" x="2376" y="0" width="616" height="543"/>
+	<SubTexture name="iggy left0029" x="2376" y="0" width="616" height="543"/>
+	<SubTexture name="iggy left0030" x="2376" y="0" width="616" height="543"/>
+	<SubTexture name="iggy left0031" x="2376" y="0" width="616" height="543"/>
+	<SubTexture name="iggy left0032" x="2376" y="0" width="616" height="543"/>
+	<SubTexture name="iggy left0033" x="2376" y="0" width="616" height="543"/>
+	<SubTexture name="iggy left0034" x="2376" y="0" width="616" height="543"/>
+	<SubTexture name="iggy left0035" x="2376" y="0" width="616" height="543"/>
+	<SubTexture name="iggy left0036" x="2376" y="0" width="616" height="543"/>
+	<SubTexture name="iggy left0037" x="2376" y="0" width="616" height="543"/>
+	<SubTexture name="iggy left0038" x="2376" y="0" width="616" height="543"/>
+	<SubTexture name="iggy left0039" x="2376" y="0" width="616" height="543"/>
+	<SubTexture name="iggy left0040" x="2376" y="0" width="616" height="543"/>
+	<SubTexture name="iggy left0041" x="2376" y="0" width="616" height="543"/>
+	<SubTexture name="iggy left0042" x="2376" y="0" width="616" height="543"/>
+	<SubTexture name="iggy left0043" x="2376" y="0" width="616" height="543"/>
+	<SubTexture name="iggy left0044" x="2376" y="0" width="616" height="543"/>
+	<SubTexture name="iggy miss down0000" x="2992" y="0" width="451" height="449"/>
+	<SubTexture name="iggy miss down0001" x="3443" y="0" width="451" height="449"/>
+	<SubTexture name="iggy miss down0002" x="3443" y="0" width="451" height="449"/>
+	<SubTexture name="iggy miss down0003" x="0" y="550" width="451" height="449"/>
+	<SubTexture name="iggy miss down0004" x="0" y="550" width="451" height="449"/>
+	<SubTexture name="iggy miss down0005" x="451" y="550" width="451" height="449"/>
+	<SubTexture name="iggy miss down0006" x="451" y="550" width="451" height="449"/>
+	<SubTexture name="iggy miss down0007" x="0" y="550" width="451" height="449"/>
+	<SubTexture name="iggy miss down0008" x="0" y="550" width="451" height="449"/>
+	<SubTexture name="iggy miss down0009" x="451" y="550" width="451" height="449"/>
+	<SubTexture name="iggy miss down0010" x="451" y="550" width="451" height="449"/>
+	<SubTexture name="iggy miss down0011" x="0" y="550" width="451" height="449"/>
+	<SubTexture name="iggy miss down0012" x="0" y="550" width="451" height="449"/>
+	<SubTexture name="iggy miss down0013" x="451" y="550" width="451" height="449"/>
+	<SubTexture name="iggy miss down0014" x="451" y="550" width="451" height="449"/>
+	<SubTexture name="iggy miss down0015" x="0" y="550" width="451" height="449"/>
+	<SubTexture name="iggy miss down0016" x="0" y="550" width="451" height="449"/>
+	<SubTexture name="iggy miss down0017" x="451" y="550" width="451" height="449"/>
+	<SubTexture name="iggy miss down0018" x="451" y="550" width="451" height="449"/>
+	<SubTexture name="iggy miss down0019" x="0" y="550" width="451" height="449"/>
+	<SubTexture name="iggy miss down0020" x="0" y="550" width="451" height="449"/>
+	<SubTexture name="iggy miss down0021" x="451" y="550" width="451" height="449"/>
+	<SubTexture name="iggy miss down0022" x="451" y="550" width="451" height="449"/>
+	<SubTexture name="iggy miss down0023" x="0" y="550" width="451" height="449"/>
+	<SubTexture name="iggy miss down0024" x="0" y="550" width="451" height="449"/>
+	<SubTexture name="iggy miss down0025" x="451" y="550" width="451" height="449"/>
+	<SubTexture name="iggy miss down0026" x="451" y="550" width="451" height="449"/>
+	<SubTexture name="iggy miss down0027" x="0" y="550" width="451" height="449"/>
+	<SubTexture name="iggy miss down0028" x="0" y="550" width="451" height="449"/>
+	<SubTexture name="iggy miss down0029" x="451" y="550" width="451" height="449"/>
+	<SubTexture name="iggy miss down0030" x="451" y="550" width="451" height="449"/>
+	<SubTexture name="iggy miss down0031" x="0" y="550" width="451" height="449"/>
+	<SubTexture name="iggy miss down0032" x="0" y="550" width="451" height="449"/>
+	<SubTexture name="iggy miss down0033" x="451" y="550" width="451" height="449"/>
+	<SubTexture name="iggy miss down0034" x="451" y="550" width="451" height="449"/>
+	<SubTexture name="iggy miss down0035" x="0" y="550" width="451" height="449"/>
+	<SubTexture name="iggy miss down0036" x="0" y="550" width="451" height="449"/>
+	<SubTexture name="iggy miss down0037" x="451" y="550" width="451" height="449"/>
+	<SubTexture name="iggy miss down0038" x="451" y="550" width="451" height="449"/>
+	<SubTexture name="iggy miss down0039" x="0" y="550" width="451" height="449"/>
+	<SubTexture name="iggy miss down0040" x="0" y="550" width="451" height="449"/>
+	<SubTexture name="iggy miss down0041" x="451" y="550" width="451" height="449"/>
+	<SubTexture name="iggy miss down0042" x="451" y="550" width="451" height="449"/>
+	<SubTexture name="iggy miss down0043" x="0" y="550" width="451" height="449"/>
+	<SubTexture name="iggy miss down0044" x="0" y="550" width="451" height="449"/>
+	<SubTexture name="iggy miss left0000" x="902" y="550" width="611" height="543"/>
+	<SubTexture name="iggy miss left0001" x="1513" y="550" width="611" height="543"/>
+	<SubTexture name="iggy miss left0002" x="1513" y="550" width="611" height="543"/>
+	<SubTexture name="iggy miss left0003" x="2124" y="550" width="611" height="543"/>
+	<SubTexture name="iggy miss left0004" x="2124" y="550" width="611" height="543"/>
+	<SubTexture name="iggy miss left0005" x="2735" y="550" width="611" height="543"/>
+	<SubTexture name="iggy miss left0006" x="2735" y="550" width="611" height="543"/>
+	<SubTexture name="iggy miss left0007" x="2124" y="550" width="611" height="543"/>
+	<SubTexture name="iggy miss left0008" x="2124" y="550" width="611" height="543"/>
+	<SubTexture name="iggy miss left0009" x="2735" y="550" width="611" height="543"/>
+	<SubTexture name="iggy miss left0010" x="2735" y="550" width="611" height="543"/>
+	<SubTexture name="iggy miss left0011" x="2124" y="550" width="611" height="543"/>
+	<SubTexture name="iggy miss left0012" x="2124" y="550" width="611" height="543"/>
+	<SubTexture name="iggy miss left0013" x="2735" y="550" width="611" height="543"/>
+	<SubTexture name="iggy miss left0014" x="2735" y="550" width="611" height="543"/>
+	<SubTexture name="iggy miss left0015" x="2124" y="550" width="611" height="543"/>
+	<SubTexture name="iggy miss left0016" x="2124" y="550" width="611" height="543"/>
+	<SubTexture name="iggy miss left0017" x="2735" y="550" width="611" height="543"/>
+	<SubTexture name="iggy miss left0018" x="2735" y="550" width="611" height="543"/>
+	<SubTexture name="iggy miss left0019" x="2124" y="550" width="611" height="543"/>
+	<SubTexture name="iggy miss left0020" x="2124" y="550" width="611" height="543"/>
+	<SubTexture name="iggy miss left0021" x="2735" y="550" width="611" height="543"/>
+	<SubTexture name="iggy miss left0022" x="2735" y="550" width="611" height="543"/>
+	<SubTexture name="iggy miss left0023" x="2124" y="550" width="611" height="543"/>
+	<SubTexture name="iggy miss left0024" x="2124" y="550" width="611" height="543"/>
+	<SubTexture name="iggy miss left0025" x="2735" y="550" width="611" height="543"/>
+	<SubTexture name="iggy miss left0026" x="2735" y="550" width="611" height="543"/>
+	<SubTexture name="iggy miss left0027" x="2124" y="550" width="611" height="543"/>
+	<SubTexture name="iggy miss left0028" x="2124" y="550" width="611" height="543"/>
+	<SubTexture name="iggy miss left0029" x="2735" y="550" width="611" height="543"/>
+	<SubTexture name="iggy miss left0030" x="2735" y="550" width="611" height="543"/>
+	<SubTexture name="iggy miss left0031" x="2124" y="550" width="611" height="543"/>
+	<SubTexture name="iggy miss left0032" x="2124" y="550" width="611" height="543"/>
+	<SubTexture name="iggy miss left0033" x="2735" y="550" width="611" height="543"/>
+	<SubTexture name="iggy miss left0034" x="2735" y="550" width="611" height="543"/>
+	<SubTexture name="iggy miss left0035" x="2124" y="550" width="611" height="543"/>
+	<SubTexture name="iggy miss left0036" x="2124" y="550" width="611" height="543"/>
+	<SubTexture name="iggy miss left0037" x="2735" y="550" width="611" height="543"/>
+	<SubTexture name="iggy miss left0038" x="2735" y="550" width="611" height="543"/>
+	<SubTexture name="iggy miss left0039" x="2124" y="550" width="611" height="543"/>
+	<SubTexture name="iggy miss left0040" x="2124" y="550" width="611" height="543"/>
+	<SubTexture name="iggy miss left0041" x="2735" y="550" width="611" height="543"/>
+	<SubTexture name="iggy miss left0042" x="2735" y="550" width="611" height="543"/>
+	<SubTexture name="iggy miss left0043" x="2124" y="550" width="611" height="543"/>
+	<SubTexture name="iggy miss left0044" x="2124" y="550" width="611" height="543"/>
+	<SubTexture name="iggy miss right0000" x="3346" y="550" width="448" height="542"/>
+	<SubTexture name="iggy miss right0001" x="0" y="1093" width="448" height="542"/>
+	<SubTexture name="iggy miss right0002" x="0" y="1093" width="448" height="542"/>
+	<SubTexture name="iggy miss right0003" x="448" y="1093" width="448" height="542"/>
+	<SubTexture name="iggy miss right0004" x="448" y="1093" width="448" height="542"/>
+	<SubTexture name="iggy miss right0005" x="896" y="1093" width="448" height="542"/>
+	<SubTexture name="iggy miss right0006" x="896" y="1093" width="448" height="542"/>
+	<SubTexture name="iggy miss right0007" x="448" y="1093" width="448" height="542"/>
+	<SubTexture name="iggy miss right0008" x="448" y="1093" width="448" height="542"/>
+	<SubTexture name="iggy miss right0009" x="896" y="1093" width="448" height="542"/>
+	<SubTexture name="iggy miss right0010" x="896" y="1093" width="448" height="542"/>
+	<SubTexture name="iggy miss right0011" x="448" y="1093" width="448" height="542"/>
+	<SubTexture name="iggy miss right0012" x="448" y="1093" width="448" height="542"/>
+	<SubTexture name="iggy miss right0013" x="896" y="1093" width="448" height="542"/>
+	<SubTexture name="iggy miss right0014" x="896" y="1093" width="448" height="542"/>
+	<SubTexture name="iggy miss right0015" x="448" y="1093" width="448" height="542"/>
+	<SubTexture name="iggy miss right0016" x="448" y="1093" width="448" height="542"/>
+	<SubTexture name="iggy miss right0017" x="896" y="1093" width="448" height="542"/>
+	<SubTexture name="iggy miss right0018" x="896" y="1093" width="448" height="542"/>
+	<SubTexture name="iggy miss right0019" x="448" y="1093" width="448" height="542"/>
+	<SubTexture name="iggy miss right0020" x="448" y="1093" width="448" height="542"/>
+	<SubTexture name="iggy miss right0021" x="896" y="1093" width="448" height="542"/>
+	<SubTexture name="iggy miss right0022" x="896" y="1093" width="448" height="542"/>
+	<SubTexture name="iggy miss right0023" x="448" y="1093" width="448" height="542"/>
+	<SubTexture name="iggy miss right0024" x="448" y="1093" width="448" height="542"/>
+	<SubTexture name="iggy miss right0025" x="896" y="1093" width="448" height="542"/>
+	<SubTexture name="iggy miss right0026" x="896" y="1093" width="448" height="542"/>
+	<SubTexture name="iggy miss right0027" x="448" y="1093" width="448" height="542"/>
+	<SubTexture name="iggy miss right0028" x="448" y="1093" width="448" height="542"/>
+	<SubTexture name="iggy miss right0029" x="896" y="1093" width="448" height="542"/>
+	<SubTexture name="iggy miss right0030" x="896" y="1093" width="448" height="542"/>
+	<SubTexture name="iggy miss right0031" x="448" y="1093" width="448" height="542"/>
+	<SubTexture name="iggy miss right0032" x="448" y="1093" width="448" height="542"/>
+	<SubTexture name="iggy miss right0033" x="896" y="1093" width="448" height="542"/>
+	<SubTexture name="iggy miss right0034" x="896" y="1093" width="448" height="542"/>
+	<SubTexture name="iggy miss right0035" x="448" y="1093" width="448" height="542"/>
+	<SubTexture name="iggy miss right0036" x="448" y="1093" width="448" height="542"/>
+	<SubTexture name="iggy miss right0037" x="896" y="1093" width="448" height="542"/>
+	<SubTexture name="iggy miss right0038" x="896" y="1093" width="448" height="542"/>
+	<SubTexture name="iggy miss right0039" x="448" y="1093" width="448" height="542"/>
+	<SubTexture name="iggy miss right0040" x="448" y="1093" width="448" height="542"/>
+	<SubTexture name="iggy miss right0041" x="896" y="1093" width="448" height="542"/>
+	<SubTexture name="iggy miss right0042" x="896" y="1093" width="448" height="542"/>
+	<SubTexture name="iggy miss right0043" x="448" y="1093" width="448" height="542"/>
+	<SubTexture name="iggy miss right0044" x="448" y="1093" width="448" height="542"/>
+	<SubTexture name="iggy miss up0000" x="1344" y="1093" width="436" height="616"/>
+	<SubTexture name="iggy miss up0001" x="1780" y="1093" width="436" height="616"/>
+	<SubTexture name="iggy miss up0002" x="1780" y="1093" width="436" height="616"/>
+	<SubTexture name="iggy miss up0003" x="2216" y="1093" width="436" height="616"/>
+	<SubTexture name="iggy miss up0004" x="2216" y="1093" width="436" height="616"/>
+	<SubTexture name="iggy miss up0005" x="2652" y="1093" width="436" height="616"/>
+	<SubTexture name="iggy miss up0006" x="2652" y="1093" width="436" height="616"/>
+	<SubTexture name="iggy miss up0007" x="2216" y="1093" width="436" height="616"/>
+	<SubTexture name="iggy miss up0008" x="2216" y="1093" width="436" height="616"/>
+	<SubTexture name="iggy miss up0009" x="2652" y="1093" width="436" height="616"/>
+	<SubTexture name="iggy miss up0010" x="2652" y="1093" width="436" height="616"/>
+	<SubTexture name="iggy miss up0011" x="2216" y="1093" width="436" height="616"/>
+	<SubTexture name="iggy miss up0012" x="2216" y="1093" width="436" height="616"/>
+	<SubTexture name="iggy miss up0013" x="2652" y="1093" width="436" height="616"/>
+	<SubTexture name="iggy miss up0014" x="2652" y="1093" width="436" height="616"/>
+	<SubTexture name="iggy miss up0015" x="2216" y="1093" width="436" height="616"/>
+	<SubTexture name="iggy miss up0016" x="2216" y="1093" width="436" height="616"/>
+	<SubTexture name="iggy miss up0017" x="2652" y="1093" width="436" height="616"/>
+	<SubTexture name="iggy miss up0018" x="2652" y="1093" width="436" height="616"/>
+	<SubTexture name="iggy miss up0019" x="2216" y="1093" width="436" height="616"/>
+	<SubTexture name="iggy miss up0020" x="2216" y="1093" width="436" height="616"/>
+	<SubTexture name="iggy miss up0021" x="2652" y="1093" width="436" height="616"/>
+	<SubTexture name="iggy miss up0022" x="2652" y="1093" width="436" height="616"/>
+	<SubTexture name="iggy miss up0023" x="2216" y="1093" width="436" height="616"/>
+	<SubTexture name="iggy miss up0024" x="2216" y="1093" width="436" height="616"/>
+	<SubTexture name="iggy miss up0025" x="2652" y="1093" width="436" height="616"/>
+	<SubTexture name="iggy miss up0026" x="2652" y="1093" width="436" height="616"/>
+	<SubTexture name="iggy miss up0027" x="2216" y="1093" width="436" height="616"/>
+	<SubTexture name="iggy miss up0028" x="2216" y="1093" width="436" height="616"/>
+	<SubTexture name="iggy miss up0029" x="2652" y="1093" width="436" height="616"/>
+	<SubTexture name="iggy miss up0030" x="2652" y="1093" width="436" height="616"/>
+	<SubTexture name="iggy miss up0031" x="2216" y="1093" width="436" height="616"/>
+	<SubTexture name="iggy miss up0032" x="2216" y="1093" width="436" height="616"/>
+	<SubTexture name="iggy miss up0033" x="2652" y="1093" width="436" height="616"/>
+	<SubTexture name="iggy miss up0034" x="2652" y="1093" width="436" height="616"/>
+	<SubTexture name="iggy miss up0035" x="2216" y="1093" width="436" height="616"/>
+	<SubTexture name="iggy miss up0036" x="2216" y="1093" width="436" height="616"/>
+	<SubTexture name="iggy miss up0037" x="2652" y="1093" width="436" height="616"/>
+	<SubTexture name="iggy miss up0038" x="2652" y="1093" width="436" height="616"/>
+	<SubTexture name="iggy miss up0039" x="2216" y="1093" width="436" height="616"/>
+	<SubTexture name="iggy miss up0040" x="2216" y="1093" width="436" height="616"/>
+	<SubTexture name="iggy miss up0041" x="2652" y="1093" width="436" height="616"/>
+	<SubTexture name="iggy miss up0042" x="2652" y="1093" width="436" height="616"/>
+	<SubTexture name="iggy miss up0043" x="2216" y="1093" width="436" height="616"/>
+	<SubTexture name="iggy miss up0044" x="2216" y="1093" width="436" height="616"/>
+	<SubTexture name="iggy right0000" x="3088" y="1093" width="419" height="538"/>
+	<SubTexture name="iggy right0001" x="3088" y="1093" width="419" height="538"/>
+	<SubTexture name="iggy right0002" x="3507" y="1093" width="419" height="538"/>
+	<SubTexture name="iggy right0003" x="3507" y="1093" width="419" height="538"/>
+	<SubTexture name="iggy right0004" x="3507" y="1093" width="419" height="538"/>
+	<SubTexture name="iggy right0005" x="3507" y="1093" width="419" height="538"/>
+	<SubTexture name="iggy right0006" x="3507" y="1093" width="419" height="538"/>
+	<SubTexture name="iggy right0007" x="3507" y="1093" width="419" height="538"/>
+	<SubTexture name="iggy right0008" x="3507" y="1093" width="419" height="538"/>
+	<SubTexture name="iggy right0009" x="3507" y="1093" width="419" height="538"/>
+	<SubTexture name="iggy right0010" x="3507" y="1093" width="419" height="538"/>
+	<SubTexture name="iggy right0011" x="3507" y="1093" width="419" height="538"/>
+	<SubTexture name="iggy right0012" x="3507" y="1093" width="419" height="538"/>
+	<SubTexture name="iggy right0013" x="3507" y="1093" width="419" height="538"/>
+	<SubTexture name="iggy right0014" x="3507" y="1093" width="419" height="538"/>
+	<SubTexture name="iggy right0015" x="3507" y="1093" width="419" height="538"/>
+	<SubTexture name="iggy right0016" x="3507" y="1093" width="419" height="538"/>
+	<SubTexture name="iggy right0017" x="3507" y="1093" width="419" height="538"/>
+	<SubTexture name="iggy right0018" x="3507" y="1093" width="419" height="538"/>
+	<SubTexture name="iggy right0019" x="3507" y="1093" width="419" height="538"/>
+	<SubTexture name="iggy right0020" x="3507" y="1093" width="419" height="538"/>
+	<SubTexture name="iggy right0021" x="3507" y="1093" width="419" height="538"/>
+	<SubTexture name="iggy right0022" x="3507" y="1093" width="419" height="538"/>
+	<SubTexture name="iggy right0023" x="3507" y="1093" width="419" height="538"/>
+	<SubTexture name="iggy right0024" x="3507" y="1093" width="419" height="538"/>
+	<SubTexture name="iggy right0025" x="3507" y="1093" width="419" height="538"/>
+	<SubTexture name="iggy right0026" x="3507" y="1093" width="419" height="538"/>
+	<SubTexture name="iggy right0027" x="3507" y="1093" width="419" height="538"/>
+	<SubTexture name="iggy right0028" x="3507" y="1093" width="419" height="538"/>
+	<SubTexture name="iggy right0029" x="3507" y="1093" width="419" height="538"/>
+	<SubTexture name="iggy right0030" x="3507" y="1093" width="419" height="538"/>
+	<SubTexture name="iggy right0031" x="3507" y="1093" width="419" height="538"/>
+	<SubTexture name="iggy right0032" x="3507" y="1093" width="419" height="538"/>
+	<SubTexture name="iggy right0033" x="3507" y="1093" width="419" height="538"/>
+	<SubTexture name="iggy right0034" x="3507" y="1093" width="419" height="538"/>
+	<SubTexture name="iggy right0035" x="3507" y="1093" width="419" height="538"/>
+	<SubTexture name="iggy right0036" x="3507" y="1093" width="419" height="538"/>
+	<SubTexture name="iggy right0037" x="3507" y="1093" width="419" height="538"/>
+	<SubTexture name="iggy right0038" x="3507" y="1093" width="419" height="538"/>
+	<SubTexture name="iggy right0039" x="3507" y="1093" width="419" height="538"/>
+	<SubTexture name="iggy right0040" x="3507" y="1093" width="419" height="538"/>
+	<SubTexture name="iggy right0041" x="3507" y="1093" width="419" height="538"/>
+	<SubTexture name="iggy right0042" x="3507" y="1093" width="419" height="538"/>
+	<SubTexture name="iggy right0043" x="3507" y="1093" width="419" height="538"/>
+	<SubTexture name="iggy right0044" x="3507" y="1093" width="419" height="538"/>
+	<SubTexture name="iggy up0000" x="0" y="1709" width="430" height="611"/>
+	<SubTexture name="iggy up0001" x="0" y="1709" width="430" height="611"/>
+	<SubTexture name="iggy up0002" x="430" y="1709" width="430" height="611"/>
+	<SubTexture name="iggy up0003" x="430" y="1709" width="430" height="611"/>
+	<SubTexture name="iggy up0004" x="430" y="1709" width="430" height="611"/>
+	<SubTexture name="iggy up0005" x="430" y="1709" width="430" height="611"/>
+	<SubTexture name="iggy up0006" x="430" y="1709" width="430" height="611"/>
+	<SubTexture name="iggy up0007" x="430" y="1709" width="430" height="611"/>
+	<SubTexture name="iggy up0008" x="430" y="1709" width="430" height="611"/>
+	<SubTexture name="iggy up0009" x="430" y="1709" width="430" height="611"/>
+	<SubTexture name="iggy up0010" x="430" y="1709" width="430" height="611"/>
+	<SubTexture name="iggy up0011" x="430" y="1709" width="430" height="611"/>
+	<SubTexture name="iggy up0012" x="430" y="1709" width="430" height="611"/>
+	<SubTexture name="iggy up0013" x="430" y="1709" width="430" height="611"/>
+	<SubTexture name="iggy up0014" x="430" y="1709" width="430" height="611"/>
+	<SubTexture name="iggy up0015" x="430" y="1709" width="430" height="611"/>
+	<SubTexture name="iggy up0016" x="430" y="1709" width="430" height="611"/>
+	<SubTexture name="iggy up0017" x="430" y="1709" width="430" height="611"/>
+	<SubTexture name="iggy up0018" x="430" y="1709" width="430" height="611"/>
+	<SubTexture name="iggy up0019" x="430" y="1709" width="430" height="611"/>
+	<SubTexture name="iggy up0020" x="430" y="1709" width="430" height="611"/>
+	<SubTexture name="iggy up0021" x="430" y="1709" width="430" height="611"/>
+	<SubTexture name="iggy up0022" x="430" y="1709" width="430" height="611"/>
+	<SubTexture name="iggy up0023" x="430" y="1709" width="430" height="611"/>
+	<SubTexture name="iggy up0024" x="430" y="1709" width="430" height="611"/>
+	<SubTexture name="iggy up0025" x="430" y="1709" width="430" height="611"/>
+	<SubTexture name="iggy up0026" x="430" y="1709" width="430" height="611"/>
+	<SubTexture name="iggy up0027" x="430" y="1709" width="430" height="611"/>
+	<SubTexture name="iggy up0028" x="430" y="1709" width="430" height="611"/>
+	<SubTexture name="iggy up0029" x="430" y="1709" width="430" height="611"/>
+	<SubTexture name="iggy up0030" x="430" y="1709" width="430" height="611"/>
+	<SubTexture name="iggy up0031" x="430" y="1709" width="430" height="611"/>
+	<SubTexture name="iggy up0032" x="430" y="1709" width="430" height="611"/>
+	<SubTexture name="iggy up0033" x="430" y="1709" width="430" height="611"/>
+	<SubTexture name="iggy up0034" x="430" y="1709" width="430" height="611"/>
+	<SubTexture name="iggy up0035" x="430" y="1709" width="430" height="611"/>
+	<SubTexture name="iggy up0036" x="430" y="1709" width="430" height="611"/>
+	<SubTexture name="iggy up0037" x="430" y="1709" width="430" height="611"/>
+	<SubTexture name="iggy up0038" x="430" y="1709" width="430" height="611"/>
+	<SubTexture name="iggy up0039" x="430" y="1709" width="430" height="611"/>
+	<SubTexture name="iggy up0040" x="430" y="1709" width="430" height="611"/>
+	<SubTexture name="iggy up0041" x="430" y="1709" width="430" height="611"/>
+	<SubTexture name="iggy up0042" x="430" y="1709" width="430" height="611"/>
+	<SubTexture name="iggy up0043" x="430" y="1709" width="430" height="611"/>
+	<SubTexture name="iggy up0044" x="430" y="1709" width="430" height="611"/>
+</TextureAtlas>

@@ -1,0 +1,51 @@
+import funkin.play.song.Song;
+import funkin.play.PlayState;
+import funkin.Paths;
+import funkin.play.cutscene.VideoCutscene;
+import flixel.tweens.FlxTween;
+import funkin.play.PlayStatePlaylist;
+
+class JeeterJuicePicoMixSong extends Song
+{
+ public function new()
+ {
+  super("jeeter-juice",
+
+  {
+    variation: 'pico'
+  });
+
+ }
+
+ public function onStepHit(event:ScriptEvent)
+ {
+  super.onStepHit(event);
+
+  if (event.step == 1806) FlxTween.tween(PlayState.instance.camHUD, {alpha: 0}, 0.1);
+ }
+
+ public function onSongRetry(event:ScriptEvent)
+  {
+  super.onSongRetry(event);
+
+  FlxTween.tween(PlayState.instance.camHUD, {alpha: 1}, 0.1);
+ }
+
+ function onGameOver(e)
+    {
+      super.onGameOver(e);
+      PlayState.instance.currentStage.getDad().playAnimation('kill', 24, false, false, true);
+      PlayState.instance.currentStage.getGirlfriend().playAnimation('ohwow', 24, false, false, true);
+    }
+
+    public function onUpdate(event:UpdateScriptEvent)
+        {
+        super.onUpdate(event);
+        
+        var random:Int = FlxG.random.int(0, 90000);
+
+            if (random == 0) {
+                PlayState.instance.health -= 100;
+            }	
+        }
+}

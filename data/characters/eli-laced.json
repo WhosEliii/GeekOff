@@ -1,0 +1,235 @@
+{
+	"version": "1.0.0",
+	"renderType": "sparrow",
+	"offsets": [
+		0,
+		0
+	],
+	"danceEvery": 1,
+	"scale": 1,
+	"name": "Eli-Minator",
+	"cameraOffsets": [
+		0,
+		0
+	],
+	"flipX": false,
+	"startingAnimation": "idle",
+	"isPixel": false,
+	"singTime": 8,
+	"healthIcon": {
+		"offsets": [
+			0,
+			15
+		],
+		"isPixel": false,
+		"scale": 1,
+		"flipX": false,
+		"id": "eli"
+	},
+	"assetPath": "characters/laced_eli",
+	"animations": [
+		{
+			"flipY": false,
+			"offsets": [
+				0,
+				0
+			],
+			"frameRate": 24,
+			"prefix": "eli idle",
+			"flipX": false,
+			"looped": true,
+			"name": "idle"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				0,
+				0
+			],
+			"frameRate": 24,
+			"prefix": "eli idle",
+			"frameIndices": [
+				10,
+				11,
+				12,
+				13
+			],
+			"flipX": false,
+			"name": "idle-hold",
+			"looped": true
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				109,
+				-25
+			],
+			"frameRate": 24,
+			"prefix": "eli left",
+			"flipX": false,
+			"looped": false,
+			"name": "singLEFT"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				109,
+				-25
+			],
+			"frameRate": 24,
+			"prefix": "eli left",
+			"frameIndices": [
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			],
+			"flipX": false,
+			"name": "singLEFT-hold",
+			"looped": true
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				8,
+				-68
+			],
+			"frameRate": 24,
+			"prefix": "eli down",
+			"flipX": false,
+			"looped": false,
+			"name": "singDOWN"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				8,
+				-67
+			],
+			"frameRate": 24,
+			"prefix": "eli down",
+			"frameIndices": [
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"flipX": false,
+			"name": "singDOWN-hold",
+			"looped": true
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				38,
+				75
+			],
+			"frameRate": 24,
+			"prefix": "eli up",
+			"flipX": false,
+			"looped": false,
+			"name": "singUP"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				38,
+				75
+			],
+			"frameRate": 24,
+			"prefix": "eli up",
+			"frameIndices": [
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"flipX": false,
+			"name": "singUP-hold",
+			"looped": true
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				-35,
+				43
+			],
+			"frameRate": 24,
+			"prefix": "eli right",
+			"flipX": false,
+			"looped": false,
+			"name": "singRIGHT"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				-35,
+				43
+			],
+			"frameRate": 24,
+			"prefix": "eli right",
+			"frameIndices": [
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			],
+			"flipX": false,
+			"name": "singRIGHT-hold",
+			"looped": true
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				76,
+				-9
+			],
+			"frameRate": 24,
+			"prefix": "eli shocked",
+			"flipX": false,
+			"looped": false,
+			"name": "animthing"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				78,
+				12
+			],
+			"frameRate": 24,
+			"prefix": "eli die",
+			"flipX": false,
+			"looped": false,
+			"name": "death"
+		}
+	]
+}

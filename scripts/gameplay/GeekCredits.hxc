@@ -1,0 +1,315 @@
+import funkin.modding.module.Module;
+import funkin.ui.credits.CreditsDataHandler;
+
+class GeekCredits extends Module 
+{
+    var MOD_CREDITS:Array<CreditsData> = 
+    [
+        
+         {
+            header: "Eli",
+            body: 
+            [
+                {
+                    line: "[whos.eli]"
+                }
+            ]
+        },
+        {
+            header: "The one who carrried everything",
+            body: 
+            [
+                {
+                    line: "[whos.eli]"
+                }
+            ]
+        },
+        {
+            header: "play my mod",
+            body: 
+            [
+                {
+                    line: "[whos.eli]"
+                }
+            ]
+        },
+        {
+            header: "best sprite artist oat??",
+            body: 
+            [
+                {
+                    line: "[whos.eli]"
+                }
+            ]
+        },
+        {
+            header: "eeeeyup, you guessed it!",
+            body: 
+            [
+                {
+                    line: "[whos.eli]"
+                }
+            ]
+        },
+        {
+            header: "hi",
+            body: 
+            [
+                {
+                    line: "[whos.eli]"
+                }
+            ]
+        },
+        {
+            header: "jaydes is still tuff in 2026",
+            body: 
+            [
+                {
+                    line: "[whos.eli]"
+                }
+            ]
+        },
+        {
+            header: "okay mb i'll let the actual credits play",
+            body: 
+            [
+                {
+                    line: "[whos.eli]"
+                }
+            ]
+        },
+        {
+
+            
+            header: "GEEK OFF: the whole team (ion feel like doing allat typing )",
+            body: 
+            [
+                {
+                    line: "[whos.eli]"
+                },
+
+                {
+                    line: "m1rageacid"
+                },
+
+                {
+                    line: "20.DFTVNEZ.05"
+                },
+
+                {
+                    line: "xerovgm"
+                },
+
+                {
+                    line: "Dashee"
+                },
+
+                {
+                    line: "Lucy4Realz"
+                },
+
+                {
+                    line: "observed"
+                },
+
+                {
+                    line: "burrowingbug"
+                },
+                {  
+                    line: "FerXs"
+                },
+                {  
+                    line: "Its_W1lson"
+                }
+                
+            ]
+        },
+        {
+            header: "Made The Extra Events",
+            body: 
+            [
+                {
+                    line: "MAZ"
+                }
+            ]
+        },
+        {
+            header: "Made The Mid Song Cutscene Event",
+            body: 
+            [
+                {
+                    line: "AbnormalPoof"
+                }
+            ]
+        },
+        {
+            header: "Additional Coding Help",
+            body: 
+            [
+                {
+                    line: "MAZ"
+                },
+                {
+                    line: "danypr008"
+                },
+                {
+                    line: "gamerbross"
+                }
+            ]
+        },
+        {
+            header: "Additional Art/Animation Help",
+            body: 
+            [
+                {  
+                    line: "spunkert"
+                },
+                {
+                    line: "FerXs"
+                },
+                {
+                    line: "gamerbross"
+                }
+            ]
+        },
+         {
+            header: "Special Thanks",
+            body: 
+            [
+                {
+                    line: "KoloInDaCrib"
+                },
+                {
+                    line: "ImVeryBad"
+                },
+                {
+                    line: "Under Hunter"
+                    
+                },
+                {
+                    line: "Bivie"
+                    
+                },
+                {
+                    line: "flashu"
+                    
+                },
+                {
+                    line: "moliv.mp4"
+                    
+                },
+                {
+                    line: "Mxdup.Whippa"
+                    
+                },
+                {
+                    line: "luvvvbunnyy"
+                    
+                },
+                {
+                    line: "chi"
+                    
+                },
+                {
+                    line: "4EVA DEV TEAM BRO Y'ALL ARE SO AMAZING"
+                },
+                {
+                    line: "Jebia server"
+                    
+                },
+                {
+                    line: "Revvie"
+                    
+                },
+                {
+                    line: "Alfvee"
+                    
+                },
+                {
+                    line: "bimagamongMOP"
+                    
+                },
+                {
+                    line: "Shizone"
+                    
+                },
+                {
+                    line: "ArtsyCraft_YT"
+                    
+                },
+                {
+                    line: "A_Lien_Invadr"
+                    
+                },
+                {
+                    line: "danypr008"
+                    
+                },
+                {
+                    line: "5rubles cuz that shit is tuff"
+                    
+                },
+                {
+                    line: "ALL of V-Slice Network, YES ALL OF YOU."
+                    
+                },
+                {
+                    line: "the mod quite literally wouldn't have ever happened without y'all help and support ily guys"
+                    
+                },
+                {
+                    line: "2BYTE DEV TEAM Y'ALL ARE THE BEST"  
+                },
+                {
+                    line: "YOU. yes, YOU nigga. thank you for playing the mod fully"
+                }
+
+            ]
+        },         
+                {
+            header: "People I fucking hate",
+            body: 
+            [
+                {
+                    line: "v1rusrage"
+                },
+                {
+                    line: "bruhdreams"
+                },
+                {
+                    line: "rwkkoz"
+                },
+                {
+                    line: "silver_hanma"
+                },
+                {
+                    line: "stonesteve"
+                }
+            ]
+        },
+         {
+            header: "42 Dugg: Fore I go broke like joc",
+            body: 
+            [
+                {
+                    line: "Joc:"
+                },
+                
+            ]
+        }
+    ];
+
+    public function new()
+    {
+        super("CreditsModule");
+        this.active = false;
+
+        FlxG.signals.postGameStart.add(function()
+        {
+            for (i in 0...MOD_CREDITS.length)
+            {
+                CreditsDataHandler.CREDITS_DATA.entries.unshift(MOD_CREDITS[MOD_CREDITS.length - 1 - i]);
+            }
+        });
+    }
+}
