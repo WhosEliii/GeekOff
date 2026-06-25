@@ -1,6 +1,6 @@
 # GEEK OFF
 A mod about a bunch of friends doing a bunch of drugs. Created by WhosEli
-## Description from Gamebanana
+## Gamebanana Description
 ts mod has uhh 
 
 songs
