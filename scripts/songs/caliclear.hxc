@@ -28,7 +28,7 @@ class CaliClearSong extends Song {
 
       event.cancel(); // CANCEL THE COUNTDOWN!
 
-      VideoCutscene.play(Paths.videos('MainCutscene')); // Will look for modName/videos/videos/MainCutscene.mp4
+      VideoCutscene.play(Paths.videos('MainCutscene.mkv')); // Will look for modName/videos/videos/MainCutscene.mp4
     }
 	}
 
