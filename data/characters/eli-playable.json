@@ -1,0 +1,279 @@
+{
+	"version": "1.0.0",
+	"renderType": "multianimateatlas",
+	"offsets": [
+		-16,
+		30
+	],
+	"danceEvery": 1,
+	"applyStageMatrix": false,
+	"scale": 1,
+	"name": "Eli Playable",
+	"flipX": true,
+	"cameraOffsets": [
+		0,
+		70
+	],
+	"singTime": 8,
+	"startingAnimation": "idle",
+	"isPixel": false,
+	"death": {
+		"cameraZoom": 0.7,
+		"preTransitionDelay": 0,
+		"cameraOffsets": [
+			-200,
+			90
+		]
+	},
+	"assetPath": "shared:characters/eliplayable/player",
+	"healthIcon": {
+		"isPixel": false,
+		"offsets": [
+			0,
+			0
+		],
+		"scale": 1,
+		"id": "eli",
+		"flipX": false
+	},
+	"atlasSettings": {
+		"swfMode": true,
+		"applyStageMatrix": false,
+		"useRenderTexture": false,
+		"filterQuality": 1,
+		"cacheOnLoad": false
+	},
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "eli idle",
+			"name": "idle",
+			"looped": false,
+			"flipX": false,
+			"animType": "framelabel"
+		},
+		{
+			"offsets": [
+				-7,
+				-1
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "eli left",
+			"name": "singLEFT",
+			"looped": false,
+			"flipX": false,
+			"animType": "framelabel"
+		},
+		{
+			"offsets": [
+				5,
+				0
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "eli down",
+			"name": "singDOWN",
+			"looped": false,
+			"flipX": false,
+			"animType": "framelabel"
+		},
+		{
+			"offsets": [
+				0,
+				-3
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "eli up",
+			"name": "singUP",
+			"looped": false,
+			"flipX": false,
+			"animType": "framelabel"
+		},
+		{
+			"offsets": [
+				17,
+				-1
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "eli right",
+			"name": "singRIGHT",
+			"looped": false,
+			"flipX": false,
+			"animType": "framelabel"
+		},
+		{
+			"offsets": [
+				-7,
+				1
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "eli miss left",
+			"name": "singLEFTmiss",
+			"looped": false,
+			"flipX": false,
+			"animType": "framelabel"
+		},
+		{
+			"offsets": [
+				14,
+				1
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "eli miss down",
+			"name": "singDOWNmiss",
+			"looped": false,
+			"flipX": false,
+			"animType": "framelabel"
+		},
+		{
+			"offsets": [
+				-4,
+				1
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "eli miss up",
+			"name": "singUPmiss",
+			"looped": false,
+			"flipX": false,
+			"animType": "framelabel"
+		},
+		{
+			"offsets": [
+				20,
+				1
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "eli miss right",
+			"name": "singRIGHTmiss",
+			"looped": false,
+			"flipX": false,
+			"animType": "framelabel"
+		},
+		{
+			"offsets": [
+				3,
+				0
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "eli hey",
+			"name": "hey",
+			"looped": false,
+			"flipX": false,
+			"animType": "framelabel"
+		},
+		{
+			"offsets": [
+				327,
+				-27
+			],
+			"prefix": "eli die",
+			"name": "firstDeath",
+			"looped": false,
+			"flipX": false,
+			"animType": "framelabel",
+			"flipY": false,
+			"assetPath": "shared:characters/eliplayable/eli death",
+			"frameRate": 24
+		},
+		{
+			"offsets": [
+				327,
+				-27
+			],
+			"prefix": "eli die",
+			"frameIndices": [
+				64,
+				65,
+				66,
+				67,
+				68,
+				69,
+				70,
+				71,
+				72,
+				73,
+				74,
+				75,
+				76,
+				77,
+				78
+			],
+			"looped": true,
+			"name": "deathLoop",
+			"flipX": false,
+			"animType": "framelabel",
+			"flipY": false,
+			"assetPath": "shared:characters/eliplayable/eli death",
+			"frameRate": 24
+		},
+		{
+			"offsets": [
+				327,
+				-27
+			],
+			"prefix": "eli deathconfirm",
+			"name": "deathConfirm",
+			"looped": false,
+			"flipX": false,
+			"animType": "framelabel",
+			"flipY": false,
+			"assetPath": "shared:characters/eliplayable/eli death",
+			"frameRate": 24
+		},
+		{
+			"offsets": [
+				4,
+				2
+			],
+			"prefix": "eli cough",
+			"looped": false,
+			"name": "cough",
+			"animType": "framelabel",
+			"flipX": false,
+			"flipY": false,
+			"assetPath": "shared:characters/eliplayable/player",
+			"frameRate": 24
+		},
+		{
+			"offsets": [
+				2,
+				0
+			],
+			"prefix": "eli confused",
+			"looped": false,
+			"name": "confused",
+			"animType": "framelabel",
+			"flipX": false,
+			"flipY": false,
+			"assetPath": "shared:characters/eliplayable/player",
+			"frameRate": 24
+		},
+		{
+			"offsets": [
+				2,
+				0
+			],
+			"prefix": "eli blinker",
+			"looped": false,
+			"name": "blinker",
+			"animType": "framelabel",
+			"flipX": false,
+			"flipY": false,
+			"assetPath": "shared:characters/eliplayable/player",
+			"frameRate": 24
+		}
+	]
+}
