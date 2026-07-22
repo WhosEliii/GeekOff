@@ -7,7 +7,40 @@ import funkin.util.Constants;
 import flixel.util.FlxTimer;
 import flixel.math.FlxMath;
 
+import flixel.text.FlxText;
+import flixel.text.FlxTextFormat;
+import flixel.text.FlxTextBorderStyle;
+import flixel.util.FlxColor;
+
+import funkin.ui.story.ScriptedLevel;
+
 class NoteCameraDisplacement extends Module {
+	// Edits by totallyzari for GEEK OFF
+	// This works for now. It's kinda buggy when it comes to the camera switching targets but I'll fix it later
+
+	// Controls what songs the script can allow NCD on. Currently it's just the geek off songs + variations
+	var allowedSongs = [
+            'cali-clear',
+            'alibarbar',
+            'jeeter-juice',
+            'afterthegeek',
+            '2themoon',
+            'boof',
+            'how2roll'
+        ];
+    override public function onSongStart(event:ScriptEvent):Void {
+		var currentSongId = PlayState.instance.currentSong.id;
+
+        super.onSongStart(event);
+		// Checks to see if the song we're playing isn't one of the allowedSongs
+        if (!allowedSongs.contains(currentSongId) && currentSongId != null) {
+			// Sets displacement to 0, effectively disabling it
+			displacement = 0;
+		}
+    }
+
+	// Code goes unedited from here until line 154
+
 	/**
 	 * Enable the displacement.
 	 */
@@ -51,6 +84,7 @@ class NoteCameraDisplacement extends Module {
 	import funkin.modding.module.ModuleHandler;
 	// does setting this actually work?
 	var camNoteMove = ModuleHandler.getModule('Note Camera Displacement');
+
 	override public function onSongStart(event):Void {
 		super.onSongStart(event);
 		camNoteMove.displacement = 50;
@@ -115,6 +149,15 @@ class NoteCameraDisplacement extends Module {
 	var ranCode:Bool = false;
 	override public function onUpdate(event):Void {
 		super.onUpdate(event);
+		
+		// Edit by totallyzari
+		if (OptionsAPI.getPreference("geekoff-options", "NCDOption")) {
+			enableDisplacement = true;
+		} else {
+			enableDisplacement = false;
+		}
+		// From here, completely untouched!
+
 		if (PlayState.instance != null && ranCode && enableDisplacement && sustainDisplacement) {
 			for (hold in getHolds(switch (camTarget) {
 				case 'opponent': false;

@@ -1,0 +1,29 @@
+[
+    {
+        "title": "GEEK OFF Options",
+        "saveSlot": "geekoff-options",
+        "options": [
+            {
+                "name": "Copyright Friendly",
+                "description": "When disabled, some songs may contain copyrighted music. [2/3 SONGS REMAINING]",
+                "id": "copyrightOption",
+                "defaultValue": true,
+                "type": "checkbox"
+            },
+            {
+                "name": "Note Cam Movement",
+                "description": "When enabled, the camera will move with the notes",
+                "id": "NCDOption",
+                "defaultValue": true,
+                "type": "checkbox"
+            },
+            {
+                "name": "Kill Extra Events Week",
+                "description": "When enabled, The Extra Events week will be removed from Story Mode and Freeplay.",
+                "id": "killExtraEventsOption",
+                "defaultValue": true,
+                "type": "checkbox"
+            }
+        ]
+    }
+]

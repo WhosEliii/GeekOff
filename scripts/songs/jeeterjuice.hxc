@@ -1,4 +1,5 @@
 import funkin.play.song.Song;
+import funkin.modding.module.Module;
 import funkin.play.PlayState;
 import flixel.FlxG;
 import funkin.modding.events.ScriptEvent;
@@ -14,43 +15,75 @@ import funkin.Paths;
 import funkin.play.cutscene.VideoCutscene;
 import funkin.graphics.video.FunkinVideoSprite;
 import funkin.play.PlayStatePlaylist;
+import flixel.text.FlxText;
+import flixel.text.FlxTextFormat;
+import flixel.text.FlxTextBorderStyle;
+import flixel.util.FlxColor;
+import funkin.Preferences;
+import funkin.ui.options.PreferencesMenu;
 
-class JeeterJuiceSong extends Song
-    {
-     public function new()
-     {
-      super("jeeter-juice");
-     }
+class JeeterJuiceSong extends Song {
+	public function new() {
+		super("jeeter-juice");
+	}
 
-     public function onStepHit(event:ScriptEvent)
-     {
-      super.onStepHit(event);
+	public function onUpdate(event:UpdateScriptEvent) {
+		super.onUpdate(event);
 
-      if (event.step == 1552) FlxTween.tween(PlayState.instance.camHUD, {alpha: 0}, 0.1);
-     }
+		var random:Int = FlxG.random.int(0, 90000);
 
-     function onGameOver(e)
-    {
-      super.onGameOver(e);
-      PlayState.instance.currentStage.getDad().playAnimation('kill', 24, false, false, true);
-      PlayState.instance.currentStage.getGirlfriend().playAnimation('shock', 24, false, false, true);
-    }
+		if (random == 0) {
+			PlayState.instance.health -= 100;
+		}
+	}
 
-     public function onSongRetry(event:ScriptEvent)
-      {
-      super.onSongRetry(event);
+	public override function onCreate(event:ScriptEvent) {
+		super.onCreate(event);
 
-    FlxTween.tween(PlayState.instance.camHUD, {alpha: 1}, 0.1);
-     }
+		var copyrightFreeInst = Paths.inst(id, "-copyrightfree");
+		var isCopyrightEnabled:Bool = OptionsAPI.getPreference("geekoff-options", "copyrightOption");
 
-     public function onUpdate(event:UpdateScriptEvent)
-        {
-        super.onUpdate(event);
-        
-        var random:Int = FlxG.random.int(0, 90000);
+		if (isCopyrightEnabled) {
+			trace('Replacing instrumental...');
+			PlayState.instance.currentInstrumental = "copyrightfree";
 
-            if (random == 0) {
-                PlayState.instance.health -= 100;
-            }	
-        }
+			// below is the code for the disclaimer for when you enter the song with copyrightOption on.
+
+			//controls the y value of the text based of if you're on upscroll or downscroll
+			var Yvalue;
+			if (Preferences.downscroll) {
+				Yvalue = 130;
+			} else {
+				Yvalue = 550;
+			}
+
+			copyrightNotice = new FlxText(0, Yvalue, FlxG.width, "Copyright Friendly Mode is enabled for this song.", 15);
+			copyrightNotice.zIndex = 100000;
+			copyrightNotice.cameras = [PlayState.instance.camHUD];
+			copyrightNotice.scrollFactor.set(0, 0);
+			copyrightNotice.setFormat(Paths.font("vcr.ttf"), 15.9, FlxColor.YELLOW, "center", FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
+			FlxG.state.add(copyrightNotice);
+
+			//tweening it to disappear after a couple seconds
+		}
+	}
+
+	public function onStepHit(event:ScriptEvent) {
+		super.onStepHit(event);
+
+		if (event.step == 1552)
+			FlxTween.tween(PlayState.instance.camHUD, {alpha: 0}, 0.1);
+	}
+
+	function onGameOver(e) {
+		super.onGameOver(e);
+		PlayState.instance.currentStage.getDad().playAnimation('kill', 24, false, false, true);
+		PlayState.instance.currentStage.getGirlfriend().playAnimation('shock', 24, false, false, true);
+	}
+
+	public function onSongRetry(event:ScriptEvent) {
+		super.onSongRetry(event);
+
+		FlxTween.tween(PlayState.instance.camHUD, {alpha: 1}, 0.1);
+	}
 }

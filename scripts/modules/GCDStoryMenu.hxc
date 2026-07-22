@@ -1,0 +1,60 @@
+import flixel.FlxG;
+import funkin.modding.module.Module;
+import funkin.modding.module.ScriptedModule;
+import funkin.ui.MusicBeatState;
+import funkin.ui.FullScreenScaleMode;
+import flixel.text.FlxText;
+import flixel.text.FlxTextFormat;
+import flixel.text.FlxTextBorderStyle;
+import flixel.util.FlxColor;
+import funkin.ui.story.Level;
+import funkin.ui.story.StoryMenuState;
+import funkin.ui.freeplay.FreeplayState;
+import funkin.save.Save;
+
+class GCDStoryMenu extends ScriptedModule {
+    function new() {
+        super("GCDStoryMenu", 100, {
+            state: StoryMenuState,
+        });
+    }
+    
+    var copyrightNotice:FlxText;
+
+    override function onStateChangeEnd(e) {
+        var isCopyrightEnabled:Bool = OptionsAPI.getPreference("geekoff-options", "copyrightOption");
+        var copyrightPower:String;
+        var onFormat = new FlxTextFormat(0x00C410, false, false, 0x025419);
+        var offFormat = new FlxTextFormat(0xFF0000, false, false, 0xFFFFFF);
+
+        super.onStateChangeEnd(e);
+
+        if (isCopyrightEnabled) {
+                copyrightPower = "on";
+            } else {
+                copyrightPower = "off";
+            }
+
+        if (e.targetState is StoryMenuState) {
+            copyrightNotice = new FlxText(440, 570, FlxG.width, "Copyright Friendly Mode is " + copyrightPower + "!\n\nYou can change this setting\nanytime in the Options menu.", 12);
+            copyrightNotice.zIndex = 100000;
+            copyrightNotice.scrollFactor.set(0, 0);
+            copyrightNotice.setFormat(Paths.font("Helvetica Neue Condensed Black.ttf"), 24, FlxColor.WHITE, "center", FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
+
+            if (isCopyrightEnabled) {
+                copyrightNotice.addFormat(onFormat, 27, 31);
+            } else {
+                copyrightNotice.addFormat(offFormat, 27, 32);
+            }
+
+       }
+    }
+    override function onUpdate(event:UpdateScriptEvent):Void {
+        if (FlxG.state.currentLevelId == 'geek1') {
+            FlxG.state.add(copyrightNotice);
+        } else {
+            FlxG.state.remove(copyrightNotice);
+        }
+        super.onUpdate(event);
+    }   
+}

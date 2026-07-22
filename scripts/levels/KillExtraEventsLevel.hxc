@@ -1,0 +1,14 @@
+import funkin.ui.story.Level;
+
+class KillExtraEventsLevel extends Level {
+    public function new() {super('ee-week');}
+    override function isVisible():Bool {
+        // hides the level from story mode
+        if (OptionsAPI.getPreference("geekoff-options", "killExtraEventsOption")) {return false;} else {return super.isVisible();}
+    }
+    override function getSongs():Array<String> {
+        // overrides the song list to be empty. this is to sidestep the songs still appearing in freeplay
+        if (OptionsAPI.getPreference("geekoff-options", "killExtraEventsOption")) {return [];} else {return super.getSongs();}
+    }
+}
+// good FUCKING riddance - totallyzari
