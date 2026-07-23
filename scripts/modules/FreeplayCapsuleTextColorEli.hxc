@@ -1,0 +1,18 @@
+import funkin.modding.module.Module;
+import funkin.ui.freeplay.FreeplayState;
+import funkin.ui.freeplay.FreeplaySongData;
+import funkin.ui.freeplay.SongMenuItem;
+import flixel.text.FlxText;
+import flixel.text.FlxTextFormat;
+import flixel.util.FlxColor;
+
+class FreeplayCapsuleTextColorEli extends SongMenuItem {
+    public function new() {
+        super("FreeplayCapsuleTextColorEli");
+    }
+
+    override public function createWeekTextGraphic()
+    {
+            var weekTextBase:FlxText = new FlxText(0, 0, 0, text).setFormat("YoureGone-Regular", 20, 0xFF2E2121);
+    }
+}

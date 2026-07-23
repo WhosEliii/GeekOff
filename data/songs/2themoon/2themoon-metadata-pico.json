@@ -13,8 +13,7 @@
  },
  "playData": {
   "difficulties": [
-   "normal",
-   "lucysing"
+   "normal"
   ],
   "characters": {
    "player": "pico-jeeterjuice",
