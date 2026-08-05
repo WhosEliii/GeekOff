@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "name": "GEEK OFF",
+  "titleAsset": "ui/story-mode/levels/geek1",
+  "props": [
+    {
+      "assetPath": "ui/story-mode/props/geeksquad",
+      "scale": 1.0,
+      "offsets": [100, 60],
+      "animations": [
+        {
+          "name": "idle",
+          "prefix": "geek menu",
+          "frameRate": 24
+        }
+      ]
+    }
+  ],
+  "background": "#32776D",
+  "songs": ["cali-clear", "alibarbar", "jeeter-juice"]
+}

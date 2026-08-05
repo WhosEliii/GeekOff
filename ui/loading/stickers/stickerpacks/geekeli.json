@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "name": "GEEK OFF",
+  "artist": "whoseli",
+  "stickers": [
+    "ui/loading/stickers/graphics/stickers-set-geek/eliSticker1",
+    "ui/loading/stickers/graphics/stickers-set-geek/eliSticker2",
+    "ui/loading/stickers/graphics/stickers-set-geek/eliSticker3",
+    "ui/loading/stickers/graphics/stickers-set-geek/miscSticker1",
+    "ui/loading/stickers/graphics/stickers-set-geek/miscSticker2",
+    "ui/loading/stickers/graphics/stickers-set-geek/miscSticker3",
+    "ui/loading/stickers/graphics/stickers-set-geek/miscSticker4",
+    "ui/loading/stickers/graphics/stickers-set-geek/miscSticker5",
+    "ui/loading/stickers/graphics/stickers-set-geek/miscSticker7",
+    "ui/loading/stickers/graphics/stickers-set-geek/miscSticker8"
+  ]
+}

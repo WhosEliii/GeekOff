@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "name": "GEEK OFF",
+  "artist": "whoseli",
+  "stickers": [
+    "ui/loading/stickers/graphics/stickers-set-geek/fakeliSticker",
+    "ui/loading/stickers/graphics/stickers-set-geek/fakenervaSticker"
+  ]
+}

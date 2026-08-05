@@ -1,0 +1,5 @@
+[
+  { "op": "add", "path": "/ownedChars/-", "value": "bf-geek" },
+  { "op": "add", "path": "/ownedChars/-", "value": "bf-jeeterjuice" },
+  { "op": "add", "path": "/ownedChars/-", "value": "bf-h2r" }
+]
