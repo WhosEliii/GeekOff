@@ -4,6 +4,13 @@
   "titleAsset": "ui/story-mode/levels/geek1",
   "background": "#32776D",
   "songs": ["how2roll"],
+  "capsule": {
+		"offsets": [
+			0,
+			0
+		],
+		"name": "B4THEGEEK"
+	},
   "props": [
     {
       "assetPath": "ui/story-mode/props/gf",

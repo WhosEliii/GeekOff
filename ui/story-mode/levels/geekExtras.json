@@ -1,6 +1,9 @@
 {
   "version": "1.0.0",
   "name": "GEEK OFF EXTRAS",
+  "titleAsset": "ui/story-mode/levels/geek1",
   "visible": false,
-  "songs": ["afterthegeek", "2themoon", "boof"]
+  "props": [{"assetPath": "ui/story-mode/props/geeksquad", "offsets": [100, 60], "animations": [{"name": "idle", "prefix": "geek menu", "frameRate": 24}]}],
+  "songs": ["afterthegeek", "2themoon", "boof"],
+  "capsule": {"name": "GEEK OFF"}
 }
