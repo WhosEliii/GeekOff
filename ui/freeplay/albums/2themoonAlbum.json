@@ -1,7 +1,8 @@
 {
   "version": "1.0.0",
-  "name": "Geek Off",
+  "name": "2THEMOON (GEEK OFF)",
   "artists": ["[whos.eli]"],
-  "albumArtAsset": "freeplay/albumRoll/2tmAlbum",
-  "albumTitleAsset": "freeplay/albumRoll/geek-text"
+  "albumArtAsset": "ui/freeplay/albums/2tmAlbum",
+  "albumTitleAsset": "ui/freeplay/albums/geek-text",
+  "albumOSTName": "GEEK OFF OST"
 }

@@ -1,7 +1,8 @@
 {
   "version": "1.0.0",
-  "name": "Geek Off",
+  "name": "JEETER JUICE [PICO] (GEEK OFF)",
   "artists": ["[whos.eli]"],
-  "albumArtAsset": "freeplay/albumRoll/eligeekpicomix",
-  "albumTitleAsset": "freeplay/albumRoll/geek-text"
+  "albumArtAsset": "ui/freeplay/albums/eligeekpicomix",
+  "albumTitleAsset": "ui/freeplay/albums/geek-text",
+  "albumOSTName": "GEEK OFF OST"
 }

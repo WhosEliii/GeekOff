@@ -1,7 +1,8 @@
 {
   "version": "1.0.0",
-  "name": "Geek Off",
+  "name": "HOW2ROLL [PICO] (GEEK OFF)",
   "artists": ["[whos.eli]"],
-  "albumArtAsset": "freeplay/albumRoll/tutpicogeek",
-  "albumTitleAsset": "freeplay/albumRoll/geek-text"
+  "albumArtAsset": "ui/freeplay/albums/tutpicogeek",
+  "albumTitleAsset": "ui/freeplay/albums/geek-text",
+  "albumOSTName": "GEEK OFF OST"
 }
