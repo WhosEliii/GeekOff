@@ -1,3 +1,5 @@
+package geekoff;
+
 import funkin.modding.module.Module;
 import funkin.play.GameOverSubState;
 import funkin.modding.module.Module;

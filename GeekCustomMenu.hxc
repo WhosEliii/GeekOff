@@ -1,3 +1,5 @@
+package geekoff;
+
 import flixel.FlxG;
 import flixel.FlxSprite;
 import funkin.ui.FullScreenScaleMode;
