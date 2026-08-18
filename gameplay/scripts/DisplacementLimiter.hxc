@@ -1,0 +1,34 @@
+package geekoff;
+
+import funkin.modding.module.Module;
+import funkin.modding.module.ModuleHandler;
+import funkin.play.PlayState;
+
+class DisplacementLimiter extends Module {
+    public function new() {
+        super("DisplacementLimiter");
+    }
+
+    var allowedSongs = [
+            'cali-clear',
+            'alibarbar',
+            'jeeter-juice',
+            'afterthegeek',
+            '2themoon',
+            'boof',
+            'how2roll'
+        ];
+
+    override public function onSongStart(event:ScriptEvent):Void {
+		var currentSongId = PlayState.instance.currentSong.id;
+
+        super.onSongStart(event);
+		// Checks three things: if the current song isn't in allowedSongs, if we're ON a song, and if the NCD option in settings is disabled
+        if (!allowedSongs.contains(currentSongId) && currentSongId != null || OptionsAPI.getPreference("geekoff-options", "NCDOption") == false) {
+			// if one of those conditions is met, disable the module
+			ModuleHandler.getModule('Note Camera Displacement').active = false;
+		} else {
+            ModuleHandler.getModule('Note Camera Displacement').active = true;
+        }
+    }
+}
